@@ -184,6 +184,20 @@ public sealed class SmartEquipSystem : EntitySystem
         // case 3 (itemslot item):
         if (TryComp<ItemSlotsComponent>(slotItem, out var slots))
         {
+            // Mriya: хоткей швидкого доступу дістає сам предмет,а не його вміст start
+            if (handItem == null && (_slots.TryGetSlot(slotItem, "gun_magazine", out _) || _slots.TryGetSlot(slotItem, "cell_slot", out _)))
+            {
+                if (!_inventory.CanUnequip(uid, equipmentSlot, out var unequipReason))
+                {
+                    _popup.PopupClient(Loc.GetString(unequipReason), uid, uid);
+                    return;
+                }
+
+                _inventory.TryUnequip(uid, equipmentSlot, inventory: inventory, predicted: true, checkDoafter: true);
+                _hands.TryPickup(uid, slotItem, handsComp: hands);
+                return;
+            }
+            // Mriya: хоткей швидкого доступу дістає сам предмет,а не його вміст end
             if (handItem == null)
             {
                 ItemSlot? toEjectFrom = null;
