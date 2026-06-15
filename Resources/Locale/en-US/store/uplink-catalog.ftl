@@ -27,9 +27,6 @@ uplink-edagger-desc = Маленький енергетичний кинджал
 uplink-fire-axe-flaming-name = Пожежна сокира
 uplink-fire-axe-flaming-desc = Класична зброя, наповнена передовими атмосферними технологіями, що дозволяє підпалювати цілі. Тепер із міцною прогумованою ручкою!
 
-uplink-fire-axe-flaming-name = Fire Axe
-uplink-fire-axe-flaming-desc = A classic-style weapon infused with advanced atmos technology to allow it to set targets on fire. Now with rugged rubberized handle!
-
 uplink-gloves-north-star-name = Рукавички Полярної зірки
 uplink-gloves-north-star-desc = Пара рукавичок, які суттєво пришвидшують ваші удари, дозволяючи вам забити людей до смерті серією серйозних ударів.
 

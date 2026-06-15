@@ -22,7 +22,19 @@ public sealed class LizardAccentSystem : EntitySystem
     {
         var message = args.Message;
 
-        // hissss
+        // Ссспи
+        message = Regex.Replace(message, "с+", "ссс");
+        // СССпи
+        message = Regex.Replace(message, "С+", "ССС");
+        // ЩЩЩо?
+        message = Regex.Replace(message, "Щ+", "ЩЩЩ");
+        // щщщо?
+        message = Regex.Replace(message, "щ+", "щщщ");
+        // ШШШо?
+        message = Regex.Replace(message, "Ш+", "ШШШ");
+        // шшшо?
+        message = Regex.Replace(message, "ш+", "шшш");
+		// hissss
         message = RegexLowerS.Replace(message, "sss");
         // hiSSS
         message = RegexUpperS.Replace(message, "SSS");

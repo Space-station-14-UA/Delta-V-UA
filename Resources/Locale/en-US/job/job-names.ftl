@@ -58,13 +58,11 @@ job-name-warden = Наглядач
 # these are required for the agent ID job icon tooltips
 # I am keeping them for roleplaying opportunities
 job-name-geneticist = Генетик
-job-name-boxer = Боксер
 job-name-no-id = Без ID-картки
 job-name-prisoner = В'язень
 job-name-roboticist = Робототехнік
 job-name-unknown = Невідомо
 job-name-virologist = Вірусолог
-job-name-zookeeper = Зоокіпер
 
 # antagonist jobs
 job-name-ninja = Ніндзя

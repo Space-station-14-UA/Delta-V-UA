@@ -18,4 +18,4 @@ armor-damage-type-poison = Отруйна
 armor-damage-type-shock = Шокова
 armor-damage-type-structural = Структурна
 # DeltaV - moved to _DV file
-armor-damage-type-holy = Свята
+# armor-damage-type-holy = Свята

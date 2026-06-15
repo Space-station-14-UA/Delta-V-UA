@@ -93,8 +93,6 @@ ghost-role-information-kobold-description = Будь маленьким грем
 
 ghost-role-information-rat-king-name = Щурячий король
 
-ghost-role-information-rat-king-description = ghost-role-information-rat-king-description = Ви — Король Щурів, вас цікавить їжа, їжа і ще раз їжа. Боріться зі станцією заради їжі. Я вже казав, що вас цікавить їжа?
-
 ghost-role-information-rat-servant-name = Щур-слуга
 ghost-role-information-rat-servant-description = Ви Слуга-Щур. Ви повинні виконувати накази свого короля.
 
