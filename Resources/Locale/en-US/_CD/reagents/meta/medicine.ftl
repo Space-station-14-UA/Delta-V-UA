@@ -1,29 +1,29 @@
-reagent-name-serenitol = Serenitol
-reagent-desc-serenitol = A fairly unreactive chemical that has mild antidepressant properties. Originally used to help patients overcome the loss of a pet or family friend, it is fairly safe to administer.
+reagent-name-serenitol = Серенітол
+reagent-desc-serenitol = Досить нереактивна хімічна речовина, яка має легкі антидепресивні властивості. Спочатку використовувалася, щоб допомогти пацієнтам подолати втрату домашньої тварини або друга сім'ї, і її досить безпечно застосовувати.
 
-reagent-name-neurozenium = Neurozenium
-reagent-desc-neurozenium = Once considered child-safe shoe polish, Neurozenium was found to be a fairly effective antidepressant in an impressive zero-to-hero story. Do not take it with alcohol in your system. Consult a doctor before combining with other medications.
+reagent-name-neurozenium = Нейрозеніум
+reagent-desc-neurozenium = Колись вважався безпечним для дітей кремом для взуття, але «Нейрозеніум» виявився досить ефективним антидепресантом у вражаючій історії «від нуля до героя». Не приймайте його з алкоголем. Проконсультуйтеся з лікарем, перш ніж поєднувати його з іншими ліками.
 
-reagent-name-blissifylovene = Blissifylovene
-reagent-desc-blissifylovene = A military-grade antidepressant with a very low dosage. Very powerful, though it is often considered a last resort due to its interactions with other medications and psychosis-inducing overdoses. Addictive in all but the smallest of doses.
+reagent-name-blissifylovene = Бліссіфаловес
+reagent-desc-blissifylovene = Антидепресант військового класу з дуже низьким дозуванням. Дуже потужний, хоча часто вважається крайнім засобом через його взаємодію з іншими ліками та передозування, що викликають психоз. Викликає залежність у всіх дозах, окрім найменших.
 
-reagent-name-calmafluxine = Calmafluxine
-reagent-desc-calmafluxine = A mild, over-the-counter anxiety medication. Commonly prescribed to children as the body naturally flushes out any excess medication, making overdose functionally impossible.
+reagent-name-calmafluxine = Калмафлуксин
+reagent-desc-calmafluxine = М’який безрецептурний препарат від тривожності. Зазвичай призначається дітям, оскільки організм природним чином виводить надлишки ліків, що робить передозування практично неможливим.
 
-reagent-name-tranquinase = Tranquinase
-reagent-desc-tranquinase = Run-of-the-mill anxiety medication. Derived from an old recipe for space bear tranquilizer, it causes tranquility and motivation. Causes intense grogginess during overdose. Do not take with alcohol.
+reagent-name-tranquinase = Транквіназа
+reagent-desc-tranquinase = Звичайний засіб від тривоги. Отриманий за старим рецептом транквілізатора «космічний ведмідь», він викликає спокій і мотивацію. Викликає сильну запаморочення під час передозування. Не приймайте з алкоголем.
 
-reagent-name-equilibrazine = Equilibrazine
-reagent-desc-equilibrazine = A Nanotrasen engineered chemical recipe designed to keep workers working with only small doses. It didn't make the cut, but it functions as a potent treatment for anxiety and panic attacks. Can be taken fine with alcohol, but is wildly incompatible with most antidepressants.
+reagent-name-equilibrazine = Еквілібразин
+reagent-desc-equilibrazine = Хімічний рецепт, розроблений компанією Нанотрасен, призначений для того, щоб працівники могли працювати лише з малими дозами. Він не пройшов відбір, але функціонує як потужний засіб від тривоги та панічних атак. Його можна приймати з алкоголем, але він абсолютно несумісний з більшістю антидепресантів.
 
-reagent-name-addictine = addictine
-reagent-desc-addictine = A chemical produced by the body when metabolizing certain medications. Causes symptoms of withdrawl. Neutralizes bloodstream cleansers like charcoal and ipecac. 
+reagent-name-addictine = залежність
+reagent-desc-addictine = Хімічна речовина, що виробляється організмом під час метаболізму певних ліків. Викликає симптоми абстиненції. Нейтралізує засоби для очищення крові, такі як активоване вугілля та іпекакуана.
 
-reagent-name-stubantazine = Stubantazine
-reagent-desc-stubantazine = A mild painkiller commonly used to treat brief stents of pain, though it lasts a little while for good measure. Overdose or consumption of alcohol may cause vomiting and digestion inefficiency.
+reagent-name-stubantazine = Стубантазин
+reagent-desc-stubantazine = Легкий знеболювальний засіб, який зазвичай використовується для лікування короткочасних болючих відчуттів, хоча для кращого результату його дія триває недовго. Передозування або вживання алкоголю може спричинити блювоту та порушення травлення.
 
-reagent-name-soretizone = Soretizone
-reagent-desc-soretizone = A fairly effective painkiller developed to treat chronic pain. It works for cases that Stubantazine won't solve. Overdoses will knock you right out. High doses may cause addiction. Does not conflict with reasonable amounts of alcohol.
+reagent-name-soretizone = Соретизон
+reagent-desc-soretizone = Досить ефективний знеболювальний засіб, розроблений для лікування хронічного болю. Він працює у випадках, які не вирішує стубантазин. Передозування призведе до повного знепритомнення. Високі дози можуть викликати залежність. Не суперечить розумній кількості алкоголю.
 
-reagent-name-agonolexyne = Agonolexyne
-reagent-desc-agonolexyne = An incredibly potent and fast acting opioid invented to speed up the application of painkillers during surgery. Stops you from feeling pain (or really anything at all). Interacts poorly with alcohol. Known to be very addictive. Overdose may relax the lungs to the point of non-function.
+reagent-name-agonolexyne = Агонолексин
+reagent-desc-agonolexyne = Неймовірно потужний та швидкодіючий опіоїд, винайдений для пришвидшення застосування знеболювальних під час операції. Зупиняє відчуття болю (та взагалі будь-якого болю). Погано взаємодіє з алкоголем. Відомий своєю сильною залежністю. Передозування може розслабити легені до такої міри, що вони взагалі їх не виконують.

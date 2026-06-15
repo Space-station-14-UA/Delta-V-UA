@@ -1,11 +1,11 @@
-admin-player-actions-window-cd-record-purge = Modify Character Records
-cd-actions-admin-modify-records = Modify Character Records
-cd-actions-admin-modify-reset = Reset Records
-cd-actions-admin-modify-del-entry = Delete Entry
+admin-player-actions-window-cd-record-purge = Змінити записи персонажів
+cd-actions-admin-modify-records = Змінити записи персонажів
+cd-actions-admin-modify-reset = Скинути записи
+cd-actions-admin-modify-del-entry = Видалити запис
 
-cd-eventpreferencepanel-title = Event Preference View
-cd-eventpreferencepanel-player = Player: {$player}
-cd-eventpreferencepanel-character = Character: {$characterName}
+cd-eventpreferencepanel-title = Перегляд налаштувань події
+cd-eventpreferencepanel-player = Гравець: {$player}
+cd-eventpreferencepanel-character = Персонаж: {$characterName}
 
-cmd-eventpreferences-help = Usage: eventpreferences <name>
-cmd-eventpreferences-desc = Displays a player's current character's event preferences (i.e. antags)
+cmd-eventpreferences-help = Використання: налаштування подій <name>
+cmd-eventpreferences-desc = Відображає налаштування подій поточного персонажа гравця (тобто антаги)

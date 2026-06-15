@@ -1,16 +1,16 @@
-guide-entry-cd-records = Character Records
-guide-entry-rules-cd = Cosmatic Drift Rules
+guide-entry-cd-records = Записи персонажів
+guide-entry-rules-cd = Правила космічного дрейфу
 
-guide-entry-cd = Cosmatic Drift Content
-guide-entry-cd-newplayer = Welcome to Cosmatic Drift!
+guide-entry-cd = Космічний дрейф
+guide-entry-cd-newplayer = Ласкаво просимо до Космічного Дрейфу!
 
-guide-entry-rules-ic = In Character Policy
-guide-entry-rules-sop-core = Standard Operating Procedure
-guide-entry-rules-sop-restricted = List of Restricted Items
-guide-entry-rules-sop-command = Command
-guide-entry-rules-sop-sec = Security
-guide-entry-rules-sop-engi = Engineering
-guide-entry-rules-sop-med = Medical
-guide-entry-rules-sop-sci = Science
-guide-entry-rules-sop-cargo = Cargo
-guide-entry-rules-sop-service = Service
+guide-entry-rules-ic = Політика щодо внесення змін до персонажа
+guide-entry-rules-sop-core = Стандартна операційна процедура
+guide-entry-rules-sop-restricted = Список заборонених товарів
+guide-entry-rules-sop-command = Команда
+guide-entry-rules-sop-sec = Безпека
+guide-entry-rules-sop-engi = Інженерія
+guide-entry-rules-sop-med = Медицина
+guide-entry-rules-sop-sci = Наука
+guide-entry-rules-sop-cargo = Вантаж
+guide-entry-rules-sop-service = Сервіс
