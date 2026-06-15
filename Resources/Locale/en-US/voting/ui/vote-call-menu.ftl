@@ -1,27 +1,27 @@
-ui-vote-type-restart = Restart round
-ui-vote-type-gamemode = Next gamemode
-ui-vote-type-map = Next map
+ui-vote-type-restart = Перезапуск раунду
+ui-vote-type-gamemode = Вибір режиму
+ui-vote-type-map = Інша карта
 ui-vote-type-votekick = Votekick
 
 # Votekick reasons
-ui-vote-votekick-type-raiding = Raiding
-ui-vote-votekick-type-cheating = Cheating
-ui-vote-votekick-type-spamming = Spamming
+ui-vote-votekick-type-raiding = Рейдерство
+ui-vote-votekick-type-cheating = Читерство
+ui-vote-votekick-type-spamming = Спам
 
 # Window title of the vote create menu
-ui-vote-create-title = Call Vote
+ui-vote-create-title = Голосування
 
 # Submit button in the vote create button
-ui-vote-create-button = Call Vote
+ui-vote-create-button = Голосування
 
 # Follow button in the vote create menu
 ui-vote-follow-button = Follow User
 
 # Timeout text if a standard vote type is currently on timeout.
-ui-vote-type-timeout = This vote was called too recently ({$remaining})
+ui-vote-type-timeout = Це голосування вже нещодавно відбулось. Зачекайте: ({$remaining})
 
 # Unavailable text if a vote type has been disabled manually.
-ui-vote-type-not-available = This vote type has been disabled
+ui-vote-type-not-available = Цей тип голосування вимкнено.
 
 # Vote option only available for specific users.
 ui-vote-trusted-users-notice =
@@ -34,9 +34,9 @@ ui-vote-abuse-warning =
   Abuse of the votekick system may result in an indefinite ban!
 
 # Hue hue hue
-ui-vote-fluff = Powered by Robust™ Anti-Tamper Technology
+ui-vote-fluff = Технологія «Антиледащо» від компанії Робуста™
 
 ## Vote menu command
 
-cmd-votemenu-desc = Opens the voting menu.
-cmd-votemenu-help = Usage: votemenu
+cmd-votemenu-desc = Відкрити меню голосування
+cmd-votemenu-help = Використовуйте: votemenu

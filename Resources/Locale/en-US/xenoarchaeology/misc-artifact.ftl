@@ -1,7 +1,7 @@
-blink-artifact-popup = The artifact disappeared in an instant!
-foam-artifact-popup = Strange foam pours out of the artifact!
+blink-artifact-popup = Артефакт зник у мить ока!
+foam-artifact-popup = З артефакту ллється дивна піна!
 
-shuffle-artifact-popup = You feel yourself teleport instantly!
-charge-artifact-popup = You feel the air buzz with electricity.
+shuffle-artifact-popup = Ви відчуваєте, що миттєво телепортуєтесь!
+charge-artifact-popup = Ви відчуваєте, як повітря дзижчить електрикою.
 
-activate-artifact-popup-self = You activate node {$node}.
+activate-artifact-popup-self = Ви активували вузол {$node}.

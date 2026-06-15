@@ -1,7 +1,7 @@
-stunnable-component-disarm-success-others = {CAPITALIZE(THE($source))} pushes {THE($target)}!
-stunnable-component-disarm-success = You push {THE($target)}!
-knockdown-component-pushup-failure = You're too exhausted to push yourself up!
+stunnable-component-disarm-success-others = {CAPITALIZE($source)} штовхнув {$target}!
+stunnable-component-disarm-success = Ви штовхнули {$target}!
+knockdown-component-pushup-failure = Ви надто виснажені, щоб піднятися!
 # DeltaV - Added a bit about needing a free hand.
-knockdown-component-pushup-success = With a burst of energy, you push yourself up with one of your free hands!
-knockdown-component-stand-no-room = You try to push yourself to stand up but there's not enough room!
-worm-component-stand-attempt = You try to stand up but you cannot!
+knockdown-component-pushup-success = Сплеском енергії ви піднімаєтеся!
+knockdown-component-stand-no-room = Ви намагаєтеся встати, але місця недостатньо!
+worm-component-stand-attempt = Ви намагаєтеся встати, але не можете!

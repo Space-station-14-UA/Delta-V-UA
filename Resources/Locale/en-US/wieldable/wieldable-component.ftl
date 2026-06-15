@@ -1,23 +1,23 @@
 ### Locale for wielding items; i.e. two-handing them
 
-wieldable-verb-text-wield = Wield
-wieldable-verb-text-unwield = Unwield
+wieldable-verb-text-wield = Схопити
+wieldable-verb-text-unwield = Відпустити
 
-wieldable-component-successful-wield = You wield { THE($item) }.
-wieldable-component-failed-wield = You unwield { THE($item) }.
-wieldable-component-successful-wield-other = { CAPITALIZE(THE($user)) } wields { THE($item) }.
-wieldable-component-failed-wield-other = { CAPITALIZE(THE($user)) } unwields { THE($item) }.
-wieldable-component-blocked-wield = { CAPITALIZE(THE($blocker)) } blocks you from wielding { THE($item) }.
+wieldable-component-successful-wield = { CAPITALIZE($item) } у ваших руках.
+wieldable-component-failed-wield = { CAPITALIZE($item) } не у ваших руках.
+wieldable-component-successful-wield-other = { CAPITALIZE($user) } тримає у руках наступне: { $item }.
+wieldable-component-failed-wield-other = { CAPITALIZE($user) } не тримає у руках наступне: { $item }.
+wieldable-component-blocked-wield = { CAPITALIZE($blocker) } заважає вам взяти { $item } двома руками.
 
-wieldable-component-no-hands = You don't have enough hands!
-wieldable-component-not-enough-free-hands = {$number ->
-    [one] You need a free hand to wield { THE($item) }.
-    *[other] You need { $number } free hands to wield { THE($item) }.
+wieldable-component-no-hands = У вас недостатньо рук!
+wieldable-component-not-enough-free-hands = {$number -> 
+    [one] Вам потрібна вільна рука, щоб схопити цей предмет: { THE($item) }.
+    *[other] Вам потрібно { $number } вільних руки, шоб схопити цей предмет: { THE($item) }.
 }
-wieldable-component-not-in-hands = { CAPITALIZE(THE($item)) } isn't in your hands!
+wieldable-component-not-in-hands = { CAPITALIZE($item) } не у ваших руках!
 
 wieldable-component-requires = { CAPITALIZE(THE($item))} must be wielded!
 
-gunwieldbonus-component-examine = This weapon has improved accuracy when wielded.
+gunwieldbonus-component-examine = Ця зброя має підвищену точність стрільби.
 
-gunrequireswield-component-examine = This weapon can only be fired when wielded.
+gunrequireswield-component-examine = З цієї зброї можна стріляти лише тоді, коли вона в обох руках.

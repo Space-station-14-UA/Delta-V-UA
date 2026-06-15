@@ -1,5 +1,5 @@
-tesla-coil-on = The tesla coil turns on.
-tesla-coil-off = The tesla coil turns off.
+tesla-coil-on = Катушка Тесли вмикається.
+tesla-coil-off = Катушка Тесли вимикається.
 
-tesla-grounding-on = The grounding rod turns on.
-tesla-grounding-off = The grounding rod turns off.
+tesla-grounding-on = Стержень заземлення вмикається.
+tesla-grounding-off = Стержень заземлення вимикається.
