@@ -2,98 +2,98 @@
 
 ## Window
 
-air-alarm-ui-title = Air Alarm
+air-alarm-ui-title = Повітряна сигналізація
 
-air-alarm-ui-access-denied = Insufficient access!
+air-alarm-ui-access-denied = Недостатньо доступу!
 
-air-alarm-ui-window-pressure-label = Pressure
-air-alarm-ui-window-temperature-label = Temperature
-air-alarm-ui-window-alarm-state-label = Status
+air-alarm-ui-window-pressure-label = Тиск
+air-alarm-ui-window-temperature-label = Температура
+air-alarm-ui-window-alarm-state-label = Стан
 
-air-alarm-ui-window-address-label = Address
-air-alarm-ui-window-device-count-label = Total Devices
-air-alarm-ui-window-resync-devices-label = Resync
+air-alarm-ui-window-address-label = Адреса
+air-alarm-ui-window-device-count-label = Всього пристроїв
+air-alarm-ui-window-resync-devices-label = Пересинхронізація
 
-air-alarm-ui-window-mode-label = Mode
-air-alarm-ui-window-mode-select-locked-label = [bold][color=red] Mode selector failure! [/color][/bold]
-air-alarm-ui-window-auto-mode-label = Auto mode
+air-alarm-ui-window-mode-label = Режим
+air-alarm-ui-window-mode-select-locked-label = [bold][color=red] Збій селектора режимів! [/color][/bold]
+air-alarm-ui-window-auto-mode-label = Автоматичний режим
 
 -air-alarm-state-name = { $state ->
-    [normal] Normal
-    [warning] Warning
-    [danger] Danger
-    [emagged] Emagged
-   *[invalid] Invalid
+    [normal] Нормально
+    [warning] Увага
+    [danger] Небезпечно
+    [emagged] Взламаний
+   *[invalid] Невідомо
 }
 
 air-alarm-ui-window-listing-title = {$address} : {-air-alarm-state-name(state:$state)}
-air-alarm-ui-window-pressure = {$pressure} kPa
-air-alarm-ui-window-pressure-indicator = Pressure: [color={$color}]{$pressure} kPa[/color]
-air-alarm-ui-window-temperature = {$tempC} C ({$temperature} K)
-air-alarm-ui-window-temperature-indicator = Temperature: [color={$color}]{$tempC} C ({$temperature} K)[/color]
-air-alarm-ui-window-alarm-state = [color={$color}]{-air-alarm-state-name(state:$state)}[/color]
-air-alarm-ui-window-alarm-state-indicator = Status: [color={$color}]{-air-alarm-state-name(state:$state)}[/color]
+air-alarm-ui-window-pressure = {$pressure} кПа
+air-alarm-ui-window-pressure-indicator = Тиск: [color={$color}]{$pressure} кПа[/color]
+air-alarm-ui-window-temperature = {$tempC} Ц ({$temperature} K)
+air-alarm-ui-window-temperature-indicator = Temperature: [color={$color}]{$tempC} Ц ({$temperature} K)[/color]
+air-alarm-ui-window-alarm-state = [color={$color}]{$state}[/color]
+air-alarm-ui-window-alarm-state-indicator = Стан: [color={$color}]{$state}[/color]
 
-air-alarm-ui-window-tab-vents = Vents
-air-alarm-ui-window-tab-scrubbers = Scrubbers
-air-alarm-ui-window-tab-sensors = Sensors
+air-alarm-ui-window-tab-vents = Вентиляція
+air-alarm-ui-window-tab-scrubbers = Скруббери
+air-alarm-ui-window-tab-sensors = Сенсори
 
-air-alarm-ui-gases = {$gas}: {$amount} mol ({$percentage}%)
-air-alarm-ui-gases-indicator = {$gas}: [color={$color}]{$amount} mol ({$percentage}%)[/color]
+air-alarm-ui-gases = {$gas}: {$amount} моль ({$percentage}%)
+air-alarm-ui-gases-indicator = {$gas}: [color={$color}]{$amount} моль ({$percentage}%)[/color]
 
-air-alarm-ui-mode-filtering = Filtering
-air-alarm-ui-mode-wide-filtering = Filtering (wide)
-air-alarm-ui-mode-fill = Fill
-air-alarm-ui-mode-panic = Panic
-air-alarm-ui-mode-none = None
+air-alarm-ui-mode-filtering = Фільтрація
+air-alarm-ui-mode-wide-filtering = Фільтрування (широке)
+air-alarm-ui-mode-fill = Заповнення
+air-alarm-ui-mode-panic = Всасування (Паніка)
+air-alarm-ui-mode-none = Немає
 
 
-air-alarm-ui-pump-direction-siphoning = Siphoning
-air-alarm-ui-pump-direction-scrubbing = Scrubbing
-air-alarm-ui-pump-direction-releasing = Releasing
+air-alarm-ui-pump-direction-siphoning = Відсмоктування
+air-alarm-ui-pump-direction-scrubbing = Очищення
+air-alarm-ui-pump-direction-releasing = Випуск
 
-air-alarm-ui-pressure-bound-nobound = No Bound
-air-alarm-ui-pressure-bound-internalbound = Internal Bound
-air-alarm-ui-pressure-bound-externalbound = External Bound
-air-alarm-ui-pressure-bound-both = Both
+air-alarm-ui-pressure-bound-nobound = Без обмежень
+air-alarm-ui-pressure-bound-internalbound = Внутрішнє обмеження
+air-alarm-ui-pressure-bound-externalbound = Зовнішнє обмеження
+air-alarm-ui-pressure-bound-both = Обидва
 
-air-alarm-ui-widget-gas-filters = Gas Filters
+air-alarm-ui-widget-gas-filters = Газові фільтри
 
 ## Widgets
 
 ### General
 
-air-alarm-ui-widget-enable = Enabled
-air-alarm-ui-widget-copy = Copy settings to similar devices
-air-alarm-ui-widget-copy-tooltip = Copies the settings of this device to all devices in this air alarm tab.
-air-alarm-ui-widget-ignore = Ignore
-air-alarm-ui-atmos-net-device-label = Address: {$address}
+air-alarm-ui-widget-enable = Ввімкнено
+air-alarm-ui-widget-copy = Копіювати налаштування на подібні пристрої
+air-alarm-ui-widget-copy-tooltip = Копіює налаштування цього пристрою на всі пристрої на цій вкладці повітряної тривоги.
+air-alarm-ui-widget-ignore = Ігнорувати
+air-alarm-ui-atmos-net-device-label = Адреса: {$address}
 
 ### Vent pumps
 
-air-alarm-ui-vent-pump-label = Vent direction
-air-alarm-ui-vent-pressure-label = Pressure bound
-air-alarm-ui-vent-external-bound-label = External bound
-air-alarm-ui-vent-internal-bound-label = Internal bound
+air-alarm-ui-vent-pump-label = Напрямок вентиляції
+air-alarm-ui-vent-pressure-label = Обмеження тиску
+air-alarm-ui-vent-external-bound-label = Зовнішнє обмеження
+air-alarm-ui-vent-internal-bound-label = Внутрішнє обмеження
 
 ### Scrubbers
 
-air-alarm-ui-scrubber-pump-direction-label = Direction
-air-alarm-ui-scrubber-volume-rate-label = Rate (L)
-air-alarm-ui-scrubber-wide-net-label = WideNet
-air-alarm-ui-scrubber-select-all-gases-label = Select all
-air-alarm-ui-scrubber-deselect-all-gases-label = Deselect all
+air-alarm-ui-scrubber-pump-direction-label = Напрямок
+air-alarm-ui-scrubber-volume-rate-label = Швидкість (Л)
+air-alarm-ui-scrubber-wide-net-label = Широка мережа (WideNet)
+air-alarm-ui-scrubber-select-all-gases-label = Вибрати всі
+air-alarm-ui-scrubber-deselect-all-gases-label = Скасувати всі
 
 ### Thresholds
 
-air-alarm-ui-sensor-gases = Gases
-air-alarm-ui-sensor-thresholds = Thresholds
-air-alarm-ui-thresholds-pressure-title = Thresholds (kPa)
-air-alarm-ui-thresholds-temperature-title = Thresholds (K)
-air-alarm-ui-thresholds-gas-title = Thresholds (%)
-air-alarm-ui-thresholds-upper-bound = Danger above
-air-alarm-ui-thresholds-lower-bound = Danger below
-air-alarm-ui-thresholds-upper-warning-bound = Warning above
-air-alarm-ui-thresholds-lower-warning-bound = Warning below
-air-alarm-ui-thresholds-copy = Copy thresholds to all devices
-air-alarm-ui-thresholds-copy-tooltip = Copies the sensor thresholds of this device to all devices in this air alarm tab.
+air-alarm-ui-sensor-gases = Гази
+air-alarm-ui-sensor-thresholds = Граничні значення
+air-alarm-ui-thresholds-pressure-title = Граничні значення (кПа)
+air-alarm-ui-thresholds-temperature-title = Граничні значення (К)
+air-alarm-ui-thresholds-gas-title = Граничні значення (%)
+air-alarm-ui-thresholds-upper-bound = Небезпека вище
+air-alarm-ui-thresholds-lower-bound = Небезпека нижче
+air-alarm-ui-thresholds-upper-warning-bound = Попередження вище
+air-alarm-ui-thresholds-lower-warning-bound = Попередження нижче
+air-alarm-ui-thresholds-copy = Копіювання граничних значень на всі пристрої
+air-alarm-ui-thresholds-copy-tooltip = Копіює граничні значення датчика цього пристрою на всі пристрої на цій вкладці повітряної тривоги.

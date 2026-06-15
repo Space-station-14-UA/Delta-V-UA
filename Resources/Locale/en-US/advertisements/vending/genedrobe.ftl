@@ -1,3 +1,2 @@
-advertisement-genedrobe-1 = Perfect for the mad scientist in you!
-advertisement-genedrobe-2 = Experimenting with monkeys is more fun than you think!
-
+advertisement-genedrobe-1 = Ідеально підходить для божевільного вченого!
+advertisement-genedrobe-2 = Експериментувати з мавпами веселіше, ніж ви думаєте!

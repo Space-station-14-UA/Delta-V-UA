@@ -1,7 +1,7 @@
-﻿advertisement-chang-1 = Taste 5000 years of culture!
-advertisement-chang-2 = Mr. Chang, approved for safe consumption in over 10 sectors!
-advertisement-chang-3 = Chinese food is great for a date night, or a lonely night!
-advertisement-chang-4 = You can't go wrong with Mr. Chang's authentic Chinese food!
-advertisement-chang-5 = 100% authentic Chinese food!
-thankyou-chang-1 = Mr. Chang says thank you!
-thankyou-chang-2 = Enjoy your authentic meal!
+﻿advertisement-chang-1 = Скуштуйте 5000 років культури!
+advertisement-chang-2 = Ролтон, схвалений до безпечного вживання в більш ніж 10 галузях!
+advertisement-chang-3 = Ролтон відмінно підходить для вечора побачення, або самотнього вечора!
+advertisement-chang-4 = Ви не помилитеся, скуштувавши справжній Ролтон з лисиці капітана!
+advertisement-chang-5 = 100% справжня китайська їжа!
+thankyou-chang-1 = Пан Чан дякує!
+thankyou-chang-2 = Насолоджуйтесь автентичною стравою!

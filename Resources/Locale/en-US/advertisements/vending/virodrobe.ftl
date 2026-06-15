@@ -1,3 +1,3 @@
-advertisement-virodrobe-1 = Viruses getting you down? Then upgrade to sterilized clothing today!
-advertisement-virodrobe-2 = Feeling ill? These outfits will help restrict the spread of that nasty disease... I think.
-advertisement-virodrobe-3 = Protects you against all nasty diseases!
+advertisement-virodrobe-1 = Віруси тебе дістали? Тоді переходьте на стерильний одяг вже сьогодні!
+advertisement-virodrobe-2 = Відчуваєш себе погано? Це вбрання допоможе обмежити поширення цієї гидкої хвороби... Мабуть.
+advertisement-virodrobe-3 = Захищає від усіх неприємних хвороб!

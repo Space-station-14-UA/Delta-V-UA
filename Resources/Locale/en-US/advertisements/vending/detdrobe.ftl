@@ -1,3 +1,3 @@
-advertisement-detdrobe-1 = Apply your brilliant deductive methods in style!
-advertisement-detdrobe-2 = Come here and dress up like Sherlock Holmes!
-advertisement-detdrobe-3 = Our outfits are very conservative!
+advertisement-detdrobe-1 = Стиль справжнього детектива!
+advertisement-detdrobe-2 = Іди сюди і вдягнися, як Шерлок Холмс!
+advertisement-detdrobe-3 = Наші вбрання дуже консервативні!
