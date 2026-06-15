@@ -1,48 +1,48 @@
 
 ### UI
 
-rcd-component-examine-mode-details = It's currently set to '{$mode}' mode.
-rcd-component-examine-build-details = It's currently set to build {MAKEPLURAL($name)}.
+rcd-component-examine-mode-details = Наразі він встановлений на режим '{$mode}'.
+rcd-component-examine-build-details = Наразі він налаштований на збірку {MAKEPLURAL($name)}.
 
 
 ### Interaction Messages
 
 # Mode change
-rcd-component-change-mode = The RCD is now set to '{$mode}' mode.
-rcd-component-change-build-mode = The RCD is now set to build {MAKEPLURAL($name)}.
+rcd-component-change-mode = ПШБ тепер налаштований на режим '{$mode}'.
+rcd-component-change-build-mode = Тепер ПШБ налаштовано на будівництво {MAKEPLURAL($name)}.
 
 # Ammo count
-rcd-component-no-ammo-message = The RCD has run out of charges!
-rcd-component-insufficient-ammo-message = The RCD doesn't have enough charges left!
+rcd-component-no-ammo-message = У ПШБ закінчилися заряди!
+rcd-component-insufficient-ammo-message = У ПШБ не вистачає зарядів!
 
 # Deconstruction
-rcd-component-tile-indestructible-message = That tile can't be destructed!
-rcd-component-deconstruct-target-not-on-whitelist-message = You can't deconstruct that!
-rcd-component-nothing-to-deconstruct-message = There's nothing to deconstruct!
-rcd-component-tile-obstructed-message = You can't deconstruct tiles when there's something on top of them!
+rcd-component-tile-indestructible-message = Цю плитку неможливо знищити!
+rcd-component-deconstruct-target-not-on-whitelist-message = Ви не можете демонтувати це!
+rcd-component-nothing-to-deconstruct-message = Тут немає чого демонтувати!
+rcd-component-tile-obstructed-message = Ви не можете зруйнувати плитку, коли на ній щось лежить!
 
 # Construction
-rcd-component-no-valid-grid = You're too far into open space to build here!
-rcd-component-must-build-on-empty-tile-message = A foundation already exists here!
-rcd-component-cannot-build-on-empty-tile-message = You can't build that without a foundation!
-rcd-component-must-build-on-subfloor-message = You can only build that on exposed subfloor!
-rcd-component-cannot-build-on-subfloor-message = You can't build that on exposed subfloor!
-rcd-component-cannot-build-on-occupied-tile-message = You can't build here, the space is already occupied!
-rcd-component-cannot-build-identical-tile = That tile already exists there!
-rcd-component-cannot-build-identical-entity = That already exists there!
+rcd-component-no-valid-grid = Ви занадто далеко в відкритому космосі, задля того, щоб будувати тут!
+rcd-component-must-build-on-empty-tile-message = Тут вже є фундамент!
+rcd-component-cannot-build-on-empty-tile-message = Ви не можете побудувати це без фундаменту!
+rcd-component-must-build-on-subfloor-message = Ви можете будувати це лише на відкритій підлозі!
+rcd-component-cannot-build-on-subfloor-message = Ви не можете побудувати це на відкритій підлозі!
+rcd-component-cannot-build-on-occupied-tile-message = Тут не можна будувати, простір вже зайнятий!
+rcd-component-cannot-build-identical-tile = Ця плитка там вже є!
+rcd-component-cannot-build-identical-entity = Це вже там існує!
 
 
 ### Category names
 
-rcd-component-walls-and-flooring = Walls and flooring
-rcd-component-windows-and-grilles = Windows and grilles
-rcd-component-airlocks = Airlocks
-rcd-component-electrical = Electrical
-rcd-component-lighting = Lighting
+rcd-component-walls-and-flooring = Стіни та підлога
+rcd-component-windows-and-grilles = Вікна та решітки
+rcd-component-airlocks = Шлюзи
+rcd-component-electrical = Електрика
+rcd-component-lighting = Освітлення
 
 
 ### Prototype names (note: constructable items will be puralized)
 
-rcd-component-deconstruct = deconstruct
-rcd-component-floor-steel = steel tile
-rcd-component-plating = hull plate
+rcd-component-deconstruct = демонтувати
+rcd-component-floor-steel = сталева плитка
+rcd-component-plating = листова обшивка

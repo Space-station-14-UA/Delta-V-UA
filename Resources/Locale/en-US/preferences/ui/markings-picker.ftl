@@ -11,11 +11,11 @@ marking-used-forced = {$marking-name} (Forced)
 marking-slot-add = Add
 marking-slot-remove = Remove
 
-humanoid-marking-modifier-force = Force
-humanoid-marking-modifier-ignore-species = Ignore Species
-humanoid-marking-modifier-base-layers = Base layers
-humanoid-marking-modifier-enable = Enable
-humanoid-marking-modifier-prototype-id = Prototype id:
+humanoid-marking-modifier-respect-limits = Дотримуватися лімітів
+humanoid-marking-modifier-respect-group-sex = Дотримуватися обмежень групи та статі
+humanoid-marking-modifier-base-layers = Базові шари
+humanoid-marking-modifier-enable = Увімкнути
+humanoid-marking-modifier-prototype-id = ID прототипу:
 
 # Categories
 

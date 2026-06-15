@@ -1,11 +1,11 @@
-lock-comp-on-examined-is-locked = The {$entityName} seems to be [color=darkred]locked[/color].
-lock-comp-on-examined-is-unlocked = The {$entityName} seems to be [color=darkgreen]unlocked[/color].
-lock-comp-do-lock-success = You lock the {$entityName}.
-lock-comp-do-unlock-success = You unlock the {$entityName}.
-lock-comp-has-user-access-fail = Access denied.
-lock-comp-generic-fail = {CAPITALIZE(SUBJECT($target))} {CONJUGATE-BE($target)} locked.
+lock-comp-on-examined-is-locked = Здається {$entityName} [color=darkred]заблоковано[/color].
+lock-comp-on-examined-is-unlocked = Здається {$entityName} [color=darkgreen]розблоковано[/color].
+lock-comp-do-lock-success = Ти заблокував {$entityName}.
+lock-comp-do-unlock-success = Ти розблокував {$entityName}.
+lock-comp-has-user-access-fail = Відмовлено у доступі.
+lock-comp-generic-fail = {CAPITALIZE(SUBJECT($target))} {CONJUGATE-BE($target)} зачинено.
 
 ## ToggleLockVerb
 
-toggle-lock-verb-unlock = Unlock
-toggle-lock-verb-lock = Lock
+toggle-lock-verb-unlock = Розблокувати
+toggle-lock-verb-lock = Заблокувати

@@ -1,3 +1,3 @@
-﻿teg-generator-examine-power = It's currently supplying [color=yellow]{ POWERWATTS($power) }[/color].
-teg-generator-examine-power-max-output = It's capable of supplying [color=yellow]{ POWERWATTS($power) }[/color].
-teg-generator-examine-connection = To function, a [color=white]circulator[/color] must be attached on both sides.
+teg-generator-examine-power = Він генерує [color=yellow]{ POWERWATTS($power) }[/color].
+teg-generator-examine-power-max-output = Здатний забезпечувати [color=yellow]{ POWERWATTS($power) }[/color].
+teg-generator-examine-connection = Щоб він функціонував, [color=white]циркулятори[/color] мають бути встановлені з обох боків.

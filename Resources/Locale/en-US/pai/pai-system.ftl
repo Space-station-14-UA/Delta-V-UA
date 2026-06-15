@@ -1,25 +1,25 @@
-pai-system-pai-installed = A pAI is installed.
-pai-system-off = No pAI is installed.
-pai-system-still-searching = Still searching for a pAI.
-pai-system-searching = Now searching for a pAI...
+pai-system-pai-installed = ПШІ встановлений.
+pai-system-off = ПШІ встановлений.
+pai-system-still-searching = Все ще шукаю пШІ.
+pai-system-searching = Тепер шукаємо пШІ
 
-pai-system-role-name = Personal AI
-pai-system-role-description = Be someone's electronic pal!
-                              (Memories *not* included.)
-pai-system-role-name-syndicate = Syndicate Personal AI
-pai-system-role-description-syndicate = Be someone's Syndicate pal!
-                                        (Memories *not* included.)
-pai-system-role-name-potato = Potato Artificial Intelligence
-pai-system-role-description-potato = It's a toy for children. And now you live in it.
+pai-system-role-name = персональний ШІ
+pai-system-role-description = Станьте для когось електронним другом!
+                              (Спогади *не* включені.)
+pai-system-role-name-syndicate = персональний ШІ Синдикату
+pai-system-role-description-syndicate = Станьте напарником Синдикату!
+                                        (Спогади *не* включені.)
+pai-system-role-name-potato = картопляний штучний інтелект
+pai-system-role-description-potato = Це іграшка для дітей. А тепер ти в ній живеш.
 
-pai-system-wipe-device-verb-text = Remove pAI
-pai-system-wiped-device = The pAI was wiped from the device.
+pai-system-wipe-device-verb-text = Вилучити пШІ
+pai-system-wiped-device = пШІ було видалено з пристрою.
 
-pai-system-stop-searching-verb-text = Stop searching
-pai-system-stopped-searching = The device stopped searching for a pAI.
+pai-system-stop-searching-verb-text = Зупинити пошук
+pai-system-stopped-searching = Пристрій припинив пошук пШІ.
 
-pai-system-pai-name = { CAPITALIZE(THE($owner)) }'s pAI
-pai-system-pai-name-raw = {$name}'s pAI
+pai-system-pai-name = { CAPITALIZE($owner) } пШІ
+pai-system-pai-name-raw = {$name} пШІ
 
-pai-system-brick-popup = The pAI's circuits loudly pop and fizzle out!
-pai-system-scramble-popup = The pAI's circuits are overloaded with electricity!
+pai-system-brick-popup = Плата пШІ голосно тріскається і шипить!
+pai-system-scramble-popup = Плата пШІ перевантажена електроенергією!

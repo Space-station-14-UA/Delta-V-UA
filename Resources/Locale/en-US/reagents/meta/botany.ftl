@@ -1,26 +1,26 @@
-reagent-name-e-z-nutrient = EZ nutrient
-reagent-desc-e-z-nutrient = Give your plants some of those EZ nutrients! Dionas find this delicious.
+reagent-name-e-z-nutrient = ІзІ пожива
+reagent-desc-e-z-nutrient = Дайте своїм рослинам трохи цієї ІзІ поживи! Легко та дуже ефективно.
 
-reagent-name-left4-zed = left-4-zed
-reagent-desc-left4-zed = A cocktail of mutagenic compounds that gives nutrients, harms and affects plant life's genome.
+reagent-name-left4-zed = ГМК-3000
+reagent-desc-left4-zed = Препарат виготовлений на основі генетично модифікованих комарів початку ХХІ століття. Також випускається під торгівельною маркою Чорнобильсикий Врожай-500: "Кухарі будуть в шоці від розмірів вашої городини чи фруктів, думаючі, чи не з Чорнобиля часом вони". Працює, як мутаген, але здатність до мутування зберігається й у нащадків рослин. В ідеалі комбінуйте з самим мутагеном.
 
-reagent-name-pest-killer = pest killer
-reagent-desc-pest-killer = A mixture that targets pests. While useful it slowly poisons plants with toxins, be careful when using it.
+reagent-name-pest-killer = засіб для знищення шкідників
+reagent-desc-pest-killer = Токсична для всяких комах та їм подібних суміш. Покажіть їм, що це ваші рослини! Не розпиляти на ніан та арахнідів.
 
-reagent-name-plant-b-gone = plant-B-gone
-reagent-desc-plant-b-gone = A harmful toxic mixture to kill plantlife. Very effective against kudzu.
+reagent-name-plant-b-gone = трава-до-біса
+reagent-desc-plant-b-gone = Токсична суміш для винищення рослин. Зроблено УкраВіт™. Не пити!
 
-reagent-name-robust-harvest = robust harvest
-reagent-desc-robust-harvest = A highly effective fertilizer with a limited potency-boosting effect on plants. Use it cautiously, as excessive application can reduce plant yield. It has a particularly beneficial effect on dionas.
+reagent-name-robust-harvest = потужний врожай
+reagent-desc-robust-harvest = Високоефективний фертилізатор з обмеженим потенційним впливом на рослини. Використовуйте його обережно, оскільки у великих дозах може призвести до спаду врожайності, а також від нього рослини втрачають насіння. Останнє можна компенсувати седіном.
 
-reagent-name-weed-killer = weed killer
-reagent-desc-weed-killer = A mixture that targets weeds. Very effective against kudzu. While useful it slowly poisons plants with toxins, be careful when using it.
+reagent-name-weed-killer = засіб для знищення бур'янів
+reagent-desc-weed-killer = Токсична для всяких бур'янів та їм подібних суміш. Покажіть їм, що тут може рости лише один вид рослин! Не розпиляти на діон.
 
-reagent-name-ammonia = ammonia
-reagent-desc-ammonia = An effective fertilizer, it gives your plants some nutrients.
+reagent-name-ammonia = аміак
+reagent-desc-ammonia = Ефективне та досить популярне добриво, через його легкодоступність. Але якщо у вас не підвальне виробництво - спробуйте ізі поживу.
 
-reagent-name-diethylamine = diethylamine
-reagent-desc-diethylamine = A very potent fertilizer, treats plants with nutrients, eliminates pests, and sometimes it can even speed up growth.
+reagent-name-diethylamine = діетиламін
+reagent-desc-diethylamine = Дуже потужний фертилізатор. Усуває шкідників, а іноді може навіть прискорювати ріст, також дає троооошки поживних речовин.
 
-reagent-name-sedin = sedin
-reagent-desc-sedin = A modified version of diethylamine that can restore seeds on plants at the cost of potency.
+reagent-name-sedin = седін
+reagent-desc-sedin = Модифікована версія діетиламіну, відновлює здатність виробляти насіння рослинами, ціною втрати врожайності.
