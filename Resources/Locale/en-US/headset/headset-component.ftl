@@ -1,23 +1,23 @@
 # Chat window radio wrap (prefix and postfix)
-chat-radio-message-wrap = [color={$color}]{$channel} {$name} {$verb}, [font={$fontType} size={$fontSize}]"{$message}"[/font][/color]
-chat-radio-message-wrap-bold = [color={$color}]{$channel} {$name} {$verb}, [font={$fontType} size={$fontSize}][bold]"{$message}"[/bold][/font][/color]
+chat-radio-message-wrap = [color={$color}]{$channel} [bold]{$name}[/bold] {$verb}, [font={$fontType} size={$fontSize}]“{$message}”[/font][/color]
+chat-radio-message-wrap-bold = [color={$color}]{$channel} [bold]{$name}[/bold] {$verb}, [font={$fontType} size={$fontSize}][bold]“{$message}”[/bold][/font][/color]
 
-examine-headset-default-channel = Use {$prefix} for the default channel ([color={$color}]{$channel}[/color]).
+examine-headset-default-channel = Використовуйте {$prefix} для звичайного каналу ([color={$color}]{$channel}[/color]).
 
-chat-radio-common = Common
-chat-radio-centcom = CentComm
-chat-radio-command = Command
-chat-radio-engineering = Engineering
-chat-radio-medical = Medical
-chat-radio-science = Epistemics
-chat-radio-security = Security
-chat-radio-service = Service
-chat-radio-supply = Logistics
-chat-radio-syndicate = Syndicate
-chat-radio-freelance = Freelance
+chat-radio-common = Загальний
+chat-radio-centcom = ЦентКом
+chat-radio-command = Керівництво
+chat-radio-engineering = Інженерний
+chat-radio-medical = Медичний
+chat-radio-science = Науковий
+chat-radio-security = СБ
+chat-radio-service = Службовий
+chat-radio-supply = Карго
+chat-radio-syndicate = Синдикат
+chat-radio-freelance = Позаштатний
 
 # not headset but whatever
-chat-radio-handheld = Handheld
-chat-radio-binary = Binary
-chat-radio-xenoborg = Xenoborg
+chat-radio-handheld = Портативний
+chat-radio-binary = Двійковий
+chat-radio-xenoborg = Ксеноборг
 chat-radio-mothership = Mothership

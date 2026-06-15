@@ -1,18 +1,18 @@
-credits-window-title = Credits
+credits-window-title = Розробники
 credits-window-patrons-tab = Patrons
-credits-window-ss14contributorslist-tab = Credits
-credits-window-licenses-tab = Open Source Licenses
+credits-window-ss14contributorslist-tab = Розробники
+credits-window-licenses-tab = Відкрита ліцензія
 credits-window-attributions-tab = Attributions
-credits-window-become-patron-button = Become a Patron
+credits-window-become-patron-button = Стати патроном
 credits-window-contributor-encouragement-label = Want to get on this list?
-credits-window-contribute-button = Contribute!
-credits-window-contributors-section-title = Space Station 14 Contributors
-credits-window-codebases-section-title = Space Station 13 Codebases
-credits-window-original-remake-team-section-title = Original Space Station 13 Remake Team
-credits-window-immortals-title = In Memoriam
-credits-window-special-thanks-section-title = Special Thanks
-credits-window-previous-page-button = Previous Page
-credits-window-next-page-button = Next Page
+credits-window-contribute-button = Внеси свій внесок!
+credits-window-contributors-section-title = Розробники станції 14
+credits-window-codebases-section-title = Space Station 13 код
+credits-window-original-remake-team-section-title = Оригінальна команда розробників Космічної станції 14
+credits-window-immortals-title = В пам'яті
+credits-window-special-thanks-section-title = Окреме дякую!
+credits-window-previous-page-button = Попереднія сторінка
+credits-window-next-page-button = Наступна сторінка
 
 credits-window-attributions-directory = [color=white]Directory:[/color] {$directory}
 credits-window-attributions-files = [color=white]Files:[/color] {$files}

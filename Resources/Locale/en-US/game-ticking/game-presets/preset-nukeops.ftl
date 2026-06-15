@@ -1,35 +1,35 @@
-﻿nukeops-title = Nuclear Operatives
-nukeops-description = Nuclear operatives have targeted the station. Try to keep them from arming and detonating the nuke by protecting the nuke disk!
+nukeops-title = Ядерні оперативники
+nukeops-description = Оперативники націлилися на станцію. Спробуйте утримати їх від озброєння та детонації ядерної бомби, захистивши ядерний диск!
 
 nukeops-welcome =
-    You are a nuclear operative. Your goal is to blow up {$station}, and ensure that it is nothing but a pile of rubble. Your bosses, the Syndicate, have provided you with the tools you'll need for the task.
-    Operation {$name} is a go! Death to Nanotrasen!
-nukeops-briefing = Your objectives are simple. Deliver the payload and get out before the payload detonates. Begin mission.
+    Ви ядерний оперативник. Ваша місія підірвати станцію - {$station}, і переконайтеся, що це не що інше, як купа уламків. Ваші боси, Синдикат, надали вам інструменти, необхідні для виконання завдання.
+    Операція {$name} почалась! Смерть Нанотрайзен!
+nukeops-briefing = Ваше завдання просте. Доставте вантаж і відступіть до того, як він вибухне. Розпочинайте місію.
 
-nukeops-opsmajor = [color=crimson]Syndicate major victory![/color]
-nukeops-opsminor = [color=crimson]Syndicate minor victory![/color]
-nukeops-neutral = [color=yellow]Neutral outcome![/color]
-nukeops-crewminor = [color=green]Crew minor victory![/color]
-nukeops-crewmajor = [color=green]Crew major victory![/color]
+nukeops-opsmajor = [color=crimson]Тотальна перемога синдикату![/color]
+nukeops-opsminor = [color=crimson]Незначна перемога синдикату![/color]
+nukeops-neutral = [color=yellow]Нейтральний результат![/color]
+nukeops-crewminor = [color=green]Незначна перемога екіпажу![/color]
+nukeops-crewmajor = [color=green]Тотальна перемога екіпажу![/color]
 
-nukeops-cond-nukeexplodedoncorrectstation = The nuclear operatives managed to blow up the station.
-nukeops-cond-nukeexplodedonnukieoutpost = The nuclear operative outpost was destroyed by a nuclear blast!
-nukeops-cond-nukeexplodedonincorrectlocation = The nuclear bomb detonated off-station.
-nukeops-cond-nukeactiveinstation = The nuclear bomb was left armed on-station.
-nukeops-cond-nukeactiveatcentcom = The nuclear bomb was armed and delivered to Central Command!
-nukeops-cond-nukediskoncentcom = The crew escaped with the nuclear authentication disk.
-nukeops-cond-nukedisknotoncentcom = The crew left the nuclear authentication disk behind.
-nukeops-cond-nukiesabandoned = The nuclear operatives were abandoned.
-nukeops-cond-allnukiesdead = All nuclear operatives have died.
-nukeops-cond-somenukiesalive = Some nuclear operatives died.
-nukeops-cond-allnukiesalive = No nuclear operatives died.
+nukeops-cond-nukeexplodedoncorrectstation = Оперативники підірвали станцію.
+nukeops-cond-nukeexplodedonnukieoutpost = Форпост оперативників було знищено. 
+nukeops-cond-nukeexplodedonincorrectlocation = Ядерна бомба була підірвана поза станцією.
+nukeops-cond-nukeactiveinstation = Ядерну бомбу залишили на станції.
+nukeops-cond-nukeactiveatcentcom = Ядерну бомбу доставили до ЦК!
+nukeops-cond-nukediskoncentcom = Екіпаж втік разом з диском.
+nukeops-cond-nukedisknotoncentcom = Екіпаж залишив ядерний диск автентифікації.
+nukeops-cond-nukiesabandoned = Оперативник були полишені.
+nukeops-cond-allnukiesdead = Всі оперативники померли
+nukeops-cond-somenukiesalive = Хтось з опертивників помер.
+nukeops-cond-allnukiesalive = Жоден з оперативників не помер.
 
-nukeops-list-start = The nuclear operatives were:
+nukeops-list-start = Оперативниками були:
 nukeops-list-name = - [color=White]{$name}[/color]
 nukeops-list-name-user = - [color=White]{$name}[/color] ([color=gray]{$user}[/color])
-nukeops-not-enough-ready-players = Not enough players readied up for the game! There were {$readyPlayersCount} players readied up out of {$minimumPlayers} needed. Can't start Nukeops.
-nukeops-no-one-ready = No players readied up! Can't start Nukeops.
+nukeops-not-enough-ready-players = Не вистачає гравців для запуску гри! Є {$readyPlayersCount} гравців готових але потрібно {$minimumPlayers}. Неможливо почати.
+nukeops-no-one-ready = Ніхто не проголосував! Не можливо запустити оперативнків.
 
-nukeops-role-commander = Commander
-nukeops-role-agent = Corpsman
-nukeops-role-operator = Operator
+nukeops-role-commander = Командир
+nukeops-role-agent = Медик
+nukeops-role-operator = Оперативник

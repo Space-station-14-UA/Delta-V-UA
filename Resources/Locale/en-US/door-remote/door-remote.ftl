@@ -1,16 +1,16 @@
 ## UI
-door-remote-toggle-eletrify-text = Toggle overcharge
-door-remote-open-close-text = Opens and Closes Doors
-door-remote-toggle-bolt-text = Toggles Bolts
-door-remote-emergency-access-text = Toggles Emergency Access
-door-remote-invalid-text = Invalid
-door-remote-mode-label = Mode: [color=white]{$modeString}[/color]
+door-remote-toggle-eletrify-text = Перемкнути перевантаження
+door-remote-open-close-text = Відчиняє та Зачиняє двері
+door-remote-toggle-bolt-text = Перемикає Болтування
+door-remote-emergency-access-text = Перемикає Аварійний Доступ
+door-remote-invalid-text = Недійсний
+door-remote-mode-label = Режим: [color=white]{$modeString}[/color]
 
 ## Entity
 
-door-remote-switch-state-open-close = You switch the remote to open and close doors
-door-remote-switch-state-toggle-bolts = You switch the remote to toggle bolts
-door-remote-switch-state-toggle-emergency-access = You switch the remote to toggle emergency access
-door-remote-no-power = The door is not powered
-door-remote-denied = Access denied
+door-remote-switch-state-open-close = Ви перемикаєте пульт на режим закриття та відкриття дверей
+door-remote-switch-state-toggle-bolts = Ви перемикаєте пульт на режим перемикання болтування
+door-remote-switch-state-toggle-emergency-access = Ви перемикаєте пульт на режим перемикання аварійного доступу
+door-remote-no-power = Двері знеструмлені
+door-remote-denied = У доступі відмовлено
 

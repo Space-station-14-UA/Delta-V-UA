@@ -1,30 +1,30 @@
 # named frequencies
-device-frequency-prototype-name-atmos = Atmospheric Devices
-device-frequency-prototype-name-suit-sensors = Suit Sensors
-device-frequency-prototype-name-crew-monitor = Crew Monitor
-device-frequency-prototype-name-lights = Smart Lights
-device-frequency-prototype-name-mailing-units = Mailing Units
-device-frequency-prototype-name-pdas = PDAs
-device-frequency-prototype-name-fax = Fax
-device-frequency-prototype-name-basic-device = Basic Devices
-device-frequency-prototype-name-cyborg-control = Cyborg Control
-device-frequency-prototype-name-robotics-console = Robotics Console
-device-frequency-prototype-name-turret = Sentry Turret
-device-frequency-prototype-name-turret-control = Sentry Turret Control
-device-frequency-prototype-name-xenoborg = Xenoborg
+device-frequency-prototype-name-atmos = Атмосферні пристрої
+device-frequency-prototype-name-suit-sensors = Датчики костюма
+device-frequency-prototype-name-crew-monitor = Монітор Екіпажу
+device-frequency-prototype-name-lights = Розумне Освітлення
+device-frequency-prototype-name-mailing-units = Поштова установка
+device-frequency-prototype-name-pdas = КПК
+device-frequency-prototype-name-fax = Факс
+device-frequency-prototype-name-basic-device = Базові пристрої
+device-frequency-prototype-name-cyborg-control = Контроль кіборгів
+device-frequency-prototype-name-robotics-console = Консоль робототехніки
+device-frequency-prototype-name-turret = Сторожова турель
+device-frequency-prototype-name-turret-control = Управління сторожовою вежею
+device-frequency-prototype-name-xenoborg = Ксеноборг
 device-frequency-prototype-name-mothership = Mothership
 
 ## camera frequencies
-device-frequency-prototype-name-surveillance-camera-test = Subnet Test
-device-frequency-prototype-name-surveillance-camera-engineering = Engineering Cameras
-device-frequency-prototype-name-surveillance-camera-security = Security Cameras
-device-frequency-prototype-name-surveillance-camera-science = Epistemics Cameras
-device-frequency-prototype-name-surveillance-camera-supply = Supply Cameras
-device-frequency-prototype-name-surveillance-camera-command = Command Cameras
-device-frequency-prototype-name-surveillance-camera-service = Service Cameras
-device-frequency-prototype-name-surveillance-camera-medical = Medical Cameras
-device-frequency-prototype-name-surveillance-camera-general = General Cameras
-device-frequency-prototype-name-surveillance-camera-entertainment = Entertainment Cameras
+device-frequency-prototype-name-surveillance-camera-test = Підмережевий Тест
+device-frequency-prototype-name-surveillance-camera-engineering = Камери Інженерного Відділу
+device-frequency-prototype-name-surveillance-camera-security = Камери Відділу Безпеки
+device-frequency-prototype-name-surveillance-camera-science = Камери Наукового Відділу
+device-frequency-prototype-name-surveillance-camera-supply = Камери Відділу Постачання
+device-frequency-prototype-name-surveillance-camera-command = Камери Командного Відділу
+device-frequency-prototype-name-surveillance-camera-service = Камери Сервісного Відділу
+device-frequency-prototype-name-surveillance-camera-medical = Камери Медичного Відділу
+device-frequency-prototype-name-surveillance-camera-general = Камери Загального Огляду
+device-frequency-prototype-name-surveillance-camera-entertainment = Камери Розважального Спрямування
 
 # prefixes for randomly generated device addresses
 device-address-prefix-vent = VNT-
@@ -45,13 +45,13 @@ device-address-prefix-air-alarm = AIR-
 
 device-address-prefix-sensor-monitor = MON-
 
-device-address-examine-message = The device's address is {$address}.
+device-address-examine-message = Адреса пристрою - це {$address}.
 
 # Device net ID names
-device-net-id-private = Private
-device-net-id-wired = Wired
-device-net-id-wireless = Wireless
-device-net-id-apc = Apc
-device-net-id-atmos-devices = Atmos Devices
-device-net-id-reserved = Reserved
+device-net-id-private = Приватний
+device-net-id-wired = Дротові
+device-net-id-wireless = Бездротовий
+device-net-id-apc = ЗКЖ
+device-net-id-atmos-devices = Пристрої атмосу
+device-net-id-reserved = Зарезервовано
 
