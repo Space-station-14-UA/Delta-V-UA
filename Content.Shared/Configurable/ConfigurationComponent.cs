@@ -32,7 +32,7 @@ namespace Content.Shared.Configurable
         /// Validate tags in <see cref="Config"/>.
         /// </summary>
         [DataField]
-        public Regex Validation = new("^[a-zA-Z0-9 ]*$", RegexOptions.Compiled);
+        public Regex Validation = new("^[a-zA-Z0-9а-яА-ЯїЇєЄіґҐ ]*$", RegexOptions.Compiled);
 
         /// <summary>
         ///     Message data sent from client to server when the device configuration is updated.

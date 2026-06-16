@@ -1,8 +1,8 @@
 ## UI
 
-ui-mailing-unit-window-title = {$tag} mailing unit
+ui-mailing-unit-window-title = {$tag} поштова установка
 
-ui-mailing-unit-button-flush = Send
-ui-mailing-unit-destination-select-label = Select a destination:
-ui-mailing-unit-self-reference-label = This unit:
-ui-mailing-unit-target-label = Destination:
+ui-mailing-unit-button-flush = Надісл.
+ui-mailing-unit-destination-select-label = Виберіть пункт призначення:
+ui-mailing-unit-self-reference-label = Ця установка:
+ui-mailing-unit-target-label = Пункт призначення:

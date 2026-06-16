@@ -1,16 +1,16 @@
-radio-jammer-component-on-use = The jammer is now {$state}.
-radio-jammer-component-on-state = on
-radio-jammer-component-off-state = off
+radio-jammer-component-on-use = Глушилка зараз {$state}.
+radio-jammer-component-on-state = увімкнена
+radio-jammer-component-off-state = вимкнена
 
-radio-jammer-component-examine-on-state = The light is currently [color=darkgreen]on[/color].
-radio-jammer-component-examine-off-state = The light is currently [color=darkred]off[/color].
+radio-jammer-component-examine-on-state = Наразі світло [color=darkgreen]увімкнене[/color].
+radio-jammer-component-examine-off-state = Наразі світло [color=darkred]вимкнене[/color].
 
-radio-jammer-component-setting-high = High
-radio-jammer-component-setting-medium = Medium
-radio-jammer-component-setting-low = Low
+radio-jammer-component-setting-high = Високий
+radio-jammer-component-setting-medium = Середній
+radio-jammer-component-setting-low = Малий
 
-radio-jammer-component-set-message-high = The jammer is now operating at high power.
-radio-jammer-component-set-message-medium = The jammer is now operating at medium power.
-radio-jammer-component-set-message-low = The jammer is now operating at low power.
+radio-jammer-component-set-message-high = Зараз глушилка працює на високій потужності.
+radio-jammer-component-set-message-medium = Зараз глушилка працює на середній потужності.
+radio-jammer-component-set-message-low = Зараз глушилка працює на малій потужності.
 
-radio-jammer-component-switch-setting = The power level switch is set to "[color=yellow]{$powerLevel}[/color]".
+radio-jammer-component-switch-setting = Перемикач рівня потужності встановлено на "[color=yellow]{$powerLevel}[/color]" рівень.

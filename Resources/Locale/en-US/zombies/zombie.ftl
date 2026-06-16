@@ -1,13 +1,13 @@
-zombie-transform = {CAPITALIZE(THE($target))} turned into a zombie!
-zombie-infection-greeting = You have become a zombie. Your goal is to seek out the living and to try to infect them.  Work together with the other zombies and remaining initial infected to overtake the station.
+zombie-transform = {CAPITALIZE($target)} тепер зомбі!
+zombie-infection-greeting = Ви стали зомбі. Ваша ціль це вислідити живих та спробувати заразити їх. Працюйте гуртом з вашими зомбі-колегами, щоб подолати решту членів екіпажу.
 
-zombie-generic = zombie
-zombie-name-prefix = zombified {$baseName}
-zombie-role-desc =  A malevolent creature of the dead.
-zombie-role-rules = You are a [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]. Search out the living and bite them in order to infect them and turn them into zombies. Work together with the other zombies and remaining initial infected to overtake the station.
+zombie-generic = зомбі
+zombie-name-prefix = Зомбовано {$baseName}
+zombie-role-desc =  Озлоблена мертва істота.
+zombie-role-rules = Ви - [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color]. Шукайте живих і кусайте їх, щоб заразити і перетворити на зомбі. Працюйте разом з іншими зомбі та первинними інфікованими, щоб захопити станцію.
 
-zombie-permadeath = This time, you're dead for real.
+zombie-permadeath = Вже час, ти помер насправді.
 
-zombification-resistance-coefficient-value = - [color=violet]Infection[/color] chance reduced by [color=lightblue]{$value}%[/color].
+zombification-resistance-coefficient-value = - Ймовірність [color=violet]зараження[/color] зменшено на [color=lightblue]{$value}%[/color].
 
-zombie-roleban-ghosted = You have been ghosted because you are banned from playing the Zombie role.
+zombie-roleban-ghosted = Вас відправлено у привиди, оскільки вам заборонено грати за роль Зомбі.

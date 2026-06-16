@@ -1,9 +1,9 @@
 ﻿# Rules
 
-ui-rules-header = DeltaV Official Server Rules
-ui-rules-header-rp = DeltaV Roleplay Official Server Rules
-ui-rules-accept = I have read and agree to follow the rules
-ui-rules-wait = The accept button will be enabled after {$time} seconds.
+ui-rules-header = СІЧ правила
+ui-rules-header-rp = СІЧ ролеплей правила
+ui-rules-accept = Прочитав та погоджуюсь з правилами.
+ui-rules-wait = Кнопка буде доступна через:{$time} с.
 
-ui-rules-button-home = Home
-ui-rules-button-back = Back
+ui-rules-button-home = Головна
+ui-rules-button-back = Назад

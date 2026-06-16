@@ -1,4 +1,4 @@
-signal-timer-menu-title = Timer
-signal-timer-menu-label = Label: 
-signal-timer-menu-delay = Delay: 
-signal-timer-menu-start = Start
+signal-timer-menu-title = Таймер
+signal-timer-menu-label = Текст: 
+signal-timer-menu-delay = Час: 
+signal-timer-menu-start = Старт

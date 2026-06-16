@@ -1,56 +1,56 @@
 
-gun-selected-mode-examine = Current selected fire mode is [color={$color}]{$mode}[/color].
-gun-fire-rate-examine = Fire rate is [color={$color}]{$fireRate}[/color] per second.
-gun-selector-verb = Change to {$mode}
-gun-selected-mode = Selected {$mode}
-gun-disabled = You can't use guns!
-gun-set-fire-mode-examine = Set to [color=yellow]{$mode}[/color].
-gun-set-fire-mode-popup = Changed to {$mode}
-gun-magazine-whitelist-fail = That won't fit into the gun!
-gun-magazine-fired-empty = No ammo left!
+gun-selected-mode-examine = Поточний вибраний режим вогню: [color={$color}]{$mode}[/color].
+gun-fire-rate-examine = Скорострільність: [color={$color}]{$fireRate}[/color] пострілів на секунду.
+gun-selector-verb = Перемкнути на {$mode}
+gun-selected-mode = Вибрано режим: {$mode}
+gun-disabled = Ви не можете використовувати зброю!
+gun-set-fire-mode-examine = Встановлено режим [color=yellow]{$mode}[/color].
+gun-set-fire-mode-popup = Змінено на {$mode}
+gun-magazine-whitelist-fail = Це не підходить до цієї зброї!
+gun-magazine-fired-empty = Набоїв не залишилося!
 
 # SelectiveFire
-gun-SemiAuto = semi-auto
-gun-Burst = burst
-gun-FullAuto = full-auto
+gun-SemiAuto = напівавтоматичний
+gun-Burst = шквальний
+gun-FullAuto = автоматичний
 
 # BallisticAmmoProvider
-gun-ballistic-cycle = Cycle
-gun-ballistic-cycled = Cycled
-gun-ballistic-cycled-empty = Cycled (empty)
-gun-ballistic-transfer-invalid = {CAPITALIZE(THE($ammoEntity))} won't fit inside {THE($targetEntity)}!
-gun-ballistic-transfer-empty = {CAPITALIZE(THE($entity))} is empty.
-gun-ballistic-transfer-target-full = {CAPITALIZE(THE($entity))} is already fully loaded.
+gun-ballistic-cycle = Зарядити
+gun-ballistic-cycled = Заряджено
+gun-ballistic-cycled-empty = Заряджено (порожньо)
+gun-ballistic-transfer-invalid = {CAPITALIZE(THE($ammoEntity))} не поміститься в середині {THE($targetEntity)}!
+gun-ballistic-transfer-empty = {CAPITALIZE(THE($entity))} порожній.
+gun-ballistic-transfer-target-full = {CAPITALIZE(THE($entity))} вже повністю заповнено.
 
 # CartridgeAmmo
-gun-cartridge-spent = It is [color=red]spent[/color].
-gun-cartridge-unspent = It is [color=lime]not spent[/color].
+gun-cartridge-spent = Він [color=red]пустий[/color].
+gun-cartridge-unspent = Він [color=lime]не пустий[/color].
 
 # BatteryAmmoProvider
-gun-battery-examine = It has enough charge for [color={$color}]{$count}[/color] shots.
+gun-battery-examine = Тут достатньо заряду для [color={$color}]{$count}[/color] пострілів.
 
 # CartridgeAmmoProvider
-gun-chamber-bolt-ammo = Gun not bolted
-gun-chamber-bolt = The bolt is [color={$color}]{$bolt}[/color].
-gun-chamber-bolt-closed = Closed bolt
-gun-chamber-bolt-opened = Opened bolt
-gun-chamber-bolt-close = Close bolt
-gun-chamber-bolt-open = Open bolt
-gun-chamber-bolt-closed-state = open
-gun-chamber-bolt-open-state = closed
-gun-chamber-rack = Rack
+gun-chamber-bolt-ammo = Рушниця незакрита
+gun-chamber-bolt = Засув [color={$color}]{$bolt}[/color].
+gun-chamber-bolt-closed = Закритий болт
+gun-chamber-bolt-opened = Відкритий засув
+gun-chamber-bolt-close = Закрити болт
+gun-chamber-bolt-open = Відкрити засув
+gun-chamber-bolt-closed-state = закрито
+gun-chamber-bolt-open-state = відкрито
+gun-chamber-rack = Стійка
 
 # MagazineAmmoProvider
-gun-magazine-examine = It has [color={$color}]{$count}[/color] shots remaining.
+gun-magazine-examine = Вистачить на [color={$color}]{$count}[/color] пострілів.
 
 # RevolverAmmoProvider
-gun-revolver-empty = Empty revolver
-gun-revolver-full = Revolver full
-gun-revolver-insert = Inserted
-gun-revolver-spin = Spin revolver
-gun-revolver-spun = Spun
-gun-speedloader-empty = Speedloader empty
+gun-revolver-empty = Револьвер порожній
+gun-revolver-full = Револьвер повний
+gun-revolver-insert = Вкладено
+gun-revolver-spin = Прокрутити револьвер
+gun-revolver-spun = Прокручено
+gun-speedloader-empty = Швидкозарядник пустий
 
 # GunSpreadModifier
-examine-gun-spread-modifier-reduction = The spread has been reduced by [color=yellow]{$percentage}%[/color].
-examine-gun-spread-modifier-increase = The spread has been increased by [color=yellow]{$percentage}%[/color].
+examine-gun-spread-modifier-reduction = Розкид було зменшено на [color=yellow]{$percentage}%[/color].  
+examine-gun-spread-modifier-increase = Розкид було збільшено на [color=yellow]{$percentage}%[/color].

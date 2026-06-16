@@ -1,8 +1,8 @@
-docking-component-dock = Dock
-docking-component-undock = Undock
+docking-component-dock = Пристикувати
+docking-component-undock = Відстикувати
 
-cmd-dock-desc = Attempts to dock 2 airlocks together. Doesn't check whether it is valid.
+cmd-dock-desc = Спробувати з'єднати 2 шлюзи разом. Не перевіряється, чи це допустимо.
 cmd-dock-help = dock <airlock entityuid1> <airlock entityuid2>
 
-cmd-dock-success = Successfully docked
-cmd-dock-fail = Unable to dock
+cmd-dock-success = Стикування успішне
+cmd-dock-fail = Не вдалося стикуватися

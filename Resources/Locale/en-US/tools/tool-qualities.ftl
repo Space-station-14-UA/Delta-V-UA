@@ -1,38 +1,38 @@
-tool-quality-anchoring-name = Anchoring
-tool-quality-anchoring-tool-name = Wrench
+tool-quality-anchoring-name = Пригвинчування
+tool-quality-anchoring-tool-name = Гайковий ключ
 
-tool-quality-prying-name = Prying
-tool-quality-prying-tool-name = Crowbar
+tool-quality-prying-name = Пересування
+tool-quality-prying-tool-name = Лом
 
-tool-quality-screwing-name = Screwing
-tool-quality-screwing-tool-name = Screwdriver
+tool-quality-screwing-name = Викручування
+tool-quality-screwing-tool-name = Викрутка
 
-tool-quality-cutting-name = Cutting
-tool-quality-cutting-tool-name = Wirecutter
+tool-quality-cutting-name = Різання
+tool-quality-cutting-tool-name = Кусачки
 
-tool-quality-welding-name = Welding
-tool-quality-welding-tool-name = Welder
+tool-quality-welding-name = Зварка
+tool-quality-welding-tool-name = Зварювальний апарат
 
-tool-quality-pulsing-name = Pulsing
-tool-quality-pulsing-tool-name = Multitool
+tool-quality-pulsing-name = Подача живлення
+tool-quality-pulsing-tool-name = Мультитул
 
-tool-quality-slicing-name = Slicing
-tool-quality-slicing-tool-name = Knife
+tool-quality-slicing-name = Нарізка
+tool-quality-slicing-tool-name = Ніж
 
-tool-quality-sawing-name = Sawing
-tool-quality-sawing-tool-name = Saw
+tool-quality-sawing-name = Пиляння
+tool-quality-sawing-tool-name = Пилка
 
-tool-quality-honking-name = Honking
-tool-quality-honking-tool-name = Bike Horn
+tool-quality-honking-name = Гонкінг
+tool-quality-honking-tool-name = Велосипедний гудок
 
-tool-quality-woodcutting-name = Woodcutting
-tool-quality-woodcutting-tool-name = Hatchet
+tool-quality-woodcutting-name = Дереворубка
+tool-quality-woodcutting-tool-name = Сокира
 
-tool-quality-rolling-name = Rolling
-tool-quality-rolling-tool-name = Rolling Pin
+tool-quality-rolling-name = Прокатка
+tool-quality-rolling-tool-name = Скалка
 
-tool-quality-digging-name = Digging
-tool-quality-digging-tool-name = Shovel
+tool-quality-digging-name = Копання
+tool-quality-digging-tool-name = Лопата
 
-tool-quality-brushing-name = Brushing
-tool-quality-brushing-tool-name = Wire Brush
+tool-quality-brushing-name = Чищення
+tool-quality-brushing-tool-name = Дротова щітка

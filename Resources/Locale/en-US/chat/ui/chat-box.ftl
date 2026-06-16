@@ -1,42 +1,43 @@
-hud-chatbox-info = {$talk-key} to talk, {$cycle-key} to cycle channels.
-hud-chatbox-info-talk = {$talk-key} to talk.
-hud-chatbox-info-cycle = Click here to talk, {$cycle-key} to cycle channels.
-hud-chatbox-info-unbound = Click here to talk.
+hud-chatbox-info = {$talk-key} щоб розмовляти, {$cycle-key} щоб зміняти канали.
+hud-chatbox-info-talk = {$talk-key} щоб говорити.
+hud-chatbox-info-cycle = Натисніть сюди, щоб говорити, {$cycle-key} для перемикання каналів.
+hud-chatbox-info-unbound = Натисніть сюди, щоб говорити.
 
 hud-chatbox-select-name-prefixed = {$prefix} {$name}
-hud-chatbox-select-channel-Admin = Admin
-hud-chatbox-select-channel-Console = Console
-hud-chatbox-select-channel-Dead = Dead
-hud-chatbox-select-channel-Emotes = Emotes
-hud-chatbox-select-channel-Local = Local
-hud-chatbox-select-channel-Whisper = Whisper
+hud-chatbox-select-channel-Admin = Адмін
+hud-chatbox-select-channel-Console = Консоль
+hud-chatbox-select-channel-Dead = Мертві
+hud-chatbox-select-channel-Emotes = Емоції
+hud-chatbox-select-channel-Local = Говорити
+hud-chatbox-select-channel-Whisper = Шепіт
 hud-chatbox-select-channel-LOOC = LOOC
 hud-chatbox-select-channel-OOC = OOC
-hud-chatbox-select-channel-Damage = Damage
-hud-chatbox-select-channel-Visual = Actions
-hud-chatbox-select-channel-Radio = Radio
+hud-chatbox-select-channel-Damage = Шкода
+hud-chatbox-select-channel-Visual = Дії
+hud-chatbox-select-channel-Radio = Радіо
 
-hud-chatbox-channel-Admin = Admin Misc
-hud-chatbox-channel-AdminAlert = Admin Alert
-hud-chatbox-channel-AdminChat = Admin Chat
-hud-chatbox-channel-Dead = Dead
-hud-chatbox-channel-Emotes = Emotes
-hud-chatbox-channel-Local = Local
-hud-chatbox-channel-Whisper = Whisper
+hud-chatbox-channel-Admin = Адмін Інше
+hud-chatbox-channel-AdminAlert = Admin Тривога
+hud-chatbox-channel-AdminChat = Адмін Чат
+hud-chatbox-channel-Dead = Мертві
+hud-chatbox-channel-Emotes = Емоції
+hud-chatbox-channel-Local = Говорити
+hud-chatbox-channel-Whisper = Шепіт
+
 hud-chatbox-channel-LOOC = LOOC
 hud-chatbox-channel-OOC = OOC
-hud-chatbox-channel-Radio = Radio
-hud-chatbox-channel-Notifications = Notifications
-hud-chatbox-channel-Server = Server
-hud-chatbox-channel-Visual = Actions
-hud-chatbox-channel-Damage = Damage
-hud-chatbox-channel-Unspecified = Unspecified
+hud-chatbox-channel-Radio = Радіо
+hud-chatbox-channel-Notifications = Сповіщення
+hud-chatbox-channel-Server = Сервер
+hud-chatbox-channel-Visual = Дії
+hud-chatbox-channel-Damage = Шкода
+hud-chatbox-channel-Unspecified = Невизначенний
 
-hud-chatbox-highlights = Highlights:
-hud-chatbox-highlights-button = Submit
-hud-chatbox-highlights-tooltip = The words need to be separated by a newline,
-                                 if wrapped around " they will be highlighted
-                                 only if separated by spaces or punctuation.
-hud-chatbox-highlights-placeholder = @McHands
-                                     "Judge"
-                                     Medical
+hud-chatbox-highlights = Підсвічування:
+hud-chatbox-highlights-button = Підтвердити
+hud-chatbox-highlights-tooltip = Слова повинні бути розділені новим рядком,
+                                 якщо обгорнуті в " вони будуть підсвічені
+                                 тільки якщо розділені пробілами або пунктуацією.
+hud-chatbox-highlights-placeholder = @МакРучко
+                                     "Чувак"
+                                     Медичний

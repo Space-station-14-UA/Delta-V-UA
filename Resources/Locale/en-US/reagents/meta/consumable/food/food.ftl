@@ -1,20 +1,20 @@
-reagent-name-nutriment = nutriment
-reagent-desc-nutriment = All the vitamins, minerals, and carbohydrates the body needs in pure form.
+reagent-name-nutriment = поживні речовини
+reagent-desc-nutriment = Всі ці вітаміни, мінерали та вуглеводи, яких потребує організм у чистому вигляді.
 
-reagent-name-glucose = glucose
-reagent-desc-glucose = A simple sugar found in many foods.
+reagent-name-glucose = глюкоза
+reagent-desc-glucose = Моносахарид, що міститься в багатьох продуктах харчування.
 
-reagent-name-vitamin = vitamin
-reagent-desc-vitamin = Found in healthy, complete meals.
+reagent-name-vitamin = вітамін
+reagent-desc-vitamin = Міститься у здоровій, повноцінній їжі.
 
-reagent-name-protein = protein
-reagent-desc-protein = Found in certain meals, good for bodily health.
+reagent-name-protein = білок
+reagent-desc-protein = Міститься в певних продуктах харчування, корисний для здоров'я організму.
 
-reagent-name-cocoapowder = cocoa powder
-reagent-desc-cocoapowder = From the best varieties of cocoa beans
+reagent-name-cocoapowder = какао порошок
+reagent-desc-cocoapowder = З найкращих сортів какао-бобів.
 
-reagent-name-butter = butter
-reagent-desc-butter = You can believe it!
+reagent-name-butter = вершкове масло
+reagent-desc-butter = Ви можете в це повірити!
 
-reagent-name-pumpkin-flesh = pumpkin flesh
-reagent-desc-pumpkin-flesh = The mushy, sweet remains of a pumpkin.
+reagent-name-pumpkin-flesh = гарбузова м'якоть
+reagent-desc-pumpkin-flesh = М'які, солодкі залишки гарбуза.

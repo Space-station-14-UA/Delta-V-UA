@@ -1,3 +1,3 @@
-objective-condition-kill-person-title = Kill or maroon {$targetName}, {CAPITALIZE($job)}
-objective-condition-kill-maroon-title = Kill and maroon {$targetName}, {CAPITALIZE($job)}
-objective-condition-maroon-person-title = Prevent {$targetName}, {CAPITALIZE($job)} from reaching CentComm.
+objective-condition-kill-person-title = Вбийте або залиште {$targetName}, {CAPITALIZE($job)}
+objective-condition-kill-maroon-title = Вбийте та залиште {$targetName}, {CAPITALIZE($job)}
+objective-condition-maroon-person-title = Не дозвольте {$targetName}, {CAPITALIZE($job)} дістатися до ЦК.

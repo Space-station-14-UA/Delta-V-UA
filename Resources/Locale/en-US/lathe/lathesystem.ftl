@@ -1,4 +1,4 @@
-lathe-popup-material-not-used = This material is not used in this machine.
-lathe-unlock-recipe-radio-broadcast = This lathe is now capable of producing the following recipes: {$items}
-lathe-unlock-recipe-radio-broadcast-overflow = This lathe is now capable of producing {$count} new recipes, including: {$items}
+lathe-popup-material-not-used = Цей матеріал не використовується в цій машині.
+lathe-unlock-recipe-radio-broadcast = Цей токарний верстат тепер здатний виробляти такі рецепти: {$items}
+lathe-unlock-recipe-radio-broadcast-overflow = Верстат отримав доступ до {$count} нових рецептів, серед яких: {$items}
 lathe-unlock-recipe-radio-broadcast-item = [bold]{$item}[/bold]

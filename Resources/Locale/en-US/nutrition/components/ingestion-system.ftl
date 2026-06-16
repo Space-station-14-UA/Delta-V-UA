@@ -3,25 +3,25 @@
 # System
 
 ## When trying to ingest without the required utensil... but you gotta hold it
-ingestion-you-need-to-hold-utensil = You need to be holding {INDEFINITE($utensil)} {$utensil} to eat that!
+ingestion-you-need-to-hold-utensil = Щоб це з'їсти, потрібно тримати {INDEFINITE($utensil)} {$utensil}!
 
-ingestion-try-use-is-empty = {CAPITALIZE(THE($entity))} is empty!
-ingestion-try-use-wrong-utensil = You can't {$verb} {THE($food)} with {INDEFINITE($utensil)} {$utensil}.
+ingestion-try-use-is-empty = {CAPITALIZE(THE($entity))} порожнє!
+ingestion-try-use-wrong-utensil = Ви не можете {$verb} {THE($food)} за допомогою {INDEFINITE($utensil)} {$utensil}.
 
-ingestion-remove-mask = You need to take off the {$entity} first.
+ingestion-remove-mask = Спочатку потрібно зняти {$entity}.
 
 ## Failed Ingestion
 
-ingestion-you-cannot-ingest-any-more = You can't {$verb} any more!
-ingestion-other-cannot-ingest-any-more = {CAPITALIZE(SUBJECT($target))} can't {$verb} any more!
+ingestion-you-cannot-ingest-any-more = Ви не можете {$verb} більше!
+ingestion-other-cannot-ingest-any-more = {CAPITALIZE(SUBJECT($target))} не може більше {$verb}!
 
-ingestion-cant-digest = You can't digest {THE($entity)}!
-ingestion-cant-digest-other = {CAPITALIZE(SUBJECT($target))} can't digest {THE($entity)}!
+ingestion-cant-digest = Ви не можете перетравити {THE($entity)}!
+ingestion-cant-digest-other = {CAPITALIZE(SUBJECT($target))} не може перетравити {THE($entity)}!
 
 ## Action Verbs, not to be confused with Verbs
 
-ingestion-verb-food = Eat
-ingestion-verb-drink = Drink
+ingestion-verb-food = Їсти
+ingestion-verb-drink = Пити
 
 # Edible Component
 
@@ -37,20 +37,20 @@ edible-has-used-storage = You cannot {$verb} { THE($food) } with an item stored 
 
 ## Nouns
 
-edible-noun-edible = edible
-edible-noun-food = food
-edible-noun-drink = drink
-edible-noun-pill = pill
+edible-noun-edible = їстівне
+edible-noun-food = їжа
+edible-noun-drink = напій
+edible-noun-pill = пігулка
 
 ## Verbs
 
-edible-verb-edible = ingest
-edible-verb-food = eat
-edible-verb-drink = drink
-edible-verb-pill = swallow
+edible-verb-edible = спожити
+edible-verb-food = з'їсти
+edible-verb-drink = випити
+edible-verb-pill = проковтнути
 
 ## Force feeding
 
-edible-force-feed = {CAPITALIZE(THE($user))} is trying to make you {$verb} something!
-edible-force-feed-success = {CAPITALIZE(THE($user))} forced you to {$verb} something! {$flavors}
-edible-force-feed-success-user = You successfully feed {THE($target)}
+edible-force-feed = {CAPITALIZE($user)} намагається змусити вас {$verb} щось!
+edible-force-feed-success = {CAPITALIZE($user)} змусив вас {$verb} щось! {$flavors}{ -edible-satiated(satiated: $satiated, verb: $verb) }
+edible-force-feed-success-user = Ви успішно нагодували {$target}

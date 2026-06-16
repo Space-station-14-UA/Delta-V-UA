@@ -1,4 +1,4 @@
-lathe-component-upgrade-speed = speed
-lathe-component-upgrade-material-use = material use
+lathe-component-upgrade-speed = швидкість
+lathe-component-upgrade-material-use = використання матеріалів
 
-lathe-component-output-slot-beaker-name = Beaker slot
+lathe-component-output-slot-beaker-name = Слот для мензурки

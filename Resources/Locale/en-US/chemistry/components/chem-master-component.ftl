@@ -1,40 +1,40 @@
 ## Entity
 
-chem-master-component-activate-no-hands = You have no hands.
-chem-master-component-cannot-put-entity-message = You can't put this in the ChemMaster!
+chem-master-component-activate-no-hands = У вас нема рук.
+chem-master-component-cannot-put-entity-message = Ви не можете покласти це у ChemMaster!
 
 ## Bound UI
 chem-master-bound-user-interface-title = ChemMaster 4000
 
 ## UI
 
-chem-master-window-input-tab = Input
-chem-master-window-output-tab = Output
-chem-master-window-container-label = Container
-chem-master-window-eject-button = Eject
-chem-master-window-no-container-loaded-text = No container loaded.
-chem-master-window-buffer-text = Buffer
-chem-master-window-buffer-label = buffer:
-chem-master-window-buffer-all-amount = All
-chem-master-window-buffer-empty-text = Buffer empty.
-chem-master-window-buffer-low-text = Not enough solution in buffer
-chem-master-window-packaging-text = Packaging
-chem-master-current-text-label = Label:
-chem-master-window-pills-label = Pills:
-chem-master-window-pill-type-label = Pill type:
-chem-master-window-pills-number-label = Count:
-chem-master-window-dose-label = Dose (u):
-chem-master-window-create-button = Create
-chem-master-window-bottles-label = Bottles:
-chem-master-window-unknown-reagent-text = Unknown reagent
-chem-master-window-sort-type-none = Sort by: Oldest First
-chem-master-window-sort-type-alphabetical = Sort by: Alphabetical
-chem-master-window-sort-type-quantity = Sort by: Quantity
-chem-master-window-sort-type-latest = Sort by: Recent First
-chem-master-output-buffer-draw = Buffer
-chem-master-output-beaker-draw = Beaker
-chem-master-window-no-beaker-text = No beaker loaded
-chem-master-window-beaker-empty-text = Beaker Empty
-chem-master-window-beaker-low-text = Not enough solution in beaker
-chem-master-output-source = Packaging source:
-chem-master-no-source = No Source
+chem-master-window-input-tab = Вхід
+chem-master-window-output-tab = Вихід
+chem-master-window-container-label = Резервуар
+chem-master-window-eject-button = Дістати
+chem-master-window-no-container-loaded-text = Контейнер не завантажений.
+chem-master-window-buffer-text = Буфер
+chem-master-window-buffer-label = буфер:
+chem-master-window-buffer-all-amount = Усе
+chem-master-window-buffer-empty-text = Буфер пустий.
+chem-master-window-buffer-low-text = Недостатньо розчину у буфері
+chem-master-window-packaging-text = Пакування
+chem-master-current-text-label = Етикетка:
+chem-master-window-pills-label = Таблетки:
+chem-master-window-pill-type-label = Тип таблеток:
+chem-master-window-pills-number-label = Кількість:
+chem-master-window-dose-label = Доза (а.о.м.):
+chem-master-window-create-button = Створити
+chem-master-window-bottles-label = Пляшки:
+chem-master-window-unknown-reagent-text = Невідомий реагент
+chem-master-window-sort-type-none = Сортувати за: спочатку найстаріші
+chem-master-window-sort-type-alphabetical = Сортувати за: алфавітом
+chem-master-window-sort-type-quantity = Сортувати за: кількістю
+chem-master-window-sort-type-latest = Сортувати за: спочатку нещодавні
+chem-master-output-buffer-draw = Буфер
+chem-master-output-beaker-draw = Склянка
+chem-master-window-no-beaker-text = Склянку не вставлено
+chem-master-window-beaker-empty-text = Склянка порожня
+chem-master-window-beaker-low-text = Недостатньо розчину в склянці
+chem-master-output-source = Джерело пакування:
+chem-master-no-source = Джерело відсутнє

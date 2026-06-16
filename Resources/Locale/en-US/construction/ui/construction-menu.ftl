@@ -1,9 +1,9 @@
 ## ConstructionMenu.xaml.cs
 
-construction-menu-title = Construction
-construction-menu-place-ghost = Place construction ghost
-construction-menu-clear-all = Clear All
-construction-menu-eraser-mode = Eraser Mode
-construction-menu-craft = Craft
-construction-menu-search = Search
-construction-menu-grid-view = Grid View
+construction-menu-title = Будівництво
+construction-menu-place-ghost = Розмістити примару конструкції
+construction-menu-clear-all = Очистити все
+construction-menu-eraser-mode = Режим стирання
+construction-menu-craft = Створити
+construction-menu-search = Пошук
+construction-menu-grid-view = Вигляд в сітці

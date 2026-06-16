@@ -6,8 +6,8 @@ namespace Content.Server.Speech.EntitySystems;
 
 public sealed class MothAccentSystem : EntitySystem
 {
-    private static readonly Regex RegexLowerBuzz = new Regex("z{1,3}");
-    private static readonly Regex RegexUpperBuzz = new Regex("Z{1,3}");
+    private static readonly Regex RegexLowerBuzz = new Regex("[zзж]{1,3}");
+    private static readonly Regex RegexUpperBuzz = new Regex("[ZЗЖ]{1,3}");
 
     public override void Initialize()
     {
@@ -19,10 +19,11 @@ public sealed class MothAccentSystem : EntitySystem
     {
         var message = args.Message;
 
-        // buzzz
-        message = RegexLowerBuzz.Replace(message, "zzz");
-        // buZZZ
-        message = RegexUpperBuzz.Replace(message, "ZZZ");
+        // Triple lower-case "z", "з", "ж"
+        message = RegexLowerBuzz.Replace(message, match => new string(match.Value[0], 3));
+
+        // Triple upper-case "Z", "З", "Ж"
+        message = RegexUpperBuzz.Replace(message, match => new string(match.Value[0], 3));
 
         args.Message = message;
     }
