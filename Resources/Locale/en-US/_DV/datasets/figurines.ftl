@@ -1,70 +1,86 @@
-figurines-secretary-1 = One soy latté, coming up.
-figurines-secretary-2 = Who was I meant to send a fax again?
-figurines-secretary-3 = Wait I have a job?
-figurines-secretary-4 = Wait what did you want me to write?
+# Секретар
+figurines-secretary-1 = Один соєвий лате вже готовий.
+figurines-secretary-2 = Кому я мала відправити факс, нагадайте?
+figurines-secretary-3 = Зачекайте, у мене є робота?
+figurines-secretary-4 = Стійте, що саме ви хотіли, щоб я написала?
 
-figurines-cj-1 = Prisoners must be provided with food, water, clothing, free movement within the brig, adequate medical care, access to the Common and Prison radio channels, and moral, spiritual, or legal counseling if requested and available.
-figurines-cj-2 = Hos, demote the Warden.
-figurines-cj-3 = ORDER!!
+# Головний Суддя (CJ)
+figurines-cj-1 = Ув'язнені повинні бути забезпечені їжею, водою, одягом, вільним пересуванням у межах бригу, належною медичною допомогою, доступом до загального та тюремного радіоканалів, а також моральною, духовною чи юридичною консультацією за запитом.
+figurines-cj-2 = ГСБ, понизь наглядача.
+figurines-cj-3 = ТИША В ЗАЛІ!!
 
-figurines-clerk-1 = HOLY $!?& A TRIAL!
-figurines-clerk-2 = Where's my stamp...
-figurines-clerk-3 = No you can’t raid epi without a warrant.
+# Клерк
+figurines-clerk-1 = СВЯТИЙ $!?&, СУДОВИЙ ПРОЦЕС!
+figurines-clerk-2 = Де ж моя печатка...
+figurines-clerk-3 = Ні, ви не можете штурмувати епістеміку без ордера.
 
-figurines-corpsman-1 = HOLD STILL SO I CAN HEAL YOU
-figurines-corpsman-2 = Another Perma is crit.
+# Корпсмен (Бригмед)
+figurines-corpsman-1 = ЗАМРИ, ЩОБ Я МІГ ТЕБЕ ВИЛІКУВАТИ!
+figurines-corpsman-2 = Ще один з перми в критичному стані.
 
-figurines-gladiator-1 = ORDER MORE BEASTS!!
-figurines-gladiator-2 = parole please.
-figurines-gladiator-3 = BLOOD FOR THE BLOOD GOD.
+# Глідіатор
+figurines-gladiator-1 = ЗАМОВЛЯЙТЕ БІЛЬШЕ ЗВІРІВ!!
+figurines-gladiator-2 = Будь ласка, УДЗ.
+figurines-gladiator-3 = КРОВ ДЛЯ БОГА КРОВІ.
 
-figurines-mantis-1 = CODE WHITE!!
-figurines-mantis-2 = please stop using psionics...
-figurines-mantis-3 = I need to mindbreak the mime.
-figurines-mantis-4 = Pulse is useless.
+# Богомол (Psionic Mantis)
+figurines-mantis-1 = КОД БІЛИЙ!!
+figurines-mantis-2 = Будь ласка, припиніть використовувати псіоніку...
+figurines-mantis-3 = Мені треба стерти розум міму.
+figurines-mantis-4 = Пульс марний.
 
-figurines-prisoner-1 = Plushies and weed please.
-figurines-prisoner-2 = Warden is abusing me!
-figurines-prisoner-3 = Hissssss.
+# В'язень
+figurines-prisoner-1 = Плюшеві іграшки та травичку, будь ласка.
+figurines-prisoner-2 = Наглядач знущається з мене!
+figurines-prisoner-3 = Хсссссс.
 
-figurines-prisonguard-1 = What do you mean I need to stay in Perma.
-figurines-prisonguard-2 = No you can't have a knife.
+# Тюремний наглядач
+figurines-prisonguard-1 = Що значить «я маю залишатися в пермі»?
+figurines-prisonguard-2 = Ні, ніж тобі не положений.
 
-figurines-prosec-1 = HEARSAY!
-figurines-prosec-2 = He shot the clown? Pardoned.
-figurines-prosec-3 = If you would take a look at this updated autopsy report.
+# Прокурор
+figurines-prosec-1 = ЧУТКИ!
+figurines-prosec-2 = Він застрелив клоуна? Помилуваний.
+figurines-prosec-3 = Якщо ви поглянете на цей оновлений звіт про розтин...
 
-figurines-roboticist-1 = Wanna get borged?
-figurines-roboticist-2 = I wish I had binary...
+# Робототехнік
+figurines-roboticist-1 = Хочеш стати боргом?
+figurines-roboticist-2 = Шкода, що я не розумію бінарний код...
 
-figurines-slimechem-1 = So much cogni...
-figurines-slimechem-2 = WHO BOMBED MY MEDS?
+# Слаймохімік
+figurines-slimechem-1 = Так багато когні...
+figurines-slimechem-2 = ХТО ПІДІРВАВ МОЇ МЕДИКАМЕНТИ?
 
-figurines-lpo-1 = BLOOD-RED IN BRIDGE (They're really in engi).
-figurines-lpo-2 = Yes you can have all access.
-figurines-lpo-3 = No YOURE not real.
-figurines-lpo-4 = Nobody reads faxes...
+# LPO (Офіцер мостику)
+figurines-lpo-1 = КРИВАВО-ЧЕРВОНИЙ НА МІСТКУ (Насправді вони в інженерії).
+figurines-lpo-2 = Так, я дам тобі повний доступ.
+figurines-lpo-3 = Ні, це ТИ несправжній.
+figurines-lpo-4 = Ніхто не читає факси...
 
-figurines-synthesis-1 = Uranium please.
-figurines-synthesis-2 = Hey kid wanna buy some stims?
-figurines-synthesis-3 = For the health of Hu- I mean Sophontkind.
-figurines-synthesis-4 = Interdynes, the only Cigarette worth smoking.
+# Синтез (Синтетичний хімік)
+figurines-synthesis-1 = Уран, будь ласка.
+figurines-synthesis-2 = Гей, малий, хочеш трохи стимів?
+figurines-synthesis-3 = Заради здоров'я люд- тобто Розумних видів.
+figurines-synthesis-4 = Interdynes — єдині сигарети, варті куріння.
 
-figurines-recruiter-1 = Use my pen. why? Its company policy.
-figurines-recruiter-2 = You're not mindshielded, right?
-figurines-recruiter-3 = Give me back my pen!!
-figurines-recruiter-4 = Did I mention the sign-on bonus?
+# Рекрутер
+figurines-recruiter-1 = Використовуй мою ручку. Чому? Політика компанії.
+figurines-recruiter-2 = Ти ж не під ментальним щитом, правда?
+figurines-recruiter-3 = Віддай мою ручку!!
+figurines-recruiter-4 = Я вже згадував про бонус за підписання контракту?
 
-figurines-neuroticist-1 = Borgs shall control the station.
-figurines-neuroticist-2 = MUAHAHAHAHAHAHA.
-figurines-neuroticist-3 = I have come to make an announcement.
-figurines-neuroticist-4 = You work for me now.
+# Невротист
+figurines-neuroticist-1 = Борги мають керувати станцією.
+figurines-neuroticist-2 = МУА-ХА-ХА-ХА-ХА-ХА.
+figurines-neuroticist-3 = Я прийшов зробити оголошення.
+figurines-neuroticist-4 = Тепер ти працюєш на мене.
 
-figurines-cosmiccultist-1 = This is the end.
-figurines-cosmiccultist-2 = It's lambda, not delta.
-figurines-cosmiccultist-3 = Nothing to see here.
-figurines-cosmiccultist-4 = I know, I'm simply breathtaking.
-figurines-cosmiccultist-5 = My cult so cosmic!
-figurines-cosmiccultist-6 = Wanna go stargazing?
-figurines-cosmiccultist-7 = No, I don't know where the rift went.
-figurines-cosmiccultist-8 = Join us. We've got lollipops.
+# Космічний культист
+figurines-cosmiccultist-1 = Це кінець.
+figurines-cosmiccultist-2 = Це лямбда, а не дельта.
+figurines-cosmiccultist-3 = Тут нема на що дивитися.
+figurines-cosmiccultist-4 = Я знаю, я просто неперевершений.
+figurines-cosmiccultist-5 = Мій культ такий космічний!
+figurines-cosmiccultist-6 = Хочеш подивитися на зірки?
+figurines-cosmiccultist-7 = Ні, я не знаю, куди подівся розлом.
+figurines-cosmiccultist-8 = Приєднуйся до нас. У нас є льодяники.

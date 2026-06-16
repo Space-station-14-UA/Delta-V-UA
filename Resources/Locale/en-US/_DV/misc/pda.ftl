@@ -1,4 +1,4 @@
-ent-HoSPDA = head of security PDA
-    .desc = Smells like donuts and gunpowder residue.
-ent-LawyerPDA = attorney PDA
-    .desc = For attornies to poach dubious clients.
+ent-HoSPDA = КПК голови служби безпеки
+    .desc = Пахне пончиками та залишками пороху.
+ent-LawyerPDA = КПК адвоката
+    .desc = Для юристів, щоб переманювати сумнівних клієнтів.

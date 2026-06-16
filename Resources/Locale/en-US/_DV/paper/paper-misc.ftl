@@ -1,68 +1,69 @@
-book-text-lunchbox-generic = Hello Honey!
-      I've packed your lunch for this shift, I hope you enjoy it!!
-      Love you so so much,
-       - Mum.
-book-text-lunchbox-healthy = Hello Honey!
-      I've packed you something healthy for this shift! I hope you enjoy it!!
-      Love you so so much,
-       - Mum.
-book-text-lunchbox-unhealthy = Hello Honey!
-      I've packed you something fun for this shift! I hope you enjoy it!!
-      Love you so so much,
-       - Mum.
-book-text-gorlex-girlfriends-subscription-notice = [head=2]Greetings loyal subscriber,[/head]
+book-text-lunchbox-generic = Привіт, люба!
+    Я спакувала тобі обід на цю зміну, сподіваюся, тобі сподобається!!
+    Люблю тебе дуже-дуже сильно,
+        - Матуся.
+book-text-lunchbox-healthy = Привіт, люба!
+    Я спакувала тобі щось корисне на цю зміну! Сподіваюся, тобі сподобається!!
+    Люблю тебе дуже-дуже сильно,
+        - Матуся.
+book-text-lunchbox-unhealthy = Привіт, люба!
+    Я спакувала тобі щось смачненьке на цю зміну! Сподіваюся, тобі сподобається!!
+    Люблю тебе дуже-дуже сильно,
+        - Матуся.
 
-      We hope you enjoy this month's edition of Gorlex Girlfriends™ sponsored by the Syndicate.
+book-text-gorlex-girlfriends-subscription-notice = [head=2]Вітаємо, нашому лояльному передплатнику,[/head]
 
-      With this months issue we will be heading behind the scenes with some of our famous actors working on the amazing "[color=#780606]Nukies[/color]" TV show and maybe show some teasers for next season. Read up on the personal interview with beloved Operative November as she explains the troubles of fake blood getting in her hair!
+    Ми сподіваємося, що вам сподобається випуск "Дівчат Горлекса™" цього місяця, спонсорований Синдикатом.
 
-      All that and more waiting for you inside!
+    У цьому номері ми зазирнемо за лаштунки разом із деякими нашими відомими акторами, що працюють над дивовижним серіалом "[color=#780606]Nukies[/color]", а також, можливо, покажемо кілька тизерів до наступного сезону. Прочитайте особисте інтерв'ю з улюбленицею публіки, Оперативником Листопад, де вона пояснює труднощі, коли штучна кров потрапляє їй у волосся!
 
-      Signing off,
+    Все це та багато іншого чекає на вас всередині!
 
-book-text-centcomm-chads-subscription-notice = [head=2]Greetings loyal subscriber,[/head]
+    З повагою,
 
-      We hope you enjoy this month's edition of CentComm Chads™ sponsored by Nanotrasen!
+book-text-centcomm-chads-subscription-notice = [head=2]Вітаємо, нашому лояльному передплатнику,[/head]
 
-      With this months issue we will be investigating the sheer success of our famous CC Officials and their tips and strategies to climb the career ladder. Read up on the podcast with renowned Commander Chad as he explains how waking up at 3am is a lifehack for productivity!
+    Ми сподіваємося, що вам сподобається випуск "Чади ЦентКому™" цього місяця, спонсорований Nanotrasen!
 
-      All that and more waiting for you inside!
+    У цьому номері ми дослідимо справжній успіх наших відомих посадовців CC, а також їхні поради та стратегії для кар'єрного зростання. Прочитайте подкаст із відомим Командиром Чадом, де він пояснює, чому пробудження о 3-й годині ночі — це лайфхак для продуктивності!
 
-      Signing off,
+    Все це та багато іншого чекає на вас всередині!
 
-paper-salvage-gun-safe-notice = SALVAGE SPECIALIST SELF DEFENSE ARMAMENT NOTICE
+    З повагою,
 
-      Greetings, salvage specialist!
+paper-salvage-gun-safe-notice = ПОВІДОМЛЕННЯ ЩОДО ОЗБРОЄННЯ ДЛЯ САМОЗАХИСТУ СПЕЦІАЛІСТІВ З УТИЛІЗАЦІЇ
 
-      With the growing concern for the safety of our brave salvage workers, we have deployed a standard-issue gun safe.
+    Вітаємо, спеціалісте з утилізації!
 
-      Responsible handing of these firearms is expected. Any use that does not fall under work-related self-defense is strictly prohibited and may result in the removal of firearm privileges and/or termination from the salvage specialist team.
+    З огляду на зростаюче занепокоєння безпекою наших відважних працівників з утилізації, ми встановили сейф для зберігання вогнепальної зброї стандартного зразка.
 
-      Misuse of firearms resulting in endangerment of the station and/or threat or harm to another employee will be prosecuted by the station's justice department.
+    Очікується відповідальне поводження з цією зброєю. Будь-яке використання, що не підпадає під самозахист, пов’язаний із роботою, суворо заборонено і може призвести до позбавлення прав на вогнепальну зброю та/або звільнення зі складу команди спеціалістів з утилізації.
 
-      Remember, safety and responsible firearm use in your hands!
+    Нецільове використання вогнепальної зброї, що призвело до загрози безпеці станції та/або погроз чи заподіяння шкоди іншому співробітнику, буде переслідуватися відділом юстиції станції.
 
-      Nanotrasen Corporate Salvage Division
+    Пам’ятайте: безпека та відповідальне використання вогнепальної зброї — у ваших руках!
 
-paper-viral-care-package-manual = [color=#134975]░░██░░ [head=2]Viral Care Package Manual[/head]
-      ██████ [head=3][color=#5b97bc]For when the cough is more than[/color][/head]
-      ░░██░░ [head=3][color=#5b97bc]just a harmless cough.[/color][/head]
-      ──────────────────────────────────────────[/color]
-      Thank you for purchasing our viral care package!
-      Due to a recent employee-satisfaction survey organized by our [color=darkblue][bold]Sophont Resources Department[/bold][/color], [color=darkblue][bold]Nanotrasen™[/bold][/color] offers you a quick and easy way to relieve the station from an ongoing [color=purple][bold]viral outbreak[/bold][/color], if the station's [color=#5b97bc][bold]medical facilities[/bold][/color] are failing.
+    Корпоративний відділ утилізації Nanotrasen
 
-      ​[head=2][color=#134975]How to mix Ambuzol:[/color][/head]
-      ​[bullet] Pour [bold]15u Hydrogen[/bold] and [bold]5u Nitrogen[/bold] into a bottle to mix [color=#77b58e][bold]Ammonia[/bold][/color].
-      ​[bullet] Pour [bold]5u Silicon[/bold], [bold]5u Potassium[/bold] and [bold]5u Nitrogen[/bold] into a different bottle to mix [color=#3a1d8a][bold]Dylovene[/bold][/color].
-      ​[bullet] Mix [bold][color=#77b58e]5u Ammonia[/color][/bold] and [bold][color=#3a1d8a]5u Dylovene[/color][/bold] with [bold][color=#2b0700]10u Zombie Blood[/color][/bold] to synthesize [bold][color=#86caf7]40u Ambuzol[/color][/bold].
+paper-viral-care-package-manual = [color=#134975]░░██░░ [head=2]Посібник із вірусного набору допомоги[/head]
+    ██████ [head=3][color=#5b97bc]Коли кашель — це більше,[/color][/head]
+    ░░██░░ [head=3][color=#5b97bc]ніж просто нешкідливий кашель.[/color][/head]
+    ──────────────────────────────────────────[/color]
+    Дякуємо, що придбали наш вірусний набір допомоги!
+    Згідно з недавнім опитуванням задоволеності працівників, організованим нашим [color=darkblue][bold]Відділом ресурсів розумних істот[/bold][/color], [color=darkblue][bold]Nanotrasen™[/bold][/color] пропонує вам швидкий і простий спосіб позбавити станцію від триваючого [color=purple][bold]спалаху вірусу[/bold][/color], якщо [color=#5b97bc][bold]медичні заклади[/bold][/color] станції не справляються.
 
-      ​[head=2][color=#134975]How to use Ambuzol:[/color][/head]
-      It is [bold]imperative[/bold] to [bold]not drink[/bold] it! Neither use Hyposprays!
-      The care package contains sterile syringes, use them.
-      Fill a syringe up with [bold][color=#86caf7]10u Ambuzol[/color][/bold] and administer the whole dosage to the infected patient.
-      The supplied [bold][color=green]BioSuits[/color][/bold] will help prevent catching the infection when dealing with the patients.
-      ​[color=#134975]──────────────────────────────────────────[/color]
-      ​[color=gray][italic]Due to a recent lawsuit for insufficent healthcare precautions for work-hazards, this qualifies as the bare minimum to comply with current Employee Rights for a safe work-environment.
-      ​[color=darkblue][bolditalic]Nanotrasen™[/bolditalic][/color] is unable to supply stations with [bolditalic][color=#86caf7]Ambuzol[/color][/bolditalic], as every viral infection requires the specific virus strain to synthesize the cure.
-      ​[color=darkblue][bolditalic]Nanotrasen™[/bolditalic][/color] is not liable to any damages caused by improper usage or administration of chemicals.
-      This instructions pamphlet will be used as "Exhibit A" if you sue [color=darkblue][bolditalic]Nanotrasen™[/bolditalic][/color].
+    ​[head=2][color=#134975]Як змішати Амбузол:[/color][/head]
+    ​[bullet] Налийте [bold]15 од. водню[/bold] та [bold]5 од. азоту[/bold] у пляшку, щоб отримати [color=#77b58e][bold]аміак[/bold][/color].
+    ​[bullet] Налийте [bold]5 од. кремнію[/bold], [bold]5 од. калію[/bold] та [bold]5 од. азоту[/bold] в іншу пляшку, щоб отримати [color=#3a1d8a][bold]Диловен[/bold][/color].
+    ​[bullet] Змішайте [bold][color=#77b58e]5 од. аміаку[/color][/bold] та [bold][color=#3a1d8a]5 од. Диловену[/color][/bold] із [bold][color=#2b0700]10 од. зомбі-крові[/color][/bold], щоб синтезувати [bold][color=#86caf7]40 од. Амбузолу[/bold][/color].
+
+    ​[head=2][color=#134975]Як використовувати Амбузол:[/color][/head]
+    [bold]Наполегливо радимо не пити його![/bold] Також не використовуйте гіпоспреї!
+    Набір містить стерильні шприци — використовуйте їх.
+    Наповніть шприц [bold][color=#86caf7]10 од. Амбузолу[/color][/bold] і введіть усю дозу інфікованому пацієнту.
+    Надані [bold][color=green]біокостюми[/color][/bold] допоможуть запобігти зараженню під час роботи з пацієнтами.
+    ​[color=#134975]──────────────────────────────────────────[/color]
+    ​[color=gray][italic]Через недавній судовий позов щодо недостатніх заходів охорони здоров'я для виробничих небезпек, це вважається мінімумом для дотримання поточних прав працівника на безпечне робоче середовище.
+    ​[color=darkblue][bolditalic]Nanotrasen™[/bolditalic][/color] не в змозі забезпечити станції готовим [bolditalic][color=#86caf7]Амбузолом[/color][/bolditalic], оскільки кожна вірусна інфекція вимагає специфічного штаму вірусу для синтезу ліків.
+    ​[color=darkblue][bolditalic]Nanotrasen™[/bolditalic][/color] не несе відповідальності за будь-які збитки, спричинені неправильним використанням або введенням хімікатів.
+    Ця інструкція буде використана як "Доказ А", якщо ви подасте до суду на [color=darkblue][bolditalic]Nanotrasen™[/bolditalic][/color].[/italic][/color]

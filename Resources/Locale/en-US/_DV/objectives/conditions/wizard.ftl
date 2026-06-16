@@ -1,2 +1,2 @@
-objective-condition-wizard-preserve-person-title = Keep {$targetName}, {CAPITALIZE($job)} alive, no matter the cost.
-objective-condition-wizard-kill-person-title = Eviscerate {$targetName}, {CAPITALIZE($job)} from this mortal coil.
+objective-condition-wizard-preserve-person-title = Зберегти життя {$targetName}, { CAPITALIZE($job) }, за будь-яку ціну.
+objective-condition-wizard-kill-person-title = Вирвати {$targetName}, { CAPITALIZE($job) }, з цього тлінного світу.

@@ -1,8 +1,8 @@
-cargo-account-justice-name = Legal Services Fund
-cargo-account-justice-code = JST
+cargo-account-justice-name = Фонд юридичних послуг
+cargo-account-justice-code = ЮРД
 
-cargo-account-logistics-name = Station Logistics Budget
-cargo-account-logistics-code = LGI
+cargo-account-logistics-name = Бюджет логістики станції
+cargo-account-logistics-code = ЛГС
 
-cargo-account-epistemics-name = Interstellar Epistemology Funding
-cargo-account-epistemics-code = EPI
+cargo-account-epistemics-name = Фінансування міжзоряної епістеміки
+cargo-account-epistemics-code = ЕПІ

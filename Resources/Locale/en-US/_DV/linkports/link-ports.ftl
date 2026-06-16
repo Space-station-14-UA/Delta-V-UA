@@ -1,7 +1,7 @@
-signal-port-name-power-toggle = Toggle Power
-signal-port-description-power-toggle = A signal port, that toggles power state when it recieves a signal.
+signal-port-name-power-toggle = Перемкнути живлення
+signal-port-description-power-toggle = Сигнальний порт, який перемикає стан живлення при отриманні сигналу.
 
-signal-port-description-playback = Start audio playback.
-signal-port-description-record = Start recording audio.
-signal-port-description-rewind = Rewind audio.
-signal-port-description-pause = Stop playing, recording, or rewinding.
+signal-port-description-playback = Запустити відтворення аудіо.
+signal-port-description-record = Почати запис аудіо.
+signal-port-description-rewind = Перемотати аудіо назад.
+signal-port-description-pause = Зупинити відтворення, запис або перемотування.

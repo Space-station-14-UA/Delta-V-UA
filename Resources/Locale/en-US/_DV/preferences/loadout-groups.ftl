@@ -1,173 +1,171 @@
-# This file will contain strings for both DeltaV and Nyanotrasen loadouts, because I'm lazy
-
 # Miscellaneous
-loadout-group-survival-corpsman = Corpsman survival box
+loadout-group-survival-corpsman = Рятувальний набір санітара
 
 # Command
-loadout-group-captain-gloves = Captain gloves
-loadout-group-captain-shoes = Captain shoes
-loadout-group-hop-gloves = Head of Personnel gloves
-loadout-group-hop-shoes = Head of Personnel shoes
-loadout-group-chief-engineer-gloves = Chief Engineer gloves
+loadout-group-captain-gloves = Рукавички капітана
+loadout-group-captain-shoes = Черевики капітана
+loadout-group-hop-gloves = Рукавички голови персоналу
+loadout-group-hop-shoes = Черевики голови персоналу
+loadout-group-chief-engineer-gloves = Рукавички головного інженера
 
 # Civilian
-loadout-group-librarian-neck = Librarian neck
+loadout-group-librarian-neck = Шийний аксесуар бібліотекаря
 
-loadout-group-bartender-glasses = Bartender glasses
-loadout-group-bartender-neck = Bartender neck
+loadout-group-bartender-glasses = Окуляри бармена
+loadout-group-bartender-neck = Шийний аксесуар бармена
 
-loadout-group-janitor-neck = Janitor neck
+loadout-group-janitor-neck = Шийний аксесуар прибиральника
 
-loadout-group-botanist-neck = Botanist neck
+loadout-group-botanist-neck = Шийний аксесуар ботаніка
 
-loadout-group-mime-neck = Mime neck
+loadout-group-mime-neck = Шийний аксесуар міма
 
-loadout-group-musician-neck = Musician neck
+loadout-group-musician-neck = Шийний аксесуар музиканта
 
-loadout-group-passenger-id-delta = Assistant PDA
-loadout-group-bartender-id-delta = Bartender PDA
-loadout-group-chef-id-delta = Chef PDA
-loadout-group-clown-id-delta = Clown PDA
-loadout-group-janitor-id-delta = Janitor PDA
+loadout-group-passenger-id-delta = ПДА асистента
+loadout-group-bartender-id-delta = ПДА бармена
+loadout-group-chef-id-delta = ПДА шеф-кухаря
+loadout-group-clown-id-delta = ПДА клоуна
+loadout-group-janitor-id-delta = ПДА прибиральника
 
-loadout-group-serviceworker-head = Service Worker head
-loadout-group-serviceworker-jumpsuit = Service Worker jumpsuit
+loadout-group-serviceworker-head = Головний убір працівника сфери обслуговування
+loadout-group-serviceworker-jumpsuit = Комбінезон працівника сфери обслуговування
 
-loadout-group-assistant-head = Assistant head
+loadout-group-assistant-head = Головний убір асистента
 
-loadout-group-clown-mask = Clown mask
+loadout-group-clown-mask = Маска клоуна
 
 # Logistics
 
-loadout-group-cargo-technician-neck = Cargo Technician neck
+loadout-group-cargo-technician-neck = Шийний аксесуар вантажника
 
-loadout-group-cargo-id-delta = Cargo Technician PDA
+loadout-group-cargo-id-delta = ПДА вантажника
 
-loadout-group-courier-head = Courier head
-loadout-group-courier-neck = Courier neck
-loadout-group-courier-jumpsuit = Courier jumpsuit
-loadout-group-courier-shoes = Courier shoes
-loadout-group-courier-outerclothing = Courier outer clothing
-loadout-group-courier-backpack = Courier backpack
-loadout-group-courier-id = Courier ID
+loadout-group-courier-head = Головний убір кур'єра
+loadout-group-courier-neck = Шийний аксесуар кур'єра
+loadout-group-courier-jumpsuit = Комбінезон кур'єра
+loadout-group-courier-shoes = Черевики кур'єра
+loadout-group-courier-outerclothing = Верхній одяг кур'єра
+loadout-group-courier-backpack = Рюкзак кур'єра
+loadout-group-courier-id = ID-картка кур'єра
 
-loadout-group-mail-carrier-head = Mail Carrier head
-loadout-group-mail-carrier-jumpsuit = Mail Carrier jumpsuit
-loadout-group-mail-carrier-outerclothing = Mail Carrier outer clothing
+loadout-group-mail-carrier-head = Головний убір поштаря
+loadout-group-mail-carrier-jumpsuit = Комбінезон поштаря
+loadout-group-mail-carrier-outerclothing = Верхній одяг поштаря
 
-loadout-group-cargo-assistant-head = Cargo Assistant head
-loadout-group-cargo-assistant-jumpsuit = Cargo Assistant jumpsuit
-loadout-group-cargo-assistant-backpack = Cargo Assistant backpack
-loadout-group-cargo-assistant-outerclothing = Cargo Assistant outer clothing
-loadout-group-cargo-assistant-shoes = Cargo Assistant shoes
+loadout-group-cargo-assistant-head = Головний убір асистента вантажного відділу
+loadout-group-cargo-assistant-jumpsuit = Комбінезон асистента вантажного відділу
+loadout-group-cargo-assistant-backpack = Рюкзак асистента вантажного відділу
+loadout-group-cargo-assistant-outerclothing = Верхній одяг асистента вантажного відділу
+loadout-group-cargo-assistant-shoes = Черевики асистента вантажного відділу
 
-loadout-group-salvage-specialist-neck = Salvage Specialist neck
-loadout-group-salvage-specialist-jumpsuit = Salvage Specialist jumpsuit
+loadout-group-salvage-specialist-neck = Шийний аксесуар спеціаліста з утилізації
+loadout-group-salvage-specialist-jumpsuit = Комбінезон спеціаліста з утилізації
 
-loadout-group-salvage-id-delta = Salvage Specialist PDA
+loadout-group-salvage-id-delta = ПДА спеціаліста з утилізації
 
 # Medical
-loadout-group-chemist-gloves = Chemist gloves
-loadout-group-chemist-shoes = Chemist shoes
-loadout-group-chemist-neck = Chemist neck
-loadout-group-chemist-id = Chemist PDA
-loadout-group-chemist-head = Chemist head
+loadout-group-chemist-gloves = Рукавички хіміка
+loadout-group-chemist-shoes = Черевики хіміка
+loadout-group-chemist-neck = Шийний аксесуар хіміка
+loadout-group-chemist-id = ПДА хіміка
+loadout-group-chemist-head = Головний убір хіміка
 
-loadout-group-medical-doctor-neck = Medical Doctor neck
+loadout-group-medical-doctor-neck = Шийний аксесуар лікаря
 
-loadout-group-medical-intern-id-delta = Medical Intern PDA
+loadout-group-medical-intern-id-delta = ПДА медичного інтерна
 
-loadout-group-psychologist-head = Psychologist head
-loadout-group-psychologist-outerclothing = Psychologist outer clothing
-loadout-group-psychologist-shoes = Psychologist shoes
-loadout-group-psychologist-id-delta = Psychologist PDA
-loadout-group-psychologist-belt = Psychologist belt
+loadout-group-psychologist-head = Головний убір психолога
+loadout-group-psychologist-outerclothing = Верхній одяг психолога
+loadout-group-psychologist-shoes = Черевики психолога
+loadout-group-psychologist-id-delta = ПДА психолога
+loadout-group-psychologist-belt = Пояс психолога
 
-loadout-group-surgeon-head = Surgeon head
-loadout-group-surgeon-mask = Surgeon mask
-loadout-group-surgeon-scrubs = Surgeon scrubs
-loadout-group-surgeon-gloves = Surgeon gloves
-loadout-group-surgeon-id = Surgeon PDA
+loadout-group-surgeon-head = Головний убір хірурга
+loadout-group-surgeon-mask = Хірургічна маска
+loadout-group-surgeon-scrubs = Хірургічний костюм
+loadout-group-surgeon-gloves = Хірургічні рукавички
+loadout-group-surgeon-id = ПДА хірурга
 
 # Miscellaneous
-loadout-group-scarfs = Scarf
+loadout-group-scarfs = Шарф
 
 # Epistemics
-loadout-group-mantis-head = Mantis head
-loadout-group-mantis-jumpsuit = Mantis jumpsuit
-loadout-group-mantis-outerclothing = Mantis outer clothing
-loadout-group-mantis-shoes = Mantis shoes
-loadout-group-mantis-gloves = Mantis gloves
+loadout-group-mantis-head = Головний убір богомола
+loadout-group-mantis-jumpsuit = Комбінезон богомола
+loadout-group-mantis-outerclothing = Верхній одяг богомола
+loadout-group-mantis-shoes = Черевики богомола
+loadout-group-mantis-gloves = Рукавички богомола
 
-loadout-group-roboticist-head = Roboticist head
-loadout-group-roboticist-jumpsuit = Roboticist jumpsuit
-loadout-group-roboticist-gloves = Roboticist gloves
-loadout-group-roboticist-glasses = Roboticist glasses
-loadout-group-roboticist-shoes = Roboticist shoes
-loadout-group-roboticist-outerclothing = Roboticist outer clothing
-loadout-group-roboticist-id = Roboticist PDA
+loadout-group-roboticist-head = Головний убір робототехніка
+loadout-group-roboticist-jumpsuit = Комбінезон робототехніка
+loadout-group-roboticist-gloves = Рукавички робототехніка
+loadout-group-roboticist-glasses = Окуляри робототехніка
+loadout-group-roboticist-shoes = Черевики робототехніка
+loadout-group-roboticist-outerclothing = Верхній одяг робототехніка
+loadout-group-roboticist-id = ПДА робототехніка
 
 # Engineering
-loadout-group-station-engineer-neck = Station Engineer neck
+loadout-group-station-engineer-neck = Шийний аксесуар інженера станції
 
-loadout-group-atmospheric-technician-neck = Atmospheric Technician neck
+loadout-group-atmospheric-technician-neck = Шийний аксесуар атмосферного техніка
 
-loadout-group-atmos-id-delta = Atmospheric Technician PDA
+loadout-group-atmos-id-delta = ПДА атмосферного техніка
 
-loadout-group-atmospheric-technician-head = Atmospheric Technician head
+loadout-group-atmospheric-technician-head = Головний убір атмосферного техніка
 
 # Security
-loadout-group-head-of-security-shoes = Head of Security shoes
+loadout-group-head-of-security-shoes = Черевики голови служби безпеки
 
-loadout-group-security-cadet-head = Security Cadet head
-loadout-group-security-neck = Security neck
-loadout-group-security-gloves = Security gloves
-loadout-group-security-eyewear = Security eyewear
+loadout-group-security-cadet-head = Головний убір кадета СБ
+loadout-group-security-neck = Шийний аксесуар офіцера СБ
+loadout-group-security-gloves = Рукавички СБ
+loadout-group-security-eyewear = Окуляри СБ
 
-loadout-group-brig-medic-head = Corpsman head
-loadout-group-brig-medic-jumpsuit = Corpsman jumpsuit
-loadout-group-brig-medic-back = Corpsman backpack
-loadout-group-brig-medic-neck = Corpsman neck
-loadout-group-brig-medic-outerclothing = Corpsman outer clothing
-loadout-group-corpsman-eyewear = Corpsman eyewear
+loadout-group-brig-medic-head = Головний убір санітара
+loadout-group-brig-medic-jumpsuit = Комбінезон санітара
+loadout-group-brig-medic-back = Рюкзак санітара
+loadout-group-brig-medic-neck = Шийний аксесуар санітара
+loadout-group-brig-medic-outerclothing = Верхній одяг санітара
+loadout-group-corpsman-eyewear = Окуляри санітара
 
-loadout-group-prison-guard-head = Prison Guard head
-loadout-group-prison-guard-jumpsuit = Prison Guard jumpsuit
+loadout-group-prison-guard-head = Головний убір тюремного наглядача
+loadout-group-prison-guard-jumpsuit = Комбінезон тюремного наглядача
 
-loadout-group-security-gun = Security sidearm
-loadout-group-revolver-gun = Security revolver
-loadout-group-all-gun = Security sidearm
-loadout-group-security-gun-ammo = Ammunition
-loadout-group-revolver-ammo = Ammunition
-loadout-group-all-ammo = Ammunition
-security-utility = Utility
+loadout-group-security-gun = Табельна зброя СБ
+loadout-group-revolver-gun = Револьвер СБ
+loadout-group-all-gun = Табельна зброя СБ
+loadout-group-security-gun-ammo = Боєприпаси
+loadout-group-revolver-ammo = Боєприпаси
+loadout-group-all-ammo = Боєприпаси
+security-utility = Спорядження СБ
 
 # Justice
-loadout-group-chiefjustice-head = Chief Justice head
-loadout-group-chiefjustice-jumpsuit = Chief Justice jumpsuit
-loadout-group-chiefjustice-neck = Chief Justice neck
-loadout-group-chiefjustice-outerclothing = Chief Justice outer clothing
-loadout-group-chiefjustice-shoes = Chief Justice shoes
+loadout-group-chiefjustice-head = Головний убір головного судді
+loadout-group-chiefjustice-jumpsuit = Комбінезон головного судді
+loadout-group-chiefjustice-neck = Шийний аксесуар головного судді
+loadout-group-chiefjustice-outerclothing = Верхній одяг головного судді
+loadout-group-chiefjustice-shoes = Черевики головного судді
 
-loadout-group-clerk-jumpsuit = Clerk jumpsuit
-loadout-group-clerk-neck = Clerk neck
-loadout-group-clerk-outerclothing = Clerk outer clothing
-loadout-group-clerk-shoes = Clerk shoes
+loadout-group-clerk-jumpsuit = Комбінезон клерка
+loadout-group-clerk-neck = Шийний аксесуар клерка
+loadout-group-clerk-outerclothing = Верхній одяг клерка
+loadout-group-clerk-shoes = Черевики клерка
 
-loadout-group-prosecutor-jumpsuit = Prosecutor jumpsuit
-loadout-group-prosecutor-neck = Prosecutor neck
-loadout-group-prosecutor-outer-clothing = Prosecutor outer clothing
+loadout-group-prosecutor-jumpsuit = Комбінезон прокурора
+loadout-group-prosecutor-neck = Шийний аксесуар прокурора
+loadout-group-prosecutor-outer-clothing = Верхній одяг прокурора
 
 # Wildcards
-loadout-group-prisoner-jumpsuit = Prisoner jumpsuit
+loadout-group-prisoner-jumpsuit = Комбінезон в'язня
 
-loadout-group-martial-artist-jumpsuit = Martial Artist jumpsuit
-loadout-group-martial-belt = Martial Artist belt
-loadout-group-martial-artist-shoes = Martial Artist shoes
+loadout-group-martial-artist-jumpsuit = Комбінезон майстра бойових мистецтв
+loadout-group-martial-belt = Пояс майстра бойових мистецтв
+loadout-group-martial-artist-shoes = Черевики майстра бойових мистецтв
 
-loadout-group-gladiator-jumpsuit = Gladiator jumpsuit
-loadout-group-gladiator-outerclothing = Gladiator outer clothing
+loadout-group-gladiator-jumpsuit = Комбінезон гладіатора
+loadout-group-gladiator-outerclothing = Верхній одяг гладіатора
 
-loadout-group-boxer-jumpsuit = Boxer jumpsuit
-loadout-group-boxer-gloves = Boxer gloves
-loadout-group-boxer-mask = Wrestling mask
+loadout-group-boxer-jumpsuit = Комбінезон боксера
+loadout-group-boxer-gloves = Боксерські рукавички
+loadout-group-boxer-mask = Маска рестлера

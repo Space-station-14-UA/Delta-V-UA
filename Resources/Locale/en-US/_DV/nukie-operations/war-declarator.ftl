@@ -1,3 +1,3 @@
-war-declarator-standards-warning = Do NOT use this for making silly announcements.
-    Remember - you are elite operatives tasked with destroying the station. Act like it.
-    Failure to abide by this rule may lead to unfortunate acidifier failure.
+war-declarator-standards-warning = НЕ використовуйте це для безглуздих оголошень.
+    Пам'ятайте — ви елітні оперативники, чиє завдання знищити станцію. Поводьтеся відповідним чином.
+    Недотримання цього правила може призвести до прикрої відмови роботи кислотного деструктора.

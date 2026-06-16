@@ -1,1 +1,1 @@
-ce-clipboard-computer-verb-text = Toggle Power Monitor
+ce-clipboard-computer-verb-text = Перемкнути монітор живлення

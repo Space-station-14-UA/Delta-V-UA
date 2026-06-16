@@ -1,45 +1,45 @@
-hitman-sharpshooter-kit-name = Sharpshooter kit
+hitman-sharpshooter-kit-name = Набір влучного стрільця
 hitman-sharpshooter-kit-description =
-    A kit for those who prefer killing from afar.
-    Provides a Hristov with ammo along with an outfit in a briefcase.
-    it also provides thermal goggles to find your targets.
+    Набір для тих, хто віддає перевагу вбивствам здалеку.
+    Містить гвинтівку «Хрістов» (Hristov) із набоями, а також костюм у дипломаті.
+    Окрім цього, містить тепловізійні окуляри для пошуку ваших цілей.
 
-hitman-loud-kit-name = Loud kit
+hitman-loud-kit-name = Гучний набір
 hitman-loud-kit-description =
-    A kit for those who like a direct method.
-    Provides a Python with Armor-Piercing rounds and two speedloaders.
-    Alongside an extra of an armor vest and no-slip shoes.
+    Набір для тих, кому до вподоби діяти навпростець.
+    Містить револьвер «Пітон» (Python) із бронебійними набоями та двома спідлоадерами.
+    А на додачу — бронежилет і протиковзне взуття.
 
-hitman-assassin-kit-name = Assassin kit
+hitman-assassin-kit-name = Набір ассасина
 hitman-assassin-kit-description =
-    A kit for the quiet killers.
-    Provides a Cobra with an extra magazine and armor piercing throwing knives.
-    alongside night vision goggles and a radio jammer.
+    Набір для прихованих убивць.
+    Містить пістолет «Кобра» (Cobra) з додатковим магазином і бронебійні метальні ножі.
+    Разом із цим — окуляри нічного бачення та глушник радіозв'язку.
 
-hitman-poisoner-kit-name = Poisoner kit
+hitman-poisoner-kit-name = Набір отруйника
 hitman-poisoner-kit-description =
-    A kit for those who enjoy chemicals.
-    Provides a syringe to use with a bottle of pax, toxin, mute toxin, and Nocturine.
-    A chemical synthesis kit is also provided.
+    Набір для тих, хто полюбляє хімікати.
+    Містить шприц і пляшечки з паксом, токсином, німим токсином та ноктуріном.
+    Також додається комплект для хімічного синтезу.
 
-hitman-infiltration-kit-name = Infiltration kit
+hitman-infiltration-kit-name = Набір для проникнення
 hitman-infiltration-kit-description =
-    A kit for those who want to get anywhere.
-    Provides a cryptographic sequencer, syndicate jaws of life and stealth box.
+    Набір для тих, хто хоче потрапити куди завгодно.
+    Містить криптографічний секвенсор (magpul), синдикатівський гідророзтискач (jaws of life) та маскувальну коробку.
 
-hitman-disguise-kit-name = Disguise kit
+hitman-disguise-kit-name = Набір для маскування
 hitman-disguise-kit-description =
-    A kit for those who want to be anyone.
-    Provides an Agent ID, chameleon clothing.
-    Plus a fake MindShield and voice mask implanter.
+    Набір для тих, хто хоче стати будь-ким.
+    Містить ID-картку агента та хамелеон-одяг.
+    Плюс фальшивий імплант захисту розуму (MindShield) та імплантер маски голосу.
 
-hitman-escapist-kit-name = Escapist kit
+hitman-escapist-kit-name = Набір втікача
 hitman-escapist-kit-description =
-    A kit for those who want to get out of anything.
-    Provides a DNA, freedom and scram implanter.
+    Набір для тих, хто хоче вибратися з будь-якої халепи.
+    Містить імпланти зміни ДНК (DNA), звільнення (freedom) та телепортації (scram).
 
-hitman-tracker-kit-name = Tracker kit
+hitman-tracker-kit-name = Набір вистежувача
 hitman-tracker-kit-description =
-    A kit for those who wish to know everything.
-    Provides a station master encryption key and universal pinpointer.
-    Plus a spy monitor.
+    Набір для тих, хто бажає знати все.
+    Містить ключ шифрування капітана станції та універсальний пінпоінтер.
+    А також шпигунський монітор.

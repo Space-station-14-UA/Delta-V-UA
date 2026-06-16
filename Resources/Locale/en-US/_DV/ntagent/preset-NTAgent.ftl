@@ -1,19 +1,19 @@
 NTAgent-role-greeting-human =
-    You're an Internal Affairs Agent for NanoTrasen.
-    Perform tasks delivered by your handler.
-    Keep crew and property damage to a minimum.
-    Don't reveal your new promotion. You're not above station's Command.
-    If you're caught, Central Command will deny everything.
+    Ви — Агент внутрішніх справ корпорації NanoTrasen.
+    Виконуйте завдання, які передає ваш куратор.
+    Зведіть до мінімуму шкоду екіпажу та майну станції.
+    Не розголошуйте інформацію про своє підвищення. Ви не стоїте вище за Командування станції.
+    Якщо вас упіймають, Центральне Командування все заперечуватиме.
 
 NTAgent-briefing =
-    You've been implanted with a CentComm Radio Implanter, alongside NanoLink.
-    Use :y to talk through CentComm channels.
+    Вам було вживлено радіоімплант ЦентКомму разом із NanoLink.
+    Використовуйте префікс :y, щоб говорити по каналах зв'язку ЦентКомму.
 
 objective-issuer-NTAgent = [color=#204cc7]NanoTrasen[/color]
 
-NTAgent-round-end-name = Internal Affairs Agent
+NTAgent-round-end-name = Агент внутрішніх справ
 
-objective-condition-frame-person-title = Frame {$targetName}, {CAPITALIZE($job)}.
-objective-condition-fired-person-title = Get {$targetName}, {CAPITALIZE($job)} fired.
+objective-condition-frame-person-title = Підставити {$targetName}, { CAPITALIZE($job) }.
+objective-condition-fired-person-title = Добитися звільнення {$targetName}, { CAPITALIZE($job) }.
 
-roles-antag-NT-agent-objective = Do dirty work for NanoTrasen.
+roles-antag-NT-agent-objective = Виконувати брудну роботу для NanoTrasen.

@@ -1,1 +1,1 @@
-objective-condition-steal-nuclear-bomb = nuclear bomb
+objective-condition-steal-nuclear-bomb = ядерна бомба

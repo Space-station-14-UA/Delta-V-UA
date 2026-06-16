@@ -1,1 +1,1 @@
-reagent-explanation-netinadone-ribcage = the target's ribcage is open
+reagent-explanation-netinadone-ribcage = грудна клітка цілі розітнута

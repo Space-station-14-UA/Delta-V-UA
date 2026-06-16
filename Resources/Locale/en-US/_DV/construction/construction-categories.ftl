@@ -1,2 +1,2 @@
-construction-category-flags = Flags
-construction-category-atmospherics = Atmospherics
+construction-category-flags = Прапори
+construction-category-atmospherics = Атмосферика

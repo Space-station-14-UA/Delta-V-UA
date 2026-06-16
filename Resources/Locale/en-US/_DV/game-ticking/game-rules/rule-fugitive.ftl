@@ -1,57 +1,57 @@
-fugitive-round-end-agent-name = Fugitive
+fugitive-round-end-agent-name = Втікач
 
-fugitive-spawn = You fall from the ceiling!
+fugitive-spawn = Ви падаєте зі стелі!
 
-station-event-fugitive-hunt-announcement = Please check communications consoles for a sensitive message.
-fugitive-announcement-GALPOL = GALPOL
+station-event-fugitive-hunt-announcement = Будь ласка, перевірте консолі зв'язку на наявність конфіденційного повідомлення.
+fugitive-announcement-GALPOL = ГАЛПОЛ
 
-fugitive-report-title = WANTED FUGITIVE!
-fugitive-report-first-line = An escaped fugitive has been spotted in the sector and disguised their identity. They may be a stowaway on a station somewhere.
-fugitive-report-inhuman = {CAPITALIZE(THE($name))} {CONJUGATE-BE($name)} inhuman. We have no further details.
-fugitive-report-morphotype = MORPHOTYPE: {$species}
-fugitive-report-age = AGE: {$age}
-fugitive-report-sex = SEX: {$sex ->
-    [Male] M
-    [Female] F
-    *[none] N/A
+fugitive-report-title = РОЗШУКУЄТЬСЯ ВТІКАЧ!
+fugitive-report-first-line = У секторі було помічено втікача, який приховав свою особу. Він може переховуватися десь на станції як «заєць».
+fugitive-report-inhuman = {CAPITALIZE(THE($name))} не {CONJUGATE-BE($name)} людиною. Ми не маємо додаткових деталей.
+fugitive-report-morphotype = МОРФОТИП: {$species}
+fugitive-report-age = ВІК: {$age}
+fugitive-report-sex = СТАТЬ: {$sex ->
+    [Male] Ч
+    [Female] Ж
+    *[none] Н/Д
 }
-fugitive-report-weight = WEIGHT: {$weight} kg
+fugitive-report-weight = ВАГА: {$weight} кг
 
 # Random details
-fugitive-report-detail-dna = DNA: {$dna}
-fugitive-report-detail-prints = FINGERPRINT: {$prints}
+fugitive-report-detail-dna = ДНК: {$dna}
+fugitive-report-detail-prints = ВІДБИТКИ ПАЛЬЦІВ: {$prints}
 
-fugitive-report-crimes-header = The above individual is wanted across the sector for the following:
+fugitive-report-crimes-header = Вищезазначена особа розшукується по всьому сектору за наступні правопорушення:
 fugitive-report-crime = - {$count ->
-    [1] One count
-    *[other] {$count} counts
-} of {$crime}
-fugitive-report-last-line = GALPOL are entrusting Nanotrasen with securing this individual and conducting a trial at Central Command.  Please ensure they are kept alive and brought to Central Command.
+    [1] Одне звинувачення
+    *[other] Кількість звинувачень: {$count}
+} у скоєнні {$crime}
+fugitive-report-last-line = ГАЛПОЛ доручає Nanotrasen затримати цю особу та провести судовий процес у Центральному Командуванні. Будь ласка, переконайтеся, що втікач залишиться живим і буде доставлений до Центрального Командування.
 
 # All (non erp) felonies and capital crimes in Space Law as of August 2025
-fugitive-crime-1 = Murder
-fugitive-crime-2 = Terrorism
-fugitive-crime-3 = Grand Sabotage
-fugitive-crime-4 = Prevention of Revival
-fugitive-crime-5 = Sedition
-fugitive-crime-6 = Breach of Custody
+fugitive-crime-1 = вбивства
+fugitive-crime-2 = тероризму
+fugitive-crime-3 = масштабного диверсійного акту
+fugitive-crime-4 = перешкоджання клонуванню
+fugitive-crime-5 = підбурювання до заколоту
+fugitive-crime-6 = втечі з-під варти
 
-fugitive-crime-7 = Manslaughter
-fugitive-crime-8 = Kidnapping
-fugitive-crime-9 = Grand Possession
-fugitive-crime-10 = Noöspheric Tampering
-fugitive-crime-11 = Sabotage
-fugitive-crime-12 = Abuse of Power
-fugitive-crime-13 = Grand Larceny
-fugitive-crime-14 = Black Marketeering
+fugitive-crime-7 = ненавмисного вбивства
+fugitive-crime-8 = викрадення людини
+fugitive-crime-9 = зберігання великої кількості контрабанди
+fugitive-crime-10 = втручання в ноосферу
+fugitive-crime-11 = диверсії
+fugitive-crime-12 = зловживання владою
+fugitive-crime-13 = крадіжки в особливо великих розмірах
+fugitive-crime-14 = торгівлі на чорному ринку
 
-fugitive-crime-15 = Assault
-fugitive-crime-16 = Breaking and Entering
-fugitive-crime-17 = Rioting
-fugitive-crime-18 = Endangerment
-fugitive-crime-19 = Possession
-fugitive-crime-20 = Obstruction of Justice
-fugitive-crime-21 = Perjury
-fugitive-crime-22 = False Report
-fugitive-crime-23 = Contempt of Court
-fugitive-crime-24 = Identity Theft
+fugitive-crime-15 = нападу та нанесення тілесних ушкоджень
+fugitive-crime-16 = незаконного проникнення зі зломом
+fugitive-crime-17 = участі в масових заворушеннях
+fugitive-crime-18 = створення небезпеки для життя
+fugitive-crime-19 = володіння забороненими речами
+fugitive-crime-20 = перешкоджання правосуддю
+fugitive-crime-21 = дачі неправдивих свідчень
+fugitive-crime-22 = завідомо неправдивого повідомлення про злочин
+fugitive-crime-23 = неповаги до суду
+fugitive-crime-24 = викрадення особистих даних

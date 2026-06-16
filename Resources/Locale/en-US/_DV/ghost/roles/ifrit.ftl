@@ -1,3 +1,3 @@
-ghost-role-information-ifritDV-name = Ifrit, the mystagogue's guardian
-ghost-role-information-ifritDV-description = A powerful guardian from the Noösphere brought forth by a contract between the ifrit and the mystagogue to defend and protect the mystagogue and their department.
-ghost-role-information-ifritDV-rules = You are an ifrit, a familiar and guardian. You are contracted with the mystagogue, and must follow their commands. You may act on your own will in lieu of instruction, but you are always on the side of the station.
+ghost-role-information-ifritDV-name = Іфрит, охоронець містагога
+ghost-role-information-ifritDV-description = Могутній охоронець із Ноосфери, прикликаний завдяки контракту між іфритом та містагогом для захисту й оборони самого містагога та його відділу.
+ghost-role-information-ifritDV-rules = Ви — іфрит, фамільяр та охоронець. Ви пов'язані контрактом із містагогом і мусите виконувати його накази. За відсутності вказівок ви можете діяти за власною волею, але ви завжди залишаєтеся на боці станції.

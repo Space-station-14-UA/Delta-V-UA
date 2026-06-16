@@ -1,1 +1,1 @@
-specialized-clothing-default-failure = You can't quite fit into this
+specialized-clothing-default-failure = Ви не зовсім у нього влізаєте

@@ -1,1 +1,1 @@
-gases-miasma = Miasma
+gases-miasma = Міазми

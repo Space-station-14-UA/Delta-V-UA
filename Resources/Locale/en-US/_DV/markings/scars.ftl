@@ -1,23 +1,23 @@
-marking-ScarChestFemale-scar_chest_female = Chest Scar
-marking-ScarChestFemale = Chest Scar
+marking-ScarChestFemale-scar_chest_female = Шрам на грудях
+marking-ScarChestFemale = Шрам на грудях (Жіночий)
 
-marking-ScarVoxHeadLEyeSmall = Small Eye Scar (Left)
-marking-ScarVoxHeadLEyeSmall-scar_eye_left_small = Small Eye Scar (Left)
-marking-ScarVoxHeadLEyeBig = Big Eye Scar (Left)
-marking-ScarVoxHeadLEyeBig-scar_eye_left_big = Big Eye Scar (Left)
-marking-ScarVoxHeadREyeSmall = Small Eye Scar (Right)
-marking-ScarVoxHeadREyeSmall-scar_eye_right_small = Small Eye Scar (Right)
-marking-ScarVoxHeadREyeBig = Big Eye Scar (Right)
-marking-ScarVoxHeadREyeBig-scar_eye_right_big = Big Eye Scar (Right)
-marking-ScarVoxHeadFaceLong = Face Scar (Long)
-marking-ScarVoxHeadFaceLong-scar_face_long = Face Scar (Right)
+marking-ScarVoxHeadLEyeSmall = Маленький шрам на оці (Ліве)
+marking-ScarVoxHeadLEyeSmall-scar_eye_left_small = Маленький шрам на оці (Ліве)
+marking-ScarVoxHeadLEyeBig = Великий шрам на оці (Ліве)
+marking-ScarVoxHeadLEyeBig-scar_eye_left_big = Великий шрам на оці (Ліве)
+marking-ScarVoxHeadREyeSmall = Маленький шрам на оці (Праве)
+marking-ScarVoxHeadREyeSmall-scar_eye_right_small = Маленький шрам на оці (Праве)
+marking-ScarVoxHeadREyeBig = Великий шрам на оці (Праве)
+marking-ScarVoxHeadREyeBig-scar_eye_right_big = Великий шрам на оці (Праве)
+marking-ScarVoxHeadFaceLong = Шрам на обличчі (Довгий)
+marking-ScarVoxHeadFaceLong-scar_face_long = Довгий шрам на обличчі
 
-marking-ScarVoxChestBig = Big Chest Scar
-marking-ScarVoxChestBig-scar_chest_big = Big Chest Scar
-marking-ScarVoxChestBullets = Bullets Chest Scar
-marking-ScarVoxChestBullets-scar_chest_bullets = Bullets Chest Scar
+marking-ScarVoxChestBig = Великий шрам на грудях
+marking-ScarVoxChestBig-scar_chest_big = Великий шрам на грудях
+marking-ScarVoxChestBullets = Кульові шрами на грудях
+marking-ScarVoxChestBullets-scar_chest_bullets = Кульові шрами на грудях
 
-marking-ScarVoxRArmSmall = Small Arm Scar (Right)
-marking-ScarVoxRArmSmall-scar_arm_right_small = Small Arm Scar (Right)
-marking-ScarVoxLArmSmall = Small Arm Scar (Left)
-marking-ScarVoxLArmSmall-scar_arm_left_small = Small Arm Scar (Left)
+marking-ScarVoxRArmSmall = Маленький шрам на руці (Права)
+marking-ScarVoxRArmSmall-scar_arm_right_small = Маленький шрам на руці (Права)
+marking-ScarVoxLArmSmall = Маленький шрам на руці (Ліва)
+marking-ScarVoxLArmSmall-scar_arm_left_small = Маленький шрам на руці (Ліва)

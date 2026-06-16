@@ -1,46 +1,48 @@
 # THE UNKNOWN
 
-ghost-role-information-theunknown-name = The Unknown
-ghost-role-information-theunknown-description = The Cosmic Cult has won. An fragment of cosmic power extrudes into realspace.
+ghost-role-information-theunknown-name = Невідоме
+ghost-role-information-theunknown-description = Космічний культ переміг. Фрагмент космічної сили проривається у реальний простір.
 ghost-role-information-theunknown-rules = ...
 
 # COLOSSUS
 
-ghost-role-information-colossus-name = Entropic Colossus
-ghost-role-information-colossus-description = Call upon an Effigy of Entropy to perpetuate your existence and accelerate the end of all things! You have 15 minutes to do so or your energies will be extinguished.
-ghost-role-information-colossus-rules = You are a [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] with any cosmic cultists that may be present.
+ghost-role-information-colossus-name = Ентропійний Колос
+ghost-role-information-colossus-description = Закличте Ефігію Ентропії, щоб увічнити своє існування та прискорити кінець усього сущого! У вас є 15 хвилин, щоб зробити це, інакше ваша енергія згасне.
+ghost-role-information-colossus-rules = Ви є [color={role-type-team-antagonist-color}][bold]{role-type-team-antagonist-name}[/bold][/color] разом із будь-якими космічними культистами, що можуть бути присутніми.
 
-terror-colossus = Attention crew, it appears that someone on your station has drawn the attention of an enormous malign anomaly.
+terror-colossus = Увага екіпажу, схоже, що хтось на вашій станції привернув увагу величезної зловісної аномалії.
 
-ghost-role-colossus-charactermenu = You must usher in the end of all things. Wreak untold havoc upon all before you.
-ghost-role-colossus-objective = Call forth an Effigy of Entropy and persist until the end of all things.
+ghost-role-colossus-charactermenu = Ви повинні наблизити кінець усього сущого. Створіть неймовірний хаос на своєму шляху.
+ghost-role-colossus-objective = Закличте Ефігію Ентропії та протримайтеся до кінця всього сущого.
 ghost-role-colossus-briefing =
-    You are an Entropic Colossus!
-    Your objectives are listed in the character menu.
-    Read more about your role in the guidebook entry.
+    Ви — Ентропійний Колос!
+    Ваші цілі перелічені в меню персонажа.
+    Дізнайтеся більше про свою роль у розділі довідника.
 
-ghost-role-colossus-death = The colossus collapses, its light extinguished.
-ghost-role-colossus-hibernate = The colossus begins drawing in energy!
-ghost-role-colossus-effigy-confirm = If placement is  valid, press again to Beckon an Effigy.
+ghost-role-colossus-death = Колос розпадається, його світло згасає.
+ghost-role-colossus-hibernate = Колос починає поглинати енергію!
+ghost-role-colossus-effigy-confirm = Якщо місце підходить, натисніть знову, щоб закликати Ефігію.
 
-ghost-role-colossus-effigy-error-grid = Invalid location! An Effigy must be beckoned upon a stable surface.
-ghost-role-colossus-effigy-error-location = Invalid location! The Effigy must be beckoned near {$LOCATION}.
-ghost-role-colossus-effigy-error-intersection = Too crowded! An Effigy requires an empty 3x1 area to be beckoned.
-ghost-role-colossus-effigy-error-space = Too close to space! An Effigy must be be at least {$DISTANCE}m away.
+ghost-role-colossus-effigy-error-grid = Невірна локація! Ефігія має бути закликана на стабільну поверхню.
+ghost-role-colossus-effigy-error-location = Невірна локація! Ефігію потрібно закликати біля {$LOCATION}.
+ghost-role-colossus-effigy-error-intersection = Занадто тісно! Для заклику Ефігії потрібна вільна зона 3x1.
+ghost-role-colossus-effigy-error-space = Занадто близько до космосу! Ефігія має бути принаймні за {$DISTANCE} м від нього.
 
-objective-condition-effigy-no-target = Beckon an Effigy wherever you desire.
-objective-condition-effigy = Beckon an Effigy near "{$location}".
+objective-condition-effigy-no-target = Закличте Ефігію будь-де на свій розсуд.
+objective-condition-effigy = Закличте Ефігію біля "{$location}".
+
 
 # MINDSINK (Positronic Brain)
 
-ghost-role-mindsink-installed = Whispers hum from its surface!
-ghost-role-mindsink-off = It lies dormant.
-ghost-role-mindsink-still-searching = It is drawing upon the noösphere...
-ghost-role-mindsink-searching = It has started drawing upon the noösphere...
-ghost-role-mindsink-role-name = Malign Mindsink
-ghost-role-mindsink-role-description = Serve the station crew, despite your unusual origins.
-ghost-role-mindsink-wipe-device-verb-text = Erase Mind
-ghost-role-mindsink-wiped-device = The mind was snuffed out.
-ghost-role-mindsink-stop-searching-verb-text = Stop Seeking
-ghost-role-mindsink-stopped-searching = Noöspheric resonance halted.
-ghost-role-mindsink-slot-component-slot-name-brain = Brain
+ghost-role-mindsink-installed = З його поверхні чути шепіт!
+ghost-role-mindsink-off = Він перебуває в стані спокою.
+ghost-role-mindsink-still-searching = Він черпає енергію з ноосфери...
+ghost-role-mindsink-searching = Він почав черпати енергію з ноосфери...
+ghost-role-mindsink-role-name = Зловісний Розумовідвід
+ghost-role-mindsink-role-description = Служіть екіпажу станції, незважаючи на ваше незвичайне походження.
+ghost-role-mindsink-wipe-device-verb-text = Стерти розум
+ghost-role-mindsink-wiped-device = Розум було погашено.
+ghost-role-mindsink-stop-searching-verb-text = Припинити пошук
+ghost-role-mindsink-stopped-searching = Ноосферний резонанс припинено.
+ghost-role-mindsink-slot-component-slot-name-brain = Мозок
+

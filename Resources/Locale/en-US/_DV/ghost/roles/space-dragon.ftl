@@ -1,1 +1,1 @@
-deltav-ghost-role-information-space-dragon-description = Call in 3 carp rifts and take over this quadrant! You must place a rift every 10 minutes or suffer the consequences!
+deltav-ghost-role-information-space-dragon-description = Прикличте 3 розломи коропів та захопіть цей квадрант! Ви мусите відкривати по розлому кожні 10 хвилин, інакше на вас чекатимуть серйозні наслідки!

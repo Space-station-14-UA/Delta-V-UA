@@ -1,1 +1,1 @@
-trait-category-amputee = Amputee
+trait-category-amputee = Людина з ампутованими кінцівками

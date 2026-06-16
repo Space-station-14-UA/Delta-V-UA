@@ -1,10 +1,10 @@
-ghost-role-information-asakim-name = Asakim Warrior
-ghost-role-information-asakim-description = A genetically enhanced bioweapon, stranded in the sector after cryostasis failure.
+ghost-role-information-asakim-name = Воїн Асакім
+ghost-role-information-asakim-description = Генетично модифікована біозброя, що застрягла в цьому секторі через збій у роботі кріостазису.
 ghost-role-information-asakim-rules =
-    You are a [color=yellow][bold]Free-Agent[/bold][/color]. You may pursue your given objectives, or find your own way through life.
-    You have [color=red]no knowledge[/color] (maybe basic at most) [color=red]of this sector of space, its inhabitants, its factions, or its culture[/color]. While you cannot speak their language, you can understand it.
-    You may kill your targets if you have any, and you may kill to defend yourself and your property. [color=green]Civilians and the innocent are not your enemy[/color], and may be useful to you (if you can get past the language barrier - try an AAC tablet!). Fight with honor.
+    Ви — [color=yellow][bold]Вільний агент[/bold][/color]. Ви можете виконувати свої поточні завдання або знайти свій власний шлях у житті.
+    Ви [color=red]не маєте жодних знань[/color] (або володієте щонайбільше базовими) [color=red]про цей сектор космосу, його мешканців, фракції чи культуру[/color]. Хоча ви не вмієте розмовляти їхньою мовою, ви її розумієте.
+    Ви можете вбивати свої цілі, якщо вони у вас є, а також можете вбивати для захисту себе та свого майна. [color=green]Цивільні та невинні — не ваші вороги[/color], і вони можуть бути вам корисними (якщо зможете подолати мовний бар'єр — спробуйте скористатися планшетом AAC!). Бійтеся з честю.
 asakim-role-briefing =
-    You are an Asakim, a genetically-engineered weapon from a distant part of space.
-    You've awoken from long-term cryosleep in an unfamiliar sector, and an unfamiliar time.
-    Your ship has transmitted new orders into your brain...
+    Ви — Асакім, генетично створена зброя з далеких куточків космосу.
+    Ви прокинулися від тривалого кріосну в незнайомому секторі та в незнайомому часі.
+    Ваш корабель завантажив нові накази прямо у ваш мозок...

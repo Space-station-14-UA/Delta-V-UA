@@ -1,50 +1,50 @@
-﻿reagent-name-jaegermister = jaegermister
-reagent-desc-jaegermister = A bittersweet alcohol that hasn't changed it's recipe in nearly a thousand years.
+﻿reagent-name-jaegermister = єгермейстер
+reagent-desc-jaegermister = Гірко-солодкий алкоголь, рецепт якого не змінювався майже тисячу років.
 
-reagent-name-jaegerbomb = jaegerbomb
-reagent-desc-jaegerbomb = Almost as fun to make as it is to drink!
+reagent-name-jaegerbomb = єгербомба
+reagent-desc-jaegerbomb = Готувати майже так само весело, як і пити!
 
-reagent-name-jaegerita = jaegerita
-reagent-desc-jaegerita = Shaking things up a little...
+reagent-name-jaegerita = єґерита
+reagent-desc-jaegerita = Трохи збовтаємо ситуацію...
 
-reagent-name-surfer = surfer
-reagent-desc-surfer = Simple, but sweet. Or, bittersweet rather.
+reagent-name-surfer = серфер
+reagent-desc-surfer = Просто, але солодко. Або, радше, гірко-солодко.
 
-reagent-name-surfer-on-acid = surfer on acid
-reagent-desc-surfer-on-acid = For when you need more than a vacation to relax.
+reagent-name-surfer-on-acid = серфер під кислотою
+reagent-desc-surfer-on-acid = Коли вам потрібно більше, ніж просто відпустка, для відпочинку.
 
-reagent-name-fizzball = fizzball
-reagent-desc-fizzball = A classic that's been everybody's third-favorite drink for centuries.
+reagent-name-fizzball = фізбол
+reagent-desc-fizzball = Класика, яка століттями була третім улюбленим напоєм кожного.
 
-reagent-name-tuxedo-sunset = tuxedo sunset
-reagent-desc-tuxedo-sunset = A slight twist on the popular Fizzball.
+reagent-name-tuxedo-sunset = вечірній смокінг
+reagent-desc-tuxedo-sunset = Трохи інший погляд на популярний Фізбол.
 
-reagent-name-inside-scoop = inside scoop
-reagent-desc-inside-scoop = Popular amongst reporters.
+reagent-name-inside-scoop = ексклюзивна порція
+reagent-desc-inside-scoop = Популярний серед журналістів.
 
-reagent-name-fizzball-float = fizzball float
-reagent-desc-fizzball-float = For the crew member who would NEVER say no to ice cream.
+reagent-name-fizzball-float = поплавок для фізболу
+reagent-desc-fizzball-float = Для члена екіпажу, який НІКОЛИ не відмовиться від морозива.
 
-reagent-name-chartruse = chartruse
-reagent-desc-chartruse = Designed to make you struggle to pronounce it.
+reagent-name-chartruse = шартрез
+reagent-desc-chartruse = Розроблено так, щоб вам було важко його вимовити.
 
-reagent-name-death-flip = death flip
-reagent-desc-death-flip = You can't tell what it's made of, but the name alone sells itself.
+reagent-name-death-flip = сальто смерті
+reagent-desc-death-flip = Ви не можете сказати, з чого він зроблений, але сама назва продає себе.
 
-reagent-name-bloody-jaeger = bloody jaeger
-reagent-desc-bloody-jaeger = Why would you drink this?
+reagent-name-bloody-jaeger = кривавий єгер
+reagent-desc-bloody-jaeger = Навіщо тобі це пити??
 
-reagent-name-pop-quiz = pop quiz
-reagent-desc-pop-quiz = A classic cocktail for any college student.
+reagent-name-pop-quiz = раптове опитування
+reagent-desc-pop-quiz = Класичний коктейль для будь-якого студента коледжу.
 
-reagent-name-naughty-bartender = naughty bartender
-reagent-desc-naughty-bartender = Not like that, get your mind out of the gutter!
+reagent-name-naughty-bartender = неслухняний бармен
+reagent-desc-naughty-bartender = Не туди тебе понесло, ану припини!
 
-reagent-name-cafe-cocktail = cafe cocktail
-reagent-desc-cafe-cocktail = Something to sip on with a nice book.
+reagent-name-cafe-cocktail = кавовий коктейль
+reagent-desc-cafe-cocktail = Щось смачненьке з гарною книгою.
 
-reagent-name-cinnamon-cookie = cinnamon cookie
-reagent-desc-cinnamon-cookie = A cocktail reminiscient of cookies at a bake sale.
+reagent-name-cinnamon-cookie = печиво з корицею
+reagent-desc-cinnamon-cookie = Коктейль, що нагадує печиво на розпродажі випічки.
 
-reagent-name-blood-red-licorice = blood-red licorice
-reagent-desc-blood-red-licorice = Station destruction has never tasted so sweet.
+reagent-name-blood-red-licorice = криваво-червона лакриця
+reagent-desc-blood-red-licorice = Руйнування станції ще ніколи не було таким солодким.

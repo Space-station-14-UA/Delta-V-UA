@@ -1,3 +1,3 @@
-prayer-verbs-fountainwish = Wish
-prayer-chat-notify-fountainwish = FOUNTAIN WISH
-prayer-popup-notify-fountainwish-sent = You tossed a coin in the fountain, and made a wish...
+prayer-verbs-fountainwish = Бажання
+prayer-chat-notify-fountainwish = БАЖАННЯ ФОНТАНУ
+prayer-popup-notify-fountainwish-sent = Ви кинули монету у фонтан і загадали бажання...

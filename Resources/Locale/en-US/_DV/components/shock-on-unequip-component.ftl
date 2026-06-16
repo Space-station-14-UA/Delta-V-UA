@@ -1,1 +1,1 @@
-shock-on-unequip-examine = This cannot be removed without insulated gloves.
+shock-on-unequip-examine = Це неможливо зняти без діелектричних рукавичок.

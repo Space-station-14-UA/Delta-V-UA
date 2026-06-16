@@ -1,311 +1,313 @@
-dv-names-diona-first-1 = To Sleep Beneath
-dv-names-diona-first-2 = Wind Over the
-dv-names-diona-first-3 = Embrace of the
-dv-names-diona-first-4 = Dreams of the
-dv-names-diona-first-5 = Witnessing
-dv-names-diona-first-6 = To Walk Beneath the
-dv-names-diona-first-7 = Approaching
-dv-names-diona-first-8 = Growing
-dv-names-diona-first-9 = Eternal
-dv-names-diona-first-10 = Persistent
-dv-names-diona-first-11 = Whispering to the
-dv-names-diona-first-12 = Fading
-dv-names-diona-first-13 = Remembering
-dv-names-diona-first-14 = Dancing Beneath the
-dv-names-diona-first-15 = Silent
-dv-names-diona-first-16 = Falling Toward
-dv-names-diona-first-17 = Fragments of
-dv-names-diona-first-18 = Seeking
-dv-names-diona-first-19 = Carried by the
-dv-names-diona-first-20 = A New
-dv-names-diona-first-21 = The Peace in
-dv-names-diona-first-22 = Knowledge of
-dv-names-diona-first-23 = Resilience within
-dv-names-diona-first-24 = Decaying of the
-dv-names-diona-first-25 = The Balancing of
-dv-names-diona-first-26 = Clicks of
-dv-names-diona-first-27 = Boiling
-dv-names-diona-first-28 = Distant
-dv-names-diona-first-29 = Glacial
-dv-names-diona-first-30 = Breaking through
-dv-names-diona-first-31 = The Sounds of
-dv-names-diona-first-32 = Ephemeral
+dv-names-diona-first-1 = Спати Під
+dv-names-diona-first-2 = Вітер Над
+dv-names-diona-first-3 = Обійми
+dv-names-diona-first-4 = Сни Про
+dv-names-diona-first-5 = Свідчення
+dv-names-diona-first-6 = Гуляти Під
+dv-names-diona-first-7 = Наближення
+dv-names-diona-first-8 = Проростання
+dv-names-diona-first-9 = Вічний
+dv-names-diona-first-10 = Наполегливий
+dv-names-diona-first-11 = Шепотіти До
+dv-names-diona-first-12 = Згасаючий
+dv-names-diona-first-13 = Пам'ятаючи
+dv-names-diona-first-14 = Танцюючи Під
+dv-names-diona-first-15 = Мовчазний
+dv-names-diona-first-16 = Падіння Назустріч
+dv-names-diona-first-17 = Фрагменти
+dv-names-diona-first-18 = У Пошуках
+dv-names-diona-first-19 = Несений
+dv-names-diona-first-20 = Новий
+dv-names-diona-first-21 = Спокій У
+dv-names-diona-first-22 = Знання Про
+dv-names-diona-first-23 = Стійкість У
+dv-names-diona-first-24 = Розклад
+dv-names-diona-first-25 = Рівновага
+dv-names-diona-first-26 = Клацання
+dv-names-diona-first-27 = Киплячий
+dv-names-diona-first-28 = Далекий
+dv-names-diona-first-29 = Льодовиковий
+dv-names-diona-first-30 = Прориваючись Крізь
+dv-names-diona-first-31 = Звуки
+dv-names-diona-first-32 = Ефемерний
 dv-names-diona-first-33 =
-  .intersperse = As {$last} { $lastPlural ->
-     [true] Descend
-   *[other] Descends
+  .intersperse = Поки {$last} { $lastPlural ->
+     [true] Спадають
+   *[other] Спадає
   }
-dv-names-diona-first-34 = Sunlight
-dv-names-diona-first-35 = Moonlight
+dv-names-diona-first-34 = Сонячне Світло
+dv-names-diona-first-35 = Місячне Світло
 dv-names-diona-first-36 =
-  .intersperse = As { $last } { $lastPlural ->
-     [true] Bloom
-   *[other] Blooms
+  .intersperse = Поки { $last } { $lastPlural ->
+     [true] Квітнуть
+   *[other] Квітне
   }
 dv-names-diona-first-37 =
   .intersperse = { $last } { $lastPlural ->
-     [true] Scream
-   *[other] Screams
+     [true] Кричать
+   *[other] Кричить
    }
 dv-names-diona-first-38 =
   .intersperse = { $last } { $lastPlural ->
-     [true] Mend
-   *[other] Mends
+     [true] Вицілюють
+   *[other] Вицілює
    }
-dv-names-diona-first-39 = Shimmering
-dv-names-diona-first-40 = Murmurs of the
-dv-names-diona-first-41 = Unraveling
-dv-names-diona-first-42 = Dissolving into
-dv-names-diona-first-43 = Breathing the
-dv-names-diona-first-44 = Hollow
-dv-names-diona-first-45 = Glimmering
-dv-names-diona-first-46 = Veiled in
-dv-names-diona-first-47 = Suspended in
-dv-names-diona-first-48 = Echoing through
-dv-names-diona-first-49 = Unspooling the
-dv-names-diona-first-50 = Drifting Between
-dv-names-diona-first-51 = Woven from
-dv-names-diona-first-52 = Pulsing
-dv-names-diona-first-53 = Crystalline
-dv-names-diona-first-54 = Flickering
-dv-names-diona-first-55 = Churning
-dv-names-diona-first-56 = Wreathed in
-dv-names-diona-first-57 = Hushed
-dv-names-diona-first-58 = Luminous
+dv-names-diona-first-39 = Мерехтливий
+dv-names-diona-first-40 = Шепіт
+dv-names-diona-first-41 = Розплутування
+dv-names-diona-first-42 = Розчинення у
+dv-names-diona-first-43 = Дихання
+dv-names-diona-first-44 = Порожній
+dv-names-diona-first-45 = Блискучий
+dv-names-diona-first-46 = Завуальований у
+dv-names-diona-first-47 = Підвішений у
+dv-names-diona-first-48 = Луна Крізь
+dv-names-diona-first-49 = Розмотування
+dv-names-diona-first-50 = Дрейф Між
+dv-names-diona-first-51 = Витканий з
+dv-names-diona-first-52 = Пульсуючий
+dv-names-diona-first-53 = Кристалічний
+dv-names-diona-first-54 = Миготливий
+dv-names-diona-first-55 = Вируючий
+dv-names-diona-first-56 = Оповитий у
+dv-names-diona-first-57 = Притишений
+dv-names-diona-first-58 = Світлоносний
 dv-names-diona-first-59 =
   .intersperse = { $last } { $lastPlural ->
-     [true] Dreamt
-   *[other] Dreamt
+     [true] Уві сні
+   *[other] Уві сні
    }
 dv-names-diona-first-60 =
   .intersperse = { $last } { $lastPlural ->
-     [true] Wane
-   *[other] Wanes
+     [true] Спадають
+   *[other] Спадає
    }
 dv-names-diona-first-61 =
-  .intersperse = As { $last } { $lastPlural ->
-     [true] Collapse
-   *[other] Collapses
+  .intersperse = Поки { $last } { $lastPlural ->
+     [true] Руйнуються
+   *[other] Руйнується
    }
 dv-names-diona-first-62 =
   .intersperse = { $last } { $lastPlural ->
-     [true] Weep
-   *[other] Weeps
+     [true] Плачуть
+   *[other] Плаче
    }
 dv-names-diona-first-63 =
   .intersperse = { $last } { $lastPlural ->
-     [true] Echo
-   *[other] Echoes
+     [true] Лунають
+   *[other] Лунає
    }
 dv-names-diona-first-64 =
-  .intersperse = As { $last } { $lastPlural ->
-     [true] Dissolve
-   *[other] Dissolves
+  .intersperse = Поки { $last } { $lastPlural ->
+     [true] Розчиняються
+   *[other] Розчиняється
    }
-dv-names-diona-first-65 = Orbiting the
-dv-names-diona-first-66 = Vacuous
-dv-names-diona-first-67 = Inquiries of the
-dv-names-diona-first-68 = Memories of
-dv-names-diona-first-69 = Incredible
+dv-names-diona-first-65 = Обертаючись Навколо
+dv-names-diona-first-66 = Вакуумний
+dv-names-diona-first-67 = Запити
+dv-names-diona-first-68 = Спогади Про
+dv-names-diona-first-69 = Неймовірний
 dv-names-diona-first-70 =
-  .intersperse = { $last } Lost
-dv-names-diona-first-71 = Joy Among the
-dv-names-diona-first-72 = Peak
-dv-names-diona-first-73 = Pondering
-dv-names-diona-first-74 = Tracing the
-dv-names-diona-first-75 = Questioning the
-dv-names-diona-first-76 = Drawn Toward
-dv-names-diona-first-77 = Watching
-dv-names-diona-first-78 = Listening for
-dv-names-diona-first-79 = Reaching for the
-dv-names-diona-first-80 = Wandering
-dv-names-diona-first-81 = Marveling at
-dv-names-diona-first-82 = Peering into
-dv-names-diona-first-83 = The Wonder of
-dv-names-diona-first-84 = Gazing at the
-dv-names-diona-first-85 = Yearning to Know
-dv-names-diona-first-86 = Following the
-dv-names-diona-first-87 = Awaiting
-dv-names-diona-first-88 = Discovering
-dv-names-diona-first-89 = Contemplating
-dv-names-diona-first-90 = Wondering at the
-dv-names-diona-first-91 = Stirred by
-dv-names-diona-first-92 = Noticing
-dv-names-diona-first-93 = Turning Toward
-dv-names-diona-first-94 = Searching for the
-dv-names-diona-first-95 = The First
+  .intersperse = Утрачений { $last }
+dv-names-diona-first-71 = Радість Серед
+dv-names-diona-first-72 = Пік
+dv-names-diona-first-73 = Роздуми Про
+dv-names-diona-first-74 = Слідуючи За
+dv-names-diona-first-75 = Сумніви Щодо
+dv-names-diona-first-76 = Тяжіння До
+dv-names-diona-first-77 = Спостереження За
+dv-names-diona-first-78 = Прислухаючись До
+dv-names-diona-first-79 = Тягнучись До
+dv-names-diona-first-80 = Блукання
+dv-names-diona-first-81 = Захоплення
+dv-names-diona-first-82 = Зазираючи В
+dv-names-diona-first-83 = Диво
+dv-names-diona-first-84 = Погляд На
+dv-names-diona-first-85 = Жага Пізнання
+dv-names-diona-first-86 = Йдучи За
+dv-names-diona-first-87 = Очікування
+dv-names-diona-first-88 = Відкриття
+dv-names-diona-first-89 = Споглядання
+dv-names-diona-first-90 = Подив Від
+dv-names-diona-first-91 = Схвильований
+dv-names-diona-first-92 = Помічаючи
+dv-names-diona-first-93 = Поворот До
+dv-names-diona-first-94 = Пошуки
+dv-names-diona-first-95 = Перший
 dv-names-diona-first-96 =
   .intersperse = { $last } { $lastPlural ->
-     [true] Beckon
-   *[other] Beckons
+     [true] Закликають
+   *[other] Закликає
    }
 dv-names-diona-first-97 =
   .intersperse = { $last } { $lastPlural ->
-     [true] Call
-   *[other] Calls
+     [true] Кличуть
+   *[other] Кличе
    }
 dv-names-diona-first-98 =
-  .intersperse = The { $last } { $lastPlural ->
-     [true] Whisper
-   *[other] Whispers
+  .intersperse = { $last } { $lastPlural ->
+     [true] Шепочуть
+   *[other] Шепоче
    }
 dv-names-diona-first-99 =
-  .intersperse = As { $last } { $lastPlural ->
-     [true] Awaken
-   *[other] Awakens
+  .intersperse = Поки { $last } { $lastPlural ->
+     [true] Прокидаються
+   *[other] Прокидається
    }
 dv-names-diona-first-100 =
   .intersperse = { $last } { $lastPlural ->
-     [true] Speak
-   *[other] Speaks
+     [true] Говорять
+   *[other] Говорить
    }
 dv-names-diona-first-101 =
   .intersperse = { $last } { $lastPlural ->
-     [true] Sing
-   *[other] Sings
+     [true] Співають
+   *[other] Співає
    }
-dv-names-diona-first-102 = Lost
-dv-names-diona-first-103 = Learning from
-dv-names-diona-first-104 = Lessons of
-dv-names-diona-first-105 = Curious About the
-dv-names-diona-first-106 = Measuring the
-dv-names-diona-first-107 = Cataloging
-dv-names-diona-first-108 = Forgetting
-dv-names-diona-first-109 = Unknown
-dv-names-diona-first-110 = Reading the
-dv-names-diona-first-111 = Translating
-dv-names-diona-first-112 = Holding
+dv-names-diona-first-102 = Утрачений
+dv-names-diona-first-103 = Навчання У
+dv-names-diona-first-104 = Уроки
+dv-names-diona-first-105 = Допитливий Щодо
+dv-names-diona-first-106 = Вимірювання
+dv-names-diona-first-107 = Каталогізація
+dv-names-diona-first-108 = Забуття
+dv-names-diona-first-109 = Невідомий
+dv-names-diona-first-110 = Читання
+dv-names-diona-first-111 = Переклад
+dv-names-diona-first-112 = Утримання
 
-dv-names-diona-last-1 = Void
-dv-names-diona-last-2 = Sky
-dv-names-diona-last-3 = Encroaching Night
-dv-names-diona-last-4 = Planetsong
-dv-names-diona-last-5 = Starsong
-dv-names-diona-last-6 = Wandering Star
-dv-names-diona-last-7 = Empty Days
+dv-names-diona-last-1 = Порожнеча
+dv-names-diona-last-2 = Небо
+dv-names-diona-last-3 = Насильницька Ніч
+dv-names-diona-last-4 = Пісня Планет
+dv-names-diona-last-5 = Пісня Зірок
+dv-names-diona-last-6 = Блукаюча Зоря
+dv-names-diona-last-7 = Порожні Дні
   .plural = true
-dv-names-diona-last-8 = Daybreak
-dv-names-diona-last-9 = Nightfall
-dv-names-diona-last-10 = Rain
-dv-names-diona-last-11 = Rifts
+dv-names-diona-last-8 = Світанок
+dv-names-diona-last-9 = Сутінки
+dv-names-diona-last-10 = Дощ
+dv-names-diona-last-11 = Розломи
   .plural = true
-dv-names-diona-last-12 = Hope
-dv-names-diona-last-13 = Dreams
+dv-names-diona-last-12 = Надія
+dv-names-diona-last-13 = Сни
   .plural = true
-dv-names-diona-last-14 = Despair
-dv-names-diona-last-15 = Planetfall
-dv-names-diona-last-16 = Depth
-dv-names-diona-last-17 = Silence
-dv-names-diona-last-18 = Bloom
-dv-names-diona-last-19 = End
-dv-names-diona-last-20 = Flames
+dv-names-diona-last-14 = Відчай
+dv-names-diona-last-15 = Висадка на Планету
+dv-names-diona-last-16 = Глибина
+dv-names-diona-last-17 = Тиша
+dv-names-diona-last-18 = Цвітіння
+dv-names-diona-last-19 = Кінець
+dv-names-diona-last-20 = Полум'я
   .plural = true
-dv-names-diona-last-21 = Radiance
-dv-names-diona-last-22 = Horizon
-dv-names-diona-last-23 = Rising Tide
-dv-names-diona-last-24 = Starfire
-dv-names-diona-last-25 = Dissonant Echoes
+dv-names-diona-last-21 = Сяйво
+dv-names-diona-last-22 = Горизонт
+dv-names-diona-last-23 = Приплив
+dv-names-diona-last-24 = Зоряний Вогонь
+dv-names-diona-last-25 = Диссонуюче Ехо
   .plural = true
-dv-names-diona-last-26 = Life
-dv-names-diona-last-27 = Switches
+dv-names-diona-last-26 = Життя
+dv-names-diona-last-27 = Перемикачі
   .plural = true
-dv-names-diona-last-28 = Eternity
-dv-names-diona-last-29 = Galaxies
+dv-names-diona-last-28 = Вічність
+dv-names-diona-last-29 = Галактики
   .plural = true
-dv-names-diona-last-30 = Glass
-dv-names-diona-last-31 = Distant Hymns
+dv-names-diona-last-30 = Скло
+dv-names-diona-last-31 = Далекі Гімни
   .plural = true
-dv-names-diona-last-32 = Tidal Lock
-dv-names-diona-last-33 = Cold Embers
+dv-names-diona-last-32 = Припливний Захоплення
+dv-names-diona-last-33 = Холодні Вуглинки
   .plural = true
-dv-names-diona-last-34 = Petrichor
-dv-names-diona-last-35 = Signals
-dv-names-diona-last-36 = Deep Hum
-dv-names-diona-last-37 = Coiled Roots
+dv-names-diona-last-34 = Петрикор
+dv-names-diona-last-35 = Сигнали
+dv-names-diona-last-36 = Глибокий Гудіння
+dv-names-diona-last-37 = Сплетени Коріння
   .plural = true
-dv-names-diona-last-38 = Moss
-dv-names-diona-last-39 = Joy
-dv-names-diona-last-40 = Equilibrium
-dv-names-diona-last-41 = Envy
-dv-names-diona-last-42 = Cruelty
-dv-names-diona-last-43 = Sorrows
+dv-names-diona-last-38 = Мох
+dv-names-diona-last-39 = Радість
+dv-names-diona-last-40 = Рівновага
+dv-names-diona-last-41 = Заздрість
+dv-names-diona-last-42 = Жорстокість
+dv-names-diona-last-43 = Смуток
   .plural = true
-dv-names-diona-last-44 = Fear
-dv-names-diona-last-45 = Audacity
-dv-names-diona-last-46 = Integrity
-dv-names-diona-last-47 = Paradise
-dv-names-diona-last-48 = Luminosity
-dv-names-diona-last-49 = Wonder
-dv-names-diona-last-50 = Riddle
-dv-names-diona-last-51 = Yearning
-dv-names-diona-last-52 = Witness
-dv-names-diona-last-53 = Omens
+dv-names-diona-last-44 = Страх
+dv-names-diona-last-45 = Зухвалість
+dv-names-diona-last-46 = Цілісність
+dv-names-diona-last-47 = Рай
+dv-names-diona-last-48 = Світність
+dv-names-diona-last-49 = Диво
+dv-names-diona-last-50 = Загадка
+dv-names-diona-last-51 = Жага
+dv-names-diona-last-52 = Свідок
+dv-names-diona-last-53 = Знамення
   .plural = true
-dv-names-diona-last-54 = Beacon
-dv-names-diona-last-55 = Glimmer
-dv-names-diona-last-56 = Susurrus
-dv-names-diona-last-57 = Gossamer
-dv-names-diona-last-58 = Umbra
-dv-names-diona-last-59 = Zenith
-dv-names-diona-last-60 = Nadir
-dv-names-diona-last-61 = Solstice
-dv-names-diona-last-62 = Reverie
-dv-names-diona-last-63 = Ember
-dv-names-diona-last-64 = Cinder
-dv-names-diona-last-65 = Spores
+dv-names-diona-last-54 = Маяк
+dv-names-diona-last-55 = Мерехтіння
+dv-names-diona-last-56 = Шерех
+dv-names-diona-last-57 = Павутинка
+dv-names-diona-last-58 = Умбра
+dv-names-diona-last-59 = Зеніт
+dv-names-diona-last-60 = Надір
+dv-names-diona-last-61 = Сонцестояння
+dv-names-diona-last-62 = Мрії
   .plural = true
-dv-names-diona-last-66 = Thaw
-dv-names-diona-last-67 = Frost
-dv-names-diona-last-68 = Slumber
-dv-names-diona-last-69 = Ache
-dv-names-diona-last-70 = Shiver
-dv-names-diona-last-71 = Tremors
+dv-names-diona-last-63 = Вуглинка
+dv-names-diona-last-64 = Попіл
+dv-names-diona-last-65 = Спори
   .plural = true
-dv-names-diona-last-72 = Pyre
-dv-names-diona-last-73 = Resin
-dv-names-diona-last-74 = Sap
-dv-names-diona-last-75 = Nectar
-dv-names-diona-last-76 = Amber
-dv-names-diona-last-77 = Obsidian
-dv-names-diona-last-78 = Geode
-dv-names-diona-last-79 = Threshold
-dv-names-diona-last-80 = Pollen
-dv-names-diona-last-81 = Thorns
+dv-names-diona-last-66 = Відлига
+dv-names-diona-last-67 = Мороз
+dv-names-diona-last-68 = Дрімота
+dv-names-diona-last-69 = Біль
+dv-names-diona-last-70 = Тремтіння
+dv-names-diona-last-71 = Поштовхи
   .plural = true
-dv-names-diona-last-82 = Vine
-dv-names-diona-last-83 = Friends
+dv-names-diona-last-72 = Погребальне Багаття
+dv-names-diona-last-73 = Смола
+dv-names-diona-last-74 = Сік
+dv-names-diona-last-75 = Нектар
+dv-names-diona-last-76 = Бурштин
+dv-names-diona-last-77 = Обсидіан
+dv-names-diona-last-78 = Жеода
+dv-names-diona-last-79 = Поріг
+dv-names-diona-last-80 = Пилок
+dv-names-diona-last-81 = Колючки
   .plural = true
-dv-names-diona-last-84 = Partners
+dv-names-diona-last-82 = Лоза
+dv-names-diona-last-83 = Друзі
   .plural = true
-dv-names-diona-last-85 = Acceptance
-dv-names-diona-last-86 = Kindness
-dv-names-diona-last-87 = Belonging
-dv-names-diona-last-88 = Shelter
-dv-names-diona-last-89 = Warmth
-dv-names-diona-last-90 = Trust
-dv-names-diona-last-91 = Gentleness
-dv-names-diona-last-92 = Gratitude
-dv-names-diona-last-93 = Comfort
-dv-names-diona-last-94 = Stillness
-dv-names-diona-last-95 = Distance
-dv-names-diona-last-96 = Passage
-dv-names-diona-last-97 = Reflection
-dv-names-diona-last-98 = Drift
-dv-names-diona-last-99 = Stasis
-dv-names-diona-last-100 = Pause
-dv-names-diona-last-101 = Rejection
-dv-names-diona-last-102 = Neglect
-dv-names-diona-last-103 = Scorn
-dv-names-diona-last-104 = Isolation
-dv-names-diona-last-105 = Burden
-dv-names-diona-last-106 = Dread
-dv-names-diona-last-107 = Grief
-dv-names-diona-last-108 = Wilt
-dv-names-diona-last-109 = Loss
-dv-names-diona-last-110 = Mystery
-dv-names-diona-last-111 = Paradox
-dv-names-diona-last-112 = Possibility
-dv-names-diona-last-113 = Memory
-dv-names-diona-last-114 = Origin
-dv-names-diona-last-115 = Absence
-dv-names-diona-last-116 = Presence
+dv-names-diona-last-84 = Партнери
+  .plural = true
+dv-names-diona-last-85 = Прийняття
+dv-names-diona-last-86 = Доброта
+dv-names-diona-last-87 = Приналежність
+dv-names-diona-last-88 = Притулок
+dv-names-diona-last-89 = Тепло
+dv-names-diona-last-90 = Довіра
+dv-names-diona-last-91 = Ніжність
+dv-names-diona-last-92 = Вдячність
+dv-names-diona-last-93 = Утіха
+dv-names-diona-last-94 = Нерухомість
+dv-names-diona-last-95 = Відстань
+dv-names-diona-last-96 = Перехід
+dv-names-diona-last-97 = Відображення
+dv-names-diona-last-98 = Дрейф
+dv-names-diona-last-99 = Стазис
+dv-names-diona-last-100 = Пауза
+dv-names-diona-last-101 = Відторгнення
+dv-names-diona-last-102 = Нехтування
+dv-names-diona-last-103 = Зневага
+dv-names-diona-last-104 = Ізоляція
+dv-names-diona-last-105 = Тягар
+dv-names-diona-last-106 = Жах
+dv-names-diona-last-107 = Горе
+dv-names-diona-last-108 = В'янення
+dv-names-diona-last-109 = Втрата
+dv-names-diona-last-110 = Таємниця
+dv-names-diona-last-111 = Парадокс
+dv-names-diona-last-112 = Можливість
+dv-names-diona-last-113 = Пам'ять
+dv-names-diona-last-114 = Походження
+dv-names-diona-last-115 = Відсутність
+dv-names-diona-last-116 = Присутність
+

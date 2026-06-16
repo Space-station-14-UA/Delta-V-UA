@@ -1,21 +1,21 @@
 reagent-effect-guidebook-cleanse-cultist =
     { $chance ->
-        [1] cleanses
-        *[other] cleanse
-    } otherwordly influences
+        [1] очищує від
+        *[other] очищують від
+    } потойбічних впливів
 
-entropy-effect-numb = You feel eerily numb.
+entropy-effect-numb = Ви відчуваєте моторошне оніміння.
 
-reagent-name-entropy = liquid entropy
+reagent-name-entropy = рідка ентропія
 
-reagent-desc-entropy = An unnerving, malign substance.
+reagent-desc-entropy = Моторошна, зловісна речовина.
 
-flavor-complex-entropy = sharply eerie
-reagent-name-anti-entropy = liquid anti-entropy
+flavor-complex-entropy = різко-моторошний
+reagent-name-anti-entropy = рідка антиентропія
 
-reagent-desc-anti-entropy = A mysterious substance that seems to deny the laws of thermodynamics themselves. Overloads the body with malign energy if ingested.
+reagent-desc-anti-entropy = Таємнича речовина, яка, схоже, заперечує самі закони термодинаміки. Перевантажує тіло зловісною енергією у разі потрапляння всередину.
 
-reagent-physical-desc-malign = malign
+reagent-physical-desc-malign = зловісний
 
-reagent-condition-is-cultist = target is a cosmic cultist
-reagent-condition-is-not-cultist = target is not a cosmic cultist
+reagent-condition-is-cultist = ціль є космічним культистом
+reagent-condition-is-not-cultist = ціль не є космічним культистом

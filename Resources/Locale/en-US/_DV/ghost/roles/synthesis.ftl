@@ -1,9 +1,9 @@
-ghost-role-information-synthesis-name = Synthesis Specialist
-ghost-role-information-synthesis-description = You are a member of Interdyne Pharmaceutics! You are provided all the tools to manufacture a variety of medical cocktails. Establish your craft, peddle your poisons, and make profit.
+ghost-role-information-synthesis-name = Спеціаліст із синтезу
+ghost-role-information-synthesis-description = Ви — співробітник корпорації Interdyne Pharmaceutics! Вас забезпечили всіма інструментами для створення різноманітних медичних коктейлів. Налагодіть своє ремесло, торгуйте своїми отрутами та отримуйте прибуток.
 ghost-role-information-synthesis-rules =
-    You are a [color=yellow][bold]Free-Agent[/bold][/color].  You are free to act as either an antagonist or a non-antagonist.
-    You are just a chemist so do not act like a full-on antagonist, i.e. no killing people yourself unless your ship is in danger.
+    Ви — [color=yellow][bold]Вільний агент[/bold][/color]. Ви можете діяти як антагоніст або як мирний персонаж (не антагоніст).
+    Ви лише хімік, тому не поводьтеся як повноцінний антагоніст — тобто ніяких самостійних убивств, якщо тільки вашому кораблю не загрожує небезпека.
 
-    Brew deadly poisons, marvelous medicines, and anything in between.
-    Sell your concoctions to [color=red]local agents[/color], crew, and anyone with supplies.
-    Keep your ship operational; it is your job, home, and lifeblood.
+    Варіть смертоносні отрути, дивовижні ліки та будь-що між ними.
+    Продавайте свої зілля [color=red]місцевим агентам[/color], екіпажу та кожному, хто має припаси.
+    Підтримуйте свій корабель у робочому стані — це ваша робота, дім і джерело життя.

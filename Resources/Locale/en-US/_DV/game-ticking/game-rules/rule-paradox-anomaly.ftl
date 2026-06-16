@@ -1,8 +1,8 @@
-paradox-anomaly-round-end-agent-name = Paradox Anomaly
+paradox-anomaly-round-end-agent-name = Парадоксальна аномалія
 
-objective-issuer-self = [color=#1708EC]Self[/color]
+objective-issuer-self = [color=#1708EC]Власний розсуд[/color]
 
 paradox-anomaly-role-briefing =
-    You are a bluespace anomaly that looks and sound identical to someone from this reality.
-    Kill them and assume their identity, or talk it out and become friends.
-    Your objectives support either playstyle (and you obviously can't do both).
+    Ви — блюспейс-аномалія, яка виглядає та звучить точно так само, як дехто з цієї реальності.
+    Убийте свого двійника та заберіть його особистість, або ж домовтеся і станьте друзями.
+    Ваші цілі підтримують обидва стилі гри (але ви, очевидно, не зможете обрати обидва варіанти одразу).

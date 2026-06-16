@@ -1,9 +1,9 @@
-paper-fake-nuke-codes = [color=red]TOP SECRET![/color]
-    nuclear fission explosive (NT-XXXXXX) code: XXXXXX
+paper-fake-nuke-codes = [color=red]ЦІЛКОМ ТАЄМНО![/color]
+    код ядерного пристрою (NT-XXXXXX): XXXXXX
 
-paper-briefcase-uplink-instructions = This DNA-Secure and extra-spacious briefcase is an uplink to one of our surplus warehouses.
+paper-briefcase-uplink-instructions = Цей захищений ДНК-кодом та надзвичайно місткий кейс є лінком до одного з наших складів надлишків.
 
-    Use them as incentives to join for potential recruits, or to reward yourself for a job well done.
+    Використовуйте їх як стимул для залучення потенційних рекрутів або як винагороду для себе за добре виконану роботу.
 
-    You have been given an initial budget of 50"TC", spend it wisely.
-    To insert more, make sure the briefcase is locked before inserting the TC.
+    Вам було надано початковий бюджет у 50 "ТК", витрачайте їх з розумом.
+    Щоб внести більше, переконайтеся, що кейс замкнений, перш ніж вставляти ТК.

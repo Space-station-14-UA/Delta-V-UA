@@ -1,6 +1,6 @@
-engraving-verb-engrave = Engrave
-engraving-popup-ui-message = Description
+engraving-verb-engrave = Вигравіювати
+engraving-popup-ui-message = Опис
 
-engraving-no-message = No engraving is present on {THE($item)}.
-engraving-has-message = An engraving on {THE($item)} reads:{" "}
-engraving-succeed = You successfully engrave {THE($item)} with your message.
+engraving-no-message = На {$item} немає жодного гравіювання.
+engraving-has-message = Напис на {$item} говорить:{" "}
+engraving-succeed = Ви успішно вигравіювали свій напис на {$item}.

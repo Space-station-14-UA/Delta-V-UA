@@ -1,3 +1,4 @@
-deltav-ghost-role-information-softantag-rules = You are allowed to attack the crew without provocation.
-                                                You are allowed to coexist with the crew.
-                                                The crew is allowed to kill you without warning.
+deltav-ghost-role-information-softantag-rules =
+    Вам дозволено атакувати екіпаж без будь-яких провокацій з їхнього боку.
+    Вам дозволено мирно співіснувати з екіпажем.
+    Екіпажу дозволено вбивати вас без попередження.

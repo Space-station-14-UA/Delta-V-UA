@@ -1,22 +1,22 @@
-cult-glyph-target-dead = The glyph's influence has no effect on the deceased..
-cult-glyph-not-enough-cultists = Not enough cultists present to invoke glyph!
-cult-glyph-conditions-not-met = No suitable targets within range of glyph!
-cult-glyph-too-many-targets = Too many targets present on glyph!
-cult-glyph-target-mindshield = Mental shielding prevents the glyph's influence from taking hold!
-cult-glyph-target-chaplain = A spark of divine power prevents the glyph's influence from taking hold!
-cult-glyph-target-mindless = The glyph fails to activate, as the target is currently mindless.
+cult-glyph-target-dead = Вплив гліфа не діє на померлих...
+cult-glyph-not-enough-cultists = Недостатньо культистів для активації гліфа!
+cult-glyph-conditions-not-met = У радіусі дії гліфа немає відповідних цілей!
+cult-glyph-too-many-targets = На гліфі перебуває занадто багато цілей!
+cult-glyph-target-mindshield = Ментальний щит заважає впливу гліфа закріпитися!
+cult-glyph-target-chaplain = Іскра божественної сили заважає впливу гліфа закріпитися!
+cult-glyph-target-mindless = Гліф не активується, оскільки ціль зараз позбавлена розуму.
 
-cult-glyph-name-knowledge = Pact of Knowledge
-cult-glyph-description-knowledge = Knowledge. Instills the spark of indelible knowledge. Able to convert most to join our ranks.
-cult-glyph-name-projection = Pact of Projection
-cult-glyph-description-projection = Projection. Allows us to ascend in a temporary astral form to spy on those around us.
+cult-glyph-name-knowledge = Пакт Знання
+cult-glyph-description-knowledge = Знання. Навіює іскру незгладимого знання. Здатен навернути більшість до наших лав.
+cult-glyph-name-projection = Пакт Проєкції
+cult-glyph-description-projection = Проєкція. Дозволяє нам підноситися у тимчасовій астральній формі, щоб шпигувати за тими, хто навколо.
 
-cult-glyph-name-warding = Communion of Warding
-cult-glyph-description-warding = Warding. Transmutes pressure-resistant clothing into entropic garb.
-cult-glyph-name-blades = Communion of Blades
-cult-glyph-description-blades = Blades. Transmutes and extrudes sharp objects into more lethal weaponry.
+cult-glyph-name-warding = Причастя Захисту
+cult-glyph-description-warding = Захист. Трансмутує стійкий до тиску одяг на ентропійне вбрання.
+cult-glyph-name-blades = Причастя Клинків
+cult-glyph-description-blades = Клинки. Трансмутує та витягує гострі предмети, перетворюючи їх на більш смертоносну зброю.
 
-cult-glyph-name-cessation = Concord of Cessation
-cult-glyph-description-cessation = Cessation. Transmutes various machinery into mysterious devices for our use.
-cult-glyph-name-truth = Concord of Truth
-cult-glyph-description-truth = Truth. Instills the pure, indelible truth. Able to convert absolutely anyone to join our ranks.
+cult-glyph-name-cessation = Згода Припинення
+cult-glyph-description-cessation = Припинення. Трансмутує різноманітне обладнання на таємничі пристрої для нашого використання.
+cult-glyph-name-truth = Згода Істини
+cult-glyph-description-truth = Істина. Навіює чисту, незгладиму істину. Здатен навернути абсолютно кожного до наших лав.

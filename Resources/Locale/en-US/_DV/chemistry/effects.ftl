@@ -1,12 +1,12 @@
 reagent-effect-guidebook-chem-remove-psionic =
     { $chance ->
-        [1] Removes
-        *[other] {$chance} to remove
-    } all psionic powers
+        [1] Видаляє
+        *[other] Має шанс {$chance} видалити
+    } усі псіонічні сили
 
 reagent-effect-guidebook-chem-roll-psionic =
-    Has a chance to grant another, different psionic power
+    Дає шанс отримати іншу псіонічну силу
     { $multiplier ->
         [1] {""}
-        *[other] with a chance multiplier of {$multiplier}
+        *[other] з множником шансу {$multiplier}
     }

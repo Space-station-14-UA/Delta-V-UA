@@ -1,1 +1,1 @@
-player-panel-job-whitelists = Job Whitelists
+player-panel-job-whitelists = Вайтлісти посад

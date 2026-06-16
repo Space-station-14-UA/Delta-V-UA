@@ -1,26 +1,26 @@
-cwoink-user-title = Curator Message
+cwoink-user-title = Повідомлення Куратора
 
-cwoink-system-starmute-message-no-other-users = *System: Nobody is available to receive your message. Try pinging Event Management on Discord.
+cwoink-system-starmute-message-no-other-users = *Система: Немає нікого, хто міг би отримати ваше повідомлення. Спробуйте пінганути Event Management у Discord.
 
 cwoink-system-messages-being-relayed-to-discord =
-    All messages are relayed to game Curators via Discord.
+    Усі повідомлення передаються Кураторам гри через Discord.
 
 cwoink-system-introductory-message =
-    Please let us know of any event related queries here.
+    Будь ласка, повідомляйте про будь-які запити щодо івентів тут.
 
-    Administrative concerns, such as rule violations and questions, as well as mentoring, should be directed to Admin Help.
+    Адміністративні питання, такі як порушення правил, загальні запитання або прохання про навчання (менторинг), слід надсилати в Admin Help.
 
-    Any bugs and other related issues should be reported through Discord or Github.
+    Про баги та інші технічні проблеми слід повідомляти через Discord або GitHub.
 
-curator-chelp-curator-only = Curator Only
-curator-chelp-curator-only-tooltip = If checked, then the message won't be visible for the player,
-    but will be visible for other Curators and still will be Discord relayed.
+curator-chelp-curator-only = Тільки для Кураторів
+curator-chelp-curator-only-tooltip = Якщо позначено, повідомлення не буде видно гравцеві, але його бачитимуть інші Куратори, і воно все одно буде передано в Discord.
 
-curator-cwoink-play-sound = Cwoink?
+curator-cwoink-play-sound = Квойнк?
 
-admin-player-actions-view-variables = View Variables
+admin-player-actions-view-variables = Переглянути змінні
 
-cwoink-title-none-selected = None selected
+cwoink-title-none-selected = Нічого не вибрано
 
-cwoink-message-curator-only = (Curator Only)
-cwoink-message-silent = (S)
+cwoink-message-curator-only = (Тільки Куратор)
+cwoink-message-silent = (Т)
+

@@ -4,5 +4,5 @@
 # SPDX-License-Identifier: AGPL-3.0-or-later AND MIT
 
 # Ovinia
-chat-emote-name-baa = Baa
-chat-emote-name-cowmoo = Moo
+chat-emote-name-baa = Бе-е-е
+chat-emote-name-cowmoo = Му-у-у

@@ -1,1 +1,1 @@
-ame-controller-component-low-fuel-warning = Warning! Antimatter fuel at {$percentage}%
+ame-controller-component-low-fuel-warning = Увага! Рівень палива антиматерії становить {$percentage}%

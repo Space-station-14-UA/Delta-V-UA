@@ -1,3 +1,3 @@
-ghost-role-information-christmas-kobold-name = Christmas Kobold
-ghost-role-information-christmas-kobold-description = Defender of the sacred Yule Tree. You have been called upon to avenge it.
-ghost-role-information-christmas-kobold-rules = Someone cut down The Tree of Gifts. Find them and teach them to be jolly by any means necessary.
+ghost-role-information-christmas-kobold-name = Різдвяний кобольд
+ghost-role-information-christmas-kobold-description = Захисник священного Йольського дерева. Вас закликали помститися за нього.
+ghost-role-information-christmas-kobold-rules = Хтось зрубав Дерево подарунків. Знайдіть винуватця та навчіть його різдвяних веселощів будь-яким доступним способом.

@@ -1,8 +1,8 @@
-names-secdogs-dataset-0 = Belka
-names-secdogs-dataset-1 = Strelka
-names-secdogs-dataset-2 = Pchyolka
-names-secdogs-dataset-3 = Mushka
-names-secdogs-dataset-4 = Chernushka
-names-secdogs-dataset-5 = Zvyozdochka
-names-secdogs-dataset-6 = Veterok
-names-secdogs-dataset-7 = Ugolyok
+names-secdogs-dataset-0 = Білка
+names-secdogs-dataset-1 = Стрілка
+names-secdogs-dataset-2 = Бджілка
+names-secdogs-dataset-3 = Мушка
+names-secdogs-dataset-4 = Чорнушка
+names-secdogs-dataset-5 = Зіронька
+names-secdogs-dataset-6 = Вітерець
+names-secdogs-dataset-7 = Угольок

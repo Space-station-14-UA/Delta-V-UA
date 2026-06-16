@@ -1,1 +1,1 @@
-cmd-togglenetworklinks-desc = Toggles seeing network configurator links
+cmd-togglenetworklinks-desc = Перемикає відображення зв'язків конфігуратора мережі

@@ -1,25 +1,25 @@
 ui-options-tab-deltav = DeltaV
-ui-options-general-forknotice = Note: These settings are fork-specific and might not apply on other servers.
+ui-options-general-forknotice = Примітка: Ці налаштування стосуються лише цього форку і можуть не діяти на інших серверах.
 
-ui-options-no-filters = Disable species vision filters
-ui-options-disable-glimmer-effect = Disable high glimmer shader effect
-ui-options-enable-stun-visuals = Enable the 'Seeing Stars' effect on stunned entities
+ui-options-no-filters = Вимкнути візуальні фільтри рас
+ui-options-disable-glimmer-effect = Вимкнути ефект шейдерів високого глімеру
+ui-options-enable-stun-visuals = Увімкнути ефект «іскри з очей» для приголомшених істот
 
 ## DeltaV NanoChat keybinds
 ui-options-header-nano-chat = NanoChat
-ui-options-function-nano-chat-navigate-up = Navigate up
-ui-options-function-nano-chat-navigate-down = Navigate down
-ui-options-function-nano-chat-navigate-up-unread = Navigate up to next unread
-ui-options-function-nano-chat-navigate-down-unread = Navigate down to next unread
+ui-options-function-nano-chat-navigate-up = Перейти вгору
+ui-options-function-nano-chat-navigate-down = Перейти вниз
+ui-options-function-nano-chat-navigate-up-unread = Перейти вгору до наступного непрочитаного
+ui-options-function-nano-chat-navigate-down-unread = Перейти вниз до наступного непрочитаного
 
 ## DeltaV Curator Chat
-ui-options-function-open-c-help = Open curator help
+ui-options-function-open-c-help = Відкрити допомогу куратора
 
 ## DeltaV Tips
-ui-options-delta-tips = Tips
-ui-options-delta-disable-tips = Disable tips
-ui-options-delta-reset-tips = Reset all seen tips
+ui-options-delta-tips = Підказки
+ui-options-delta-disable-tips = Вимкнути підказки
+ui-options-delta-reset-tips = Скинути всі переглянуті підказки
 
 ## DeltaV Screenshake Accessiblity Options
-ui-options-screen-shake-intensity = Camera kick intensity
-ui-options-es-screen-shake-toggle = Disable Screenshake
+ui-options-screen-shake-intensity = Інтенсивність трясіння камери
+ui-options-es-screen-shake-toggle = Вимкнути трясіння екрана

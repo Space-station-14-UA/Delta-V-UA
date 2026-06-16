@@ -1,5 +1,5 @@
-paper-sign-verb = Sign
+paper-sign-verb = Підписати
 
-paper-signed-other = {CAPITALIZE(THE($user))} signs {THE($target)}.
-paper-signed-self = You sign {THE($target)}.
-paper-signed-failure = You cannot sign {THE($target)}
+paper-signed-other = { CAPITALIZE(THE($user)) } підписує { THE($target) }.
+paper-signed-self = Ви підписуєте { THE($target) }.
+paper-signed-failure = Ви не можете підписати { THE($target) }.

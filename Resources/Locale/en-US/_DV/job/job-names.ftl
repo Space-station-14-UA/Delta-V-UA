@@ -1,107 +1,107 @@
-job-name-medical-borg = Medical Cyborg
-job-name-surgeon = Surgeon
-job-name-chief-justice = Chief Justice
-job-name-clerk = Clerk
-job-name-prosecutor = Prosecutor
-job-name-lawyer = Attorney
-job-name-courier = Courier
-job-name-cargo-assistant = Cargo Assistant
-job-name-security-borg = Security Cyborg
-job-name-librarian = Archivist
+job-name-medical-borg = Медичний кіборг
+job-name-surgeon = Хірург
+job-name-chief-justice = Головний суддя
+job-name-clerk = Секретар суду
+job-name-prosecutor = Прокурор
+job-name-lawyer = Адвокат
+job-name-courier = Кур'єр
+job-name-cargo-assistant = Асистент логістики
+job-name-security-borg = Безпековий кіборг
+job-name-librarian = Архівіст
 # Used by the Agent ID
-job-name-senior-physician = Physician Mentor
-job-name-senior-researcher = Research Mentor
-job-name-senior-engineer = Engineering Mentor
-job-name-senior-officer = Security Mentor
-job-name-qm = Logistics Officer
-job-name-centcomintern = CentComm Intern
-job-name-rd = Mystagogue
-job-name-brigmedic = Corpsman
+job-name-senior-physician = Медичний наставник
+job-name-senior-researcher = Науковий наставник
+job-name-senior-engineer = Інженерний наставник
+job-name-senior-officer = Безпековий наставник
+job-name-qm = Офіцер логістики
+job-name-centcomintern = Інтерн ЦентКому
+job-name-rd = Містагог
+job-name-brigmedic = Корпусний медик
 
 # Alternate titles
-job-alt-title-tourist = Tourist
-job-alt-title-off-duty-crew = Off-Duty Crew
-job-alt-title-student = Student
+job-alt-title-tourist = Турист
+job-alt-title-off-duty-crew = Позаслужбовий екіпаж
+job-alt-title-student = Студент
 
-job-alt-title-mixologist = Mixologist
+job-alt-title-mixologist = Міксолог
 
-job-alt-title-baker = Baker
-job-alt-title-butcher = Butcher
-job-alt-title-pizzaiolo = Pizzaiolo
+job-alt-title-baker = Пекар
+job-alt-title-butcher = М'ясник
+job-alt-title-pizzaiolo = Піцайоло
 
-job-alt-title-practical-nurse = Practical Nurse
-job-alt-title-resident = Resident
+job-alt-title-practical-nurse = Молодша медсестра
+job-alt-title-resident = Інтерн медицини
 
-job-alt-title-senior-physician = Physician Mentor
-job-alt-title-clinician = Clinician
-job-alt-title-cryogenics-specialist = Cryogenics Specialist
+job-alt-title-senior-physician = Медичний наставник
+job-alt-title-clinician = Клініцист
+job-alt-title-cryogenics-specialist = Спеціаліст із кріогеніки
 
-job-alt-title-pharmacist = Pharmacist
+job-alt-title-pharmacist = Фармацевт
 
-job-alt-title-life-support = Life Support Technician
-job-alt-title-plasma-scientist = Plasma Scientist
+job-alt-title-life-support = Технік життєзабезпечення
+job-alt-title-plasma-scientist = Дослідник плазми
 
-job-alt-title-senior-engineer = Engineering Mentor
-job-alt-title-electrician = Electrician
-job-alt-title-mechanic = Mechanic
+job-alt-title-senior-engineer = Інженерний наставник
+job-alt-title-electrician = Електрик
+job-alt-title-mechanic = Механік
 
-job-alt-title-deck-worker = Deck Worker
-job-alt-title-inventory-associate = Inventory Associate
+job-alt-title-deck-worker = Палубний робітник
+job-alt-title-inventory-associate = Комірник
 
-job-alt-title-mail-carrier = Mail Carrier
+job-alt-title-mail-carrier = Листоноша
 
-job-alt-title-prospector = Prospector
-job-alt-title-excavator = Excavator
+job-alt-title-prospector = Проспектор
+job-alt-title-excavator = Екскаваторник
 
-job-alt-title-senior-researcher = Research Mentor
-job-alt-title-lab-technician = Lab Technician
-job-alt-title-xenoarch = Xenoarchaeologist
+job-alt-title-senior-researcher = Науковий наставник
+job-alt-title-lab-technician = Лаборант
+job-alt-title-xenoarch = Ксеноархеолог
 
-job-alt-title-senior-officer = Security Mentor
+job-alt-title-senior-officer = Безпековий наставник
 
-job-alt-title-jester = Jester
-job-alt-title-fool = Fool
+job-alt-title-jester = Блазень
+job-alt-title-fool = Дурень
 
-job-alt-title-hygiene-technician = Hygiene Technician
+job-alt-title-hygiene-technician = Технік гігієни
 
-job-alt-title-psychiatrist = Psychiatrist
-job-alt-title-social-worker = Social Worker
-job-alt-title-therapist = Therapist
+job-alt-title-psychiatrist = Психіатр
+job-alt-title-social-worker = Соціальний працівник
+job-alt-title-therapist = Терапевт
 
-job-title-admeme-overwriting = Overwriting
-job-title-admeme-adding = Adding
+job-title-admeme-overwriting = Перезапис
+job-title-admeme-adding = Додавання
 
 # Role timers
-JobMedicalBorg = Medical Cyborg
-JobCourier = Courier
-JobChiefJustice = Chief Justice
-JobClerk = Clerk
-JobProsecutor = Prosecutor
-JobSecurityBorg = Security Cyborg
-JobRoboticist = Roboticist
-JobCargoAssistant = Cargo Assistant
-JobZookeeper = Zookeeper
-JobBoxer = Boxer
+JobMedicalBorg = Медичний кіборг
+JobCourier = Кур'єр
+JobChiefJustice = Головний суддя
+JobClerk = Секретар суду
+JobProsecutor = Прокурор
+JobSecurityBorg = Безпековий кіборг
+JobRoboticist = Робототехнік
+JobCargoAssistant = Асистент логістики
+JobZookeeper = Доглядач зоопарку
+JobBoxer = Боксер
 
 # Pet Roles
-RoleLaika = Laika
-RoleSilvia = Silvia
-RoleIfrit = Ifrit
-RoleCarpy = Carpy
-RoleShiva = Shiva
-RolePunPun = Pun Pun
+RoleLaika = Лайка
+RoleSilvia = Сільвія
+RoleIfrit = Іфрит
+RoleCarpy = Карпі
+RoleShiva = Шива
+RolePunPun = Пун Пун
 
-role-name-laika = Laika
-role-name-silvia = Silvia
-role-name-ifrit = Ifrit
-role-name-carpy = Carpy
-role-name-shiva = Shiva
-role-name-pun-pun = Pun Pun
-role-name-baba = Baba
+role-name-laika = Лайка
+role-name-silvia = Сільвія
+role-name-ifrit = Іфрит
+role-name-carpy = Карпі
+role-name-shiva = Шива
+role-name-pun-pun = Пун Пун
+role-name-baba = Баба
 
 # Station specific
-job-name-boxer = Boxer
-job-name-zookeeper = Zookeeper
+jjob-name-boxer = Боксер
+job-name-zookeeper = Доглядач зоопарку
 
 # Generic secdog
-role-name-k9-officer = K9 Officer
+role-name-k9-officer = К9-офіцер

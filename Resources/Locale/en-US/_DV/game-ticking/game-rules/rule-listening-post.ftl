@@ -1,1 +1,1 @@
-listening-post-round-end-agent-name = Listening Post Operative
+listening-post-round-end-agent-name = Оперативник посту прослуховування

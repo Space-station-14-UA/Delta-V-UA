@@ -1,1 +1,1 @@
-ghost-role-information-deltav-clippy-description = The courier's loyal pet, smells like cardboard and papers.
+ghost-role-information-deltav-clippy-description = Вірний улюбленець кур'єра, пахне картоном та паперами.

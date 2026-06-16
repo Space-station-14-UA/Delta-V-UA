@@ -1,3 +1,3 @@
-objective-issuer-skia = [color=#c7e1eb]The Fates[/color]
-objective-condition-reap-soul-title = Sever the soul of {$targetName}, {CAPITALIZE($job)}.
-objective-condition-reap-soul-reroll-message = The Fates have severed another soul. Your new target is {$targetName}, {CAPITALIZE($job)}.
+objective-issuer-skia = [color=#c7e1eb]Долі[/color]
+objective-condition-reap-soul-title = Розсікти душу {$targetName}, { CAPITALIZE($job) }.
+objective-condition-reap-soul-reroll-message = Долі розсікли іншу душу. Ваша нова ціль — {$targetName}, { CAPITALIZE($job) }.

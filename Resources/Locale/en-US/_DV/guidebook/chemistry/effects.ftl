@@ -1,11 +1,11 @@
 reagent-effect-guidebook-addicted =
     { $chance ->
-        [1] Causes
-        *[other] cause
-    } an addiction
+        [1] Викликає
+        *[other] викликає
+    } залежність
 
 reagent-effect-guidebook-addiction-suppression =
     { $chance ->
-        [1] Suppresses
-        *[other] suppress
-    } active addictions
+        [1] Пригнічує
+        *[other] пригнічує
+    } активні залежності

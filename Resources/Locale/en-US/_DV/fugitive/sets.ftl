@@ -1,29 +1,29 @@
-fugitive-set-hitman-name = hitman's kit
+fugitive-set-hitman-name = набір кілера
 fugitive-set-hitman-description =
-    You've taken lives before and are prepared to do so again if necessary.
-    Comes with a loaded viper and a spare mag.
+    Ви вже забирали життя раніше і готові зробити це знову, якщо знадобиться.
+    У комплекті заряджений пістолет Viper та запасний магазин.
 
-fugitive-set-saboteur-name = saboteur's kit
+fugitive-set-saboteur-name = набір диверсанта
 fugitive-set-saboteur-description =
-    Making engineers miserable is your life's mission.
-    Comes with EMP grenades and a brick of C4.
+    Псувати життя інженерам — місія вашого життя.
+    У комплекті ЕМП-гранати та брикет C4.
 
-fugitive-set-ghost-name = ghost's kit
+fugitive-set-ghost-name = набір при привида
 fugitive-set-ghost-description =
-    Disappear in the middle of a chase to secure your freedom!
-    Comes with 2 smoke grenades and a scram implanter that can teleport you.
+    Зникніть просто посеред погоні, щоб вибороти свою свободу!
+    У комплекті 2 димові гранати та скрем-імплант (scram), який може вас телепортувати.
 
-fugitive-set-leverage-name = leverage kit
+fugitive-set-leverage-name = набір для шантажу
 fugitive-set-leverage-description =
-    Your years in the clown college taught you to slip security very well.
-    Use a death adicifier on you or a "friend" to get what you want!
+    Роки в клоунському коледжі навчили вас чудово вислизати від охорони.
+    Використайте кислотний деструктор (death acidifier) на собі або «другові», щоб отримати бажане!
 
-fugitive-set-infiltrator-name = infiltrator's kit
+fugitive-set-infiltrator-name = набір інфільтратора
 fugitive-set-infiltrator-description =
-    Use an Agent ID to steal access from others and go anywhere.
-    Your freedom implanter can be used as a plan B if all else fails.
+    Використовуйте ID-картку агента, щоб красти чужі доступи та проходити куди завгодно.
+    Ваш імплант «Свобода» (freedom) можна використати як план «Б», якщо все інше провалиться.
 
-fugitive-set-disruptor-name = disruptor's kit
+fugitive-set-disruptor-name = набір деструктора
 fugitive-set-disruptor-description =
-    Hack the stations various systems and use them to your advantage.
-    Comes with a cryptographic sequencer and camera bug.
+    Зламуйте різноманітні системи станції та використовуйте їх на свою користь.
+    У комплекті криптографічний секвенсор (magyver/emag) та жучок для відеокамер.

@@ -1,3 +1,3 @@
-zombie-bioterrorist-role-greeting = You are a syndicate sponsored bioterrorist sent to overtake the station by use of the Romerol virus. Coordinate with your team, get supplies and prepare for your eventual transformation. Death to nanotrasen!
-zombie-bioterrorist-romerol-active = The romerol in your blood is now active, you are ready to transform!
-zombie-patientzero-role-greeting = You are an initial infected. Get supplies and prepare for your eventual transformation. You may sabotage the station and kill crew before turning. Your goal is to overtake the station while infecting as many people as possible.
+zombie-bioterrorist-role-greeting = Ви — біотерорист, якого спонсорує Синдикат. Ваша мета — захопити станцію за допомогою вірусу Ромероль (Romerol). Координуйтеся зі своєю командою, збирайте припаси та готуйтеся до свого майбутнього перетворення. Смерть Нанотрейзен!
+zombie-bioterrorist-romerol-active = Ромероль у вашій крові тепер активний, ви готові до перетворення!
+zombie-patientzero-role-greeting = Ви — нульовий пацієнт. Збирайте припаси та готуйтеся до свого майбутнього перетворення. До того, як перетворитися, ви можете саботувати станцію та вбивати екіпаж. Ваша мета — захопити станцію, заразивши якомога більше людей.

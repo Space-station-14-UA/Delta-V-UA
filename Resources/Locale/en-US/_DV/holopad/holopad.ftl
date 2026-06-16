@@ -1,77 +1,77 @@
 # Command
-holopad-command-lo = Command - LO
-holopad-command-mysta = Command - Mysta
-holopad-command-cj = Command - CJ
-holopad-command-evac = Command - Evac
-holopad-command-lobby = Command - Lobby
-holopad-command-bar = Command - Bar
+holopad-command-lo = Командування - Офіцер зв'язку
+holopad-command-mysta = Командування - Міста
+holopad-command-cj = Командування - Верховний суддя
+holopad-command-evac = Командування - Евакуація
+holopad-command-lobby = Командування - Лобі
+holopad-command-bar = Командування - Бар
 
 # Epistemics
-holopad-epistemics-anomaly = Epistemics - Anomaly
-holopad-epistemics-artifact = Epistemics - Artifact
-holopad-epistemics-robotics = Epistemics - Robotics
-holopad-epistemics-rnd = Epistemics - R&D
-holopad-epistemics-front = Epistemics - Front
-holopad-epistemics-breakroom = Epistemics - Breakroom
-holopad-epistemics-mantis = Epistemics - Mantis
-holopad-epistemics-oracle = Epistemics - Oracle
-holopad-epistemics-lobby = Epistemics - Lobby
+holopad-epistemics-anomaly = Епістеміка - Аномалії
+holopad-epistemics-artifact = Епістеміка - Артефакти
+holopad-epistemics-robotics = Епістеміка - Робототехніка
+holopad-epistemics-rnd = Епістеміка - Дослідження та розробка
+holopad-epistemics-front = Епістеміка - Приймальня
+holopad-epistemics-breakroom = Епістеміка - Кімната відпочинку
+holopad-epistemics-mantis = Епістеміка - Богомол
+holopad-epistemics-oracle = Епістеміка - Оракул
+holopad-epistemics-lobby = Епістеміка - Лобі
 
 # Logistics
-holopad-logistics-front = Logistics - Front
-holopad-logistics-cargo-bay = Logistics - Cargo Bay
-holodpad-logistics-mailroom = Logistics - Mailroom
-holodpad-logistics-mailfront = Logistics - Mail Front
-holopad-logistics-salvage-bay = Logistics - Salvage Bay
-holopad-logistics-breakroom  = Logistics - Breakroom
-holopad-logistics-ats = Logistics - ATS
-holopad-logistics-shuttle = Logistics - Shuttle
-holopad-logistics-lobby = Logistics - Lobby
+holopad-logistics-front = Логістика - Приймальня
+holopad-logistics-cargo-bay = Логістика - Вантажний відсік
+holodpad-logistics-mailroom = Логістика - Пошта
+holodpad-logistics-mailfront = Логістика - Вікно видачі пошти
+holopad-logistics-salvage-bay = Логістика - Утилізаційний відсік
+holopad-logistics-breakroom = Логістика - Кімната відпочинку
+holopad-logistics-ats = Логістика - АТС
+holopad-logistics-shuttle = Логістика - Шатл
+holopad-logistics-lobby = Логістика - Лобі
 
 # Justice
-holopad-justice-prosecutor = Justice - Prosecutor
-holopad-justice-attorney = Justice - Attorney
-holopad-justice-clerk = Justice - Clerk
-holopad-justice-lobby = Justice - Lobby
+holopad-justice-prosecutor = Юстиція - Прокурор
+holopad-justice-attorney = Юстиція - Адвокат
+holopad-justice-clerk = Юстиція - Секретар
+holopad-justice-lobby = Юстиція - Лобі
 
 # Security
-holopad-security-corpsman = Security - Corpsman
-holopad-security-evidence = Security - Evidence
-holopad-security-lobby = Security - Lobby
+holopad-security-corpsman = Служба безпеки - Корпусний медик
+holopad-security-evidence = Служба безпеки - Докази
+holopad-security-lobby = Служба безпеки - Лобі
 
 # General
-holopad-general-park = General - Park
-holopad-general-nitrogen-lounge = General - Nitrogen Lounge
-holopad-general-shipyard-dock = General - Shipyard Dock
+holopad-general-park = Загальний - Парк
+holopad-general-nitrogen-lounge = Загальний - Азотна зала
+holopad-general-shipyard-dock = Загальний - Док верфі
 
 # Medical
-holopad-medical-psychologist = Medical - Psychologist
-holopad-medical-outpost = Medical - Outpost
-holopad-medical-lobby = Medical - Lobby
+holopad-medical-psychologist = Медичний - Психолог
+holopad-medical-outpost = Медичний - Аванпост
+holopad-medical-lobby = Медичний - Лобі
 
 # Engineering
-holopad-engineering-pa-control = Engineering - PA Control
-holopad-engineering-lobby = Engineering - Lobby
+holopad-engineering-pa-control = Інженерний - Керування ПУ
+holopad-engineering-lobby = Інженерний - Лобі
 
 # Service
-holopad-service-toolroom = Service - Toolroom
-holopad-service-barber-shop = Service - Barber Shop
+holopad-service-toolroom = Сервіс - Інструментальна
+holopad-service-barber-shop = Сервіс - Перукарня
 
 # Station Specific
-holopad-security-perma-kitchen = Security - Perma Kitchen
-holopad-security-perma-botany = Security - Perma Botany
-holopad-security-perma-yard-one = Security - Perma Yard One
-holopad-security-perma-yard-two = Security - Perma Yard Two
-holopad-security-perma-workshop = Security - Perma Workshop
-holopad-security-perma-guard-complex = Security - Perma Guard Complex
-holopad-security-perma-mineshaft = Security - Perma Mineshaft
-holopad-security-perma-arena = Security - Arena
-holopad-security-perma-gladiator-lounge = Security - Gladiator Lounge
-holopad-general-spesscar-track = General - Spesscar Track
-holopad-general-laundromat = General - Laundromat
-holopad-general-pool = General - Pool
-holopad-general-shooting-range = General - Shooting Range
-holopad-security-hallway = Security - Hallway
-holopad-security-bomb-training = Security - Bomb Training
-holopad-security-solitary = Security - Solitary Confinement
-holopad-general-zoo = General - Zoo
+holopad-security-perma-kitchen = Служба безпеки - Перма: Кухня
+holopad-security-perma-botany = Служба безпеки - Перма: Ботаніка
+holopad-security-perma-yard-one = Служба безпеки - Перма: Двір 1
+holopad-security-perma-yard-two = Служба безпеки - Перма: Двір 2
+holopad-security-perma-workshop = Служба безпеки - Перма: Майстерня
+holopad-security-perma-guard-complex = Служба безпеки - Перма: Комплекс охорони
+holopad-security-perma-mineshaft = Служба безпеки - Перма: Шахта
+holopad-security-perma-arena = Служба безпеки - Арена
+holopad-security-perma-gladiator-lounge = Служба безпеки - Глодіаторська зала
+holopad-general-spesscar-track = Загальний - Гоночний трек
+holopad-general-laundromat = Загальний - Пральня
+holopad-general-pool = Загальний - Басейн
+holopad-general-shooting-range = Загальний - Стрільбище
+holopad-security-hallway = Служба безпеки - Коридор
+holopad-security-bomb-training = Служба безпеки - Вибухотехнічна підготовка
+holopad-security-solitary = Служба безпеки - Одиночна камера
+holopad-general-zoo = Загальний - Зоопарк

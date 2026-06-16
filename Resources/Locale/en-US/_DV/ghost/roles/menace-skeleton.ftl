@@ -1,6 +1,7 @@
-ghost-role-information-menace-skeleton-name = Menace Skeleton
-ghost-role-information-menace-skeleton-description = Trapped in a closet for all eternity has left you remarkably light on calcium. Explore a new age, pilfer milk, and find your purpose.
-ghost-role-information-menace-skeleton-rules = You are a [color=yellow][bold]Free-Agent[/bold][/color].  You are free to act as either an antagonist or a non-antagonist.
-                                                    You should NOT seek violence and only use it as a last resort to resolve your encounters.
-skeleton-role-briefing = You are now a skeleton, an undying representation of your will. Why have you just now awakened, what is your purpose, and what will you do with this new un-life?
-menace-skeleton-round-end-name = Menace Skeleton
+ghost-role-information-menace-skeleton-name = Скелет-загроза
+ghost-role-information-menace-skeleton-description = Вічне ув'язнення в шафі призвело до критичної нестачі кальцію у вашому тілі. Досліджуйте нову епоху, цупте молоко та знайдіть своє призначення.
+ghost-role-information-menace-skeleton-rules =
+    Ви — [color=yellow][bold]Вільний агент[/bold][/color]. Ви можете діяти як антагоніст або як мирний персонаж — на ваш власний розсуд.
+    Ви НЕ повинні прагнути насильства й можете вдаватися до нього лише як до крайнього заходу для вирішення конфліктів.
+skeleton-role-briefing = Тепер ви — скелет, безсмертне втілення вашої волі. Чому ви прокинулися саме зараз, у чому ваше призначення і що ви робитимете з цим новим посмертним життям?
+menace-skeleton-round-end-name = Скелет-загроза

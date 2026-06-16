@@ -1,3 +1,3 @@
-ghost-role-information-silvia-name = Silvia
-ghost-role-information-silvia-description = You are Silvia the space snake and the CMO's charming companion.
-ghost-role-information-silvia-rules = Keep the medical team company and help out in emergencies with your omnizine venom. Stick close to the CMO in case they need emergency healing.
+ghost-role-information-silvia-name = Сільвія
+ghost-role-information-silvia-description = Ви — космічна змійка Сільвія та чарівна супутниця ГЛ (Головного лікаря).
+ghost-role-information-silvia-rules = Складайте компанію медичній команді та допомагайте в екстрених ситуаціях своєю отрутою з омнізином. Тримайтеся ближче до ГЛ на випадок, якщо знадобиться термінове лікування.

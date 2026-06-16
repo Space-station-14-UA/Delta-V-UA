@@ -1,2 +1,2 @@
-cmd-adminoverlay-desc = Activate or deactivate the admin overlay
+cmd-adminoverlay-desc = Активація або деактивація адмінського оверлею
 cmd-adminoverlay-help = adminoverlay <true|false>

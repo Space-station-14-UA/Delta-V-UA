@@ -1,4 +1,5 @@
-deltav-ghost-role-information-salvageantag-rules =  You are a salvage mob.
-                                                    You are allowed to attack salvagers without provocation. DO NOT GIB THEIR CORPSES!
-                                                    You are allowed to attack the salvage shuttle.
-                                                    You are NOT allowed to go to the station. If the salvagers go to the station, you can't follow them
+deltav-ghost-role-information-salvageantag-rules =
+    Ви — ворожа істота (моб) у зоні утилізації.
+    Вам дозволено атакувати утилізаторів без будь-яких провокацій з їхнього боку. НЕ ПЕРЕТВОРЮЙТЕ ЇХНІ ТІЛА НА ФАРШ (НЕ ГІБЦАЙТЕ)!
+    Вам дозволено атакувати шатл утилізаторів.
+    Вам ЗАБОРОНЕНО летіти на станцію. Якщо утилізатори повертаються на станцію, ви не можете йти за ними.

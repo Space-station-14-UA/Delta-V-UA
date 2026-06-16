@@ -1,1 +1,1 @@
-objective-roboneuroticist-kill-title = Condemn {$targetName}, {CAPITALIZE($job)} to metal
+objective-roboneuroticist-kill-title = Приректи {$targetName}, { CAPITALIZE($job) }, на металеву долю

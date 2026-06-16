@@ -1,3 +1,3 @@
-damage-type-ion = Ion
-damage-type-soul = Soul
-damage-type-radiant = Radiant
+damage-type-ion = Іонні
+damage-type-soul = Душевні
+damage-type-radiant = Сяючі

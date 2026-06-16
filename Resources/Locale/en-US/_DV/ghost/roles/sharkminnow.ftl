@@ -1,2 +1,2 @@
-ghost-role-information-sentient-shark-name = Sentient Sharkminnow
-ghost-role-information-sentient-shark-description = Help the dragon flood the station with sharks!
+ghost-role-information-sentient-shark-name = Розумна акула-міноу
+ghost-role-information-sentient-shark-description = Допоможіть дракону затопити станцію акулами!

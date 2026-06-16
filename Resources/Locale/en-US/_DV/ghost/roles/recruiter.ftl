@@ -1,7 +1,7 @@
-ghost-role-information-recruiter-name = Syndicate Recruiter
-ghost-role-information-recruiter-description = The Syndicate needs to hire new people and you're the best in the business.
+ghost-role-information-recruiter-name = Вербувальник Синдикату
+ghost-role-information-recruiter-description = Синдикату потрібно найняти нових людей, а ви — найкращий у своїй справі.
 ghost-role-information-recruiter-rules =
-    Interview people and have the best candidates sign a contract in blood.
-        Set up shop in maints or use your ship as a portable hiring office!
+    Проводьте співбесіди та змушуйте найкращих кандидатів підписувати контракт кров'ю.
+    Облаштуйте офіс у технічних тунелях або використовуйте свій корабель як мобільний відділ кадрів!
 
-        You are just a recruiter so do not act like a full-on antagonist, i.e. no killing people.
+    Ви лише вербувальник, тому не поводьтеся як повноцінний антагоніст — тобто ніяких убивств.

@@ -1,248 +1,244 @@
-book-text-fishops = FISHOPS ADVANCED USER MANUAL FIRST EDITION
+book-text-fishops = ПОСІБНИК ДЛЯ ПРОСУНУТИХ КОРИСТУВАЧІВ FISHOPS, ПЕРШЕ ВИДАННЯ
 
-     -----------------------------------------------------------------------------
+    -----------------------------------------------------------------------------
 
-     fishops (v.)
-       Summoning many carp on someone.
-       "I got fishopsed!" (said post revival as the subject died)
-     fishops (n.)
-       The act of war in which the majority of a nuclear task force's budget is put towards fishopsing the station.
-       Alternatively it can be used to refer to the operatives doing fishops.
-       "We are doing fishops."
-       "It's the dreaded fishops!"
+    fishops (дієсл.)
+        Закликати багато коропів на когось.
+        "Мене зафішопсили!" (сказано після відродження, оскільки суб'єкт загинув)
+    fishops (імен.)
+        Акт війни, під час якого більша частина бюджету ядерної групи витрачається на «фішопсинг» станції.
+        Також може стосуватися оперативників, які займаються фішопсом.
+        "Ми займаємося фішопсом."
+        "Це жахливий фішопс!"
 
-     This manual will teach you the mechanics of both kinds of fishops.
+    Цей посібник навчить вас механікам обох видів фішопсу.
 
-     CHAPTER 1: The Old Man and the Fish
-     What is a carp? A carp is a space creature that only has one desire: to attack the enemy. Once it finds a suitable target, it will home in and viciously attack. The manner in which it attacks is fairly simple: it will move in, bite the target, then move back out. This is referred to as kiting.
-     This makes a single fish challenging to fight, let alone a group of them. A carp does not need food or water, it attacks for pleasure alone. Unfortunately it will not attack past critical condition, a single carp will refuse to finish off a target. Many carp however will, around 20 will instantly kill just about anything.
+    РОЗДІЛ 1: Старий і Риба
+    Що таке короп? Короп — це космічна істота, яка має лише одне бажання: атакувати ворога. Щойно він знаходить відповідну ціль, він націлюється на неї і починає жорстоку атаку. Спосіб атаки доволі простий: він підпливає, кусає ціль, потім відпливає назад. Це називається кайтингом.
+    Через це з одним коропом складно битися, не кажучи вже про цілу групу. Коропу не потрібні їжа чи вода, він атакує заради задоволення. На жаль, він не атакуватиме після того, як ціль досягне критичного стану; один короп відмовиться добивати ціль. Проте багато коропів зроблять це — близько 20 миттєво вб'ють майже будь-кого.
 
-     CHAPTER 2: Under the Sea
-     Knowing what a carp is good and all, but how does one summon a carp on command? The dehydrated space carp, found rarely on wreckages in space or supplied by the syndicate to its agents and operatives. It is a simple thing: once water is sprayed or poured on it, it will turn into a real space carp. Slipping in a puddle of water will instantly hydrate all the dehydrated carp in your inventory, which can be lucrative for instant "fishbombing".
+    РОЗДІЛ 2: Під водою
+    Знати, що таке короп — це добре, але як викликати його за командою? Зневоднений космічний короп рідко трапляється на уламках у космосі або постачається Синдикатом своїм агентам та оперативникам. Все просто: як тільки на нього бризнути водою або полити, він перетвориться на справжнього космічного коропа. Ковзання по калюжі води миттєво гідратує всіх зневоднених коропів у вашому інвентарі, що може бути вигідно для миттєвого «рибного бомбардування».
 
-     CHAPTER 3: Best Friends Forever
-     Summoning a carp that attacks you is rarely useful, so there is a way to make them friendly to you. Before hydration, you stroke the dehydrated carp's head like petting a cat. Once hydrated, it will never attack you. This applies to any number of people that do it, so you can have a whole group of people that the carps are friendly towards. Before this was a thing operatives would remotely detonate literal carp bombs: a locker containing carp, a c4 to blow the locker open and a water foam grenade to hydrate the carp. Once at a safe distance, the c4 and grenade are triggered to unleash the carp.
+    РОЗДІЛ 3: Кращі друзі назавжди
+    Викликати коропа, який атакує вас — малокорисно, тому є спосіб зробити їх дружніми. Перед гідратацією погладьте голову зневодненого коропа, ніби пестите кота. Після гідратації він ніколи не нападе на вас. Це стосується будь-якої кількості людей, які це зробили, тому ви можете мати цілу групу людей, до яких коропи будуть дружніми. До того, як це вигадали, оперативники дистанційно підривали справжні коропові бомби: шафка з коропами, C4, щоб підірвати шафку, і граната з водяною піною, щоб гідратувати коропів. На безпечній відстані C4 і граната активуються, випускаючи коропів.
 
-     CHAPTER 4: Fish Petting Pipeline
-     Without an optimal pipeline, not everyone on a team will pet all the fish perfectly. This is where a fish petting pipeline comes in. Each member of the team is only allowed to pet fish in their own pipeline. After everyone has purchased carp, they are put in one large pile. The first member starts petting, putting the petted fish in a second pile. This repeats until there is a pile at the end which everyone has pet at some point. This pile can then be bagged for use.
+    РОЗДІЛ 4: Конвеєр для пещення риб
+    Без оптимального конвеєра не кожен у команді зможе ідеально погладити всіх риб. Тут на допомогу приходить конвеєр для пещення. Кожен член команди має право гладити рибу лише у своєму сегменті. Після того, як усі купили коропів, їх зсипають в одну велику купу. Перший учасник починає гладити, перекладаючи рибу в другу купу. Це повторюється доти, доки не утвориться купа в кінці, яку кожен встиг погладити. Потім цю купу можна запакувати в сумку для використання.
 
-     CHAPTER 5: Deployment
-     Fishbombs, slipping and other methods are powerful but require large setup. A much easier way to hydrate them is to have a bottle of water. Any bottle stores 100u of liquids so simply empty it and fill it from a sink. Once you see someone that should be attacked, or are in an area that should be secured from the enemy, simply pour a single unit of water onto each carp. A single bottle will have enough for 100 carp, so you can even take a drink if you get thirsty.
-     Each member in a fishops squad should carry a bottle and some fish, as there will be far more than just one member can carry.
+    РОЗДІЛ 5: Розгортання
+    Рибні бомби, ковзання та інші методи потужні, але потребують серйозної підготовки. Значно простіший спосіб — мати пляшку води. Будь-яка пляшка вміщує 100 од. рідини, тому просто спорожніть її та наповніть із раковини. Як тільки побачите, на кого треба напасти, або опинитеся в зоні, яку потрібно очистити від ворога, просто вилийте одну одиницю води на кожного коропа. Пляшки вистачить на 100 коропів, тож ви навіть можете зробити ковток, якщо зголоднієте.
+    Кожен член загону fishops повинен мати пляшку і трохи риби, оскільки їх буде набагато більше, ніж зможе нести одна людина.
 
-     CHAPTER 6: Fish War
-     In the event of fish war there will be double the fish, more than could possibly be carried. A reinforcement or two will be required to carry the surplus fish. A fish war has never happened in recorded history, so it is currently purely theoretical. Its destructive power would rival several neutronium bombs.
+    РОЗДІЛ 6: Рибна війна
+    У разі рибної війни риби буде вдвічі більше, ніж можливо нести. Знадобиться підкріплення, щоб перенести надлишок. Рибної війни ніколи не було в записаній історії, тому зараз це чисто теоретичне поняття. Її руйнівна сила могла б зрівнятися з кількома нейтронієвими бомбами.
 
-book-text-vulpkanin = Vulpkanin for Dummies, an Exhaustive Guide
+book-text-vulpkanin = Вулпканіни для чайників: вичерпний посібник
 
-    So, you're new to the sector and keep seeing these fine folks running around?
-    Those are Vulpkanin, basically space foxes (or wolves, depending who you ask)!
-    We've accumulated some quick tips you might use when engaging with these fluff balls.
+    Отже, ви новачок у секторі й постійно бачите цих милих створінь, що бігають навколо?
+    Це Вулпканіни, по суті — космічні лисиці (або вовки, залежно від того, у кого запитати)!
+    Ми зібрали кілька швидких порад, які можуть знадобитися вам під час взаємодії з цими пухнастиками.
 
-       No Chocolate! Seriously, it's like poison to them. Stick to burgers and fries.
+        Без шоколаду! Серйозно, для них це наче отрута. Краще дайте бургер чи картоплю фрі.
 
-       Watch the Tail: A wagging tail usually means they're happy. A puffed-up tail? Back away slowly...
+        Слідкуйте за хвостом: виляючий хвіст зазвичай означає, що вони щасливі. Розпушений хвіст? Повільно відступайте...
 
-       They Come in All Colors: From fiery reds to snowy whites, every Vulpkanin is unique!
+        Вони бувають усіх кольорів: від вогняно-рудих до сніжно-білих, кожен Вулпканін унікальний!
 
-       Learn their Language: While most Vulpkanin speak common, knowing a few phrases in their native tongue can go a long way in building rapport.
+        Вивчіть їхню мову: хоча більшість Вулпканінів розмовляють спільною мовою, знання кількох фраз їхньою рідною може значно допомогти у побудові стосунків.
 
-       How to Kiss: Kiss
+        Як поцілувати: Поцілунок
 
-       Don't Underestimate Them: Vulpkanin may look cute and cuddly, but they can be fierce fighters when provoked. Treat them with respect and avoid unnecessary conflict.
+        Не недооцінюйте їх: Вулпканіни можуть виглядати милими й пухнастими, але вони стають лютими бійцями, якщо їх спровокувати. Ставтеся до них з повагою і уникайте непотрібних конфліктів.
 
-book-text-gorlexgirlfriend = It's the 197th version of the infamous Gorlex Girlfriends magazine. This issue includes several pictures and interviews of multiple agents working in the syndicate alongside actors who work on the Syndicate TV show "Nukies". The best part by far was about Operative November who is the star of this edition, with her picture being on the cover.
+book-text-gorlexgirlfriend = Це 197-й випуск сумнозвісного журналу «Дівчата Горлекса». Цей номер містить кілька фотографій та інтерв’ю з кількома агентами, які працюють у Синдикаті, а також акторами, що знімаються в шоу Синдикату «Нюкі». Найкраща частина, безумовно, про Оперативника Листопада, який є зіркою цього видання, а його фотографія — на обкладинці.
 
-    Most of the magazine is either Syndicate propaganda or advertisements for Syndicate-branded items like soda or merch from the show. At least there are some coupons on the back for them.
+    Більша частина журналу складається з пропаганди Синдикату або реклами товарів під брендом Синдикату, таких як газована вода чи сувенірна продукція з шоу. Принаймні, на звороті є кілька купонів на них.
 
-    On the last page is an ad for the Gorlex Girlfriends dating app... and the Gorlex Girlfriends Hotline.
+    На останній сторінці є реклама додатку для знайомств «Дівчата Горлекса»... і гаряча лінія «Дівчат Горлекса».
 
-book-text-centcomm-chad = The 56th edition of the newly released CentComm Chads series. This edition includes several pictures of CentComm Officials and Station Command "on the grind", whether that is in the gym or in the office being productive. The best collection is from the cover model Commander Chad, who enjoys a beach vacation while listening to the CC podcast.
+book-text-centcomm-chad = 56-й випуск нової серії «Чади ЦентКому». Це видання містить кілька фотографій посадовців ЦентКому та командування станції під час роботи («на витривалості»), будь то в спортзалі чи в офісі під час продуктивної праці. Найкраща добірка — про модель з обкладинки, Командира Чада, який насолоджується відпусткою на пляжі, слухаючи подкаст CC.
 
-    A good part of the magazine is about the CentComm Chads podcast, where they discuss the dangers of Unions in terms of career verticality, as well as "good grindsets" such as never taking PTO, or working better for less pay to improve yourself. A few pages advertise merch for either NT or CC apparel.
+    Значна частина журналу присвячена подкасту «Чади ЦентКому», де обговорюються небезпеки профспілок для кар'єрного зростання, а також «успішні стратегії», такі як відмова від відпусток або краща робота за менші гроші заради самовдосконалення. Кілька сторінок рекламують одяг NanoTrasen або CC.
 
-    The last page sports the SpaceNet address for the CentComm podcast, as well as the number for NanoTrasen's Recruitment Hotline with a corny line beneath:
-    "Be commanded by your CentComm Chad with minimal pay today!"
+    На останній сторінці є адреса SpaceNet для подкасту ЦентКому, а також номер гарячої лінії з набору персоналу NanoTrasen із банальною фразою внизу:
+    «Будь під командуванням свого Чада з ЦентКому з мінімальною оплатою вже сьогодні!»
 
-book-text-ancientbookcommon-1 = the text seems to shift and move, rendering it completely unreadable... but you feel as though these stories will become legible in time, and feel determined to keep uncovering the past.
+book-text-ancientbookcommon-1 = текст здається таким, що зміщується та рухається, стаючи абсолютно нечитабельним... але ви відчуваєте, що ці історії з часом стануть зрозумілими, і сповнені рішучості продовжувати розкривати минуле.
 
-book-text-ancientbookuncommon-1 = In this part we move onto the more dangerous kinds of psionic abilities.
+book-text-ancientbookuncommon-1 = У цій частині ми переходимо до небезпечніших видів псіонічних здібностей.
 
-    Firstly we have noospheric zap. This is a pretty simple ability, but it still very useful to those who have it. The user shoots out what is basically a lighting bolt to wherever they desire, and if it hits somebody, it fills their body with a debilitating zap. In practice this ability can drop someone to the ground before they even know it, useful for arresting criminals.. or aiding criminals in an escape.
-    How to counter noospheric zap. The counter is pretty simple, it's just insulated gloves! Surprisingly the zap will gravitate towards the hands, and if you're wearing insuls, the effect is nullified!
+    По-перше, ноосферний удар. Це досить проста здібність, але вона все ще дуже корисна для тих, хто нею володіє. Користувач випускає щось на кшталт блискавки в бажаному напрямку, і якщо вона влучає в когось, то наповнює тіло цілі виснажливим розрядом. На практиці ця здібність може звалити людину з ніг, перш ніж вона зрозуміє, що сталося — корисно для затримання злочинців або допомоги їм у втечі.
+    Як протидіяти ноосферному удару. Контрзахід простий — ізольовані рукавички! Дивно, але розряд тяжіє до рук, і якщо ви в діелектричних рукавичках, ефект анулюється!
 
-    Now we have mindswap. A very dangerous ability for anybody to have, evil intentions or not. This ability will swap the consciousness of the user and their target. The swap can be reversed by the target after a short period, but if the target is killed by somebody, user or not, then they are both trapped in the swapped bodies. BEWARE. If the glimmer of a certain area gets too high, then it can occur a MASS mindswap, swapping a large amount of people's minds with zero way to revert it.
-    How to counter mindswap. The only real counter to mindswap is psionic insulation.
+    Тепер — обмін розумами. Дуже небезпечна здібність для будь-кого, незалежно від намірів. Вона міняє свідомість користувача та цілі. Обмін може бути скасований ціллю через короткий час, але якщо ціль убито будь-ким, користувачем чи ні, вони обоє опиняться в пастці в чужих тілах. ОСТЕРІГАЙТЕСЯ. Якщо рівень мерехтіння в певній зоні стає занадто високим, може статися МАСОВИЙ обмін розумами, що міняє свідомість багатьох людей без жодного способу повернути все назад.
+    Як протидіяти обміну розумами. Єдиний реальний спосіб — псіонічна ізоляція.
 
-    Next is mass sleep. As the name suggests, the user can put a mass amount of people to sleep in an area around where they target this ability. Now I myself do not know how long this sleepiness lasts, but it is long enough for many different kinds of problems to happen.
-    How to counter mass sleep. There are some chemicals that can remove sleepiness, although i doubt anyone will have those on hand. Coffee also works too if you were drinking it beforehand. Besides those two things your best bet is, yet again, psionic insulation!
+    Далі — масовий сон. Як випливає з назви, користувач може приспати велику кількість людей у зоні навколо цілі. Не знаю, як довго триває ця сонливість, але достатньо довго, щоб виникло багато проблем.
+    Як протидіяти масовому сну. Є хімікати, які можуть зняти сонливість, хоча сумніваюся, що вони будуть у когось під рукою. Кава теж працює, якщо ви пили її раніше. Окрім цих двох речей, найкращий вибір — знову ж таки, псіонічна ізоляція!
 
-    Lastly, there's psionic eruption. A very rare and very dangerous ability for one to obtain. This ability will irritate the user for as long as they have it, making them more likely to use it. If one were to use this ability, they would start shaking and sparking for about 10 seconds before exploding violently, destroying them and their surroundings. This ability is affected by the local glimmer, higher levels meaning more irritation and a bigger explosion.
-    How to counter psionic eruption. The user is vulnerable during the charge up state of the explosion, which can be used to take them down, lethally or non-lethally, as long as they are interrupted the explosion will be stopped. There is no way of preventing a use of this ability outside of mindbreaking the user.
+    Нарешті, псіонічне виверження. Дуже рідкісна і дуже небезпечна здібність. Вона подразнює користувача, поки він володіє нею, змушуючи використовувати її частіше. У разі використання користувач починає тремтіти й іскритися близько 10 секунд перед бурхливим вибухом, що знищує його та все навколо. Ця здібність залежить від локального рівня мерехтіння: вищі рівні означають більше подразнення і потужніший вибух.
+    Як протидіяти псіонічному виверженню. Користувач вразливий під час заряджання вибуху, що можна використати, щоб зупинити його — смертельно чи ні; якщо перервати процес, вибух припиниться. Запобігти використанню цієї здібності іншим способом, крім зламу розуму, неможливо.
 
-    Honorable mention! Shatter lights. This ability allows the user to scream at a high frequency, enough to shatter all the lights around them. All this ability is good for is to make darkness, which can be very useful for those with ill-intent.
-    How to counter shatter lights. Have replacement lights on hand?? There isn't really a "counter" to this ability outside of like a flashlight or something.
+    Окремо згадаємо розбиття світла! Ця здібність дозволяє користувачеві кричати на високій частоті, достатній для розбиття всіх ламп навколо. Це добре лише для створення темряви, що може бути дуже корисним для тих, у кого злі наміри.
+    Як протидіяти розбиттю світла. Мати запасні лампи під рукою?? По суті, «контрзаходу» немає, окрім ліхтарика чи чогось подібного.
 
-book-text-ancientbookrare-1 = [head=3]SECTOR DELTA, LOCAL SPACE REGION[head=3]
-    The camera slowly focuses into a specific arm of a galaxy. A deep booming, operatic like voice starts to narrate.
+book-text-ancientbookrare-1 = [head=3]СЕКТОР ДЕЛЬТА, РЕГІОН ЛОКАЛЬНОГО КОСМОСУ[head=3]
+    Камера повільно фокусується на конкретному рукаві галактики. Починає лунати глибокий, гучний, оперний голос.
 
+    [italic]"Ядерні оперативники, елітні сили Синдикату, їхні легенди співатимуться віками."[/italic]
+    Кадр наближається до макрокосму туманності, що вирує, поки триває розповідь.
 
-     [italic]"Nuclear Operatives, he premier elite forces of the syndicate, their legends, sung for eons to come."[/italic]
-    It zooms into the specific macro-space of a swirling nebula, as the narration continues.
+    "Оперативник Браво, Сильна Рука"
+    [bolditalic](Звуки швидкої стрільби з кулемета, за якими слідують ВИБУХИ)[/bolditalic]
 
-    "Operator Bravo, the Strongarm"
+    "Агент Кіло, М'ясник"
+    [bolditalic](Звуки лез, ЛЮДСЬКІ КРИКИ)[/bolditalic]
 
-     [bolditalic](Sounds of rapid machine gun fire, followed by EXPLOSIONS)[/bolditalic]
+    "Командир Готель, Натхненник"
+    [bolditalic](Гучний божевільний СМІХ)[/bolditalic]
 
-    "Agent Kilo, The Butcher"
+    [italic]"Сьогоднішня історія не про них. Вона про невдах."[/italic]
 
-     [bolditalic](The sounds of blades, HUMAN SCREAMS)[/bolditalic]
+    Камера стрімко летить у конкретну частину космосу, ми бачимо її з орбітального огляду — замерзла планета. Потім вона наближається до силуету, розповідь триває.
 
-    "Commander Hotel, The Mastermind"
+    Чоловік невисокого зросту, КОМАНДИР ТАНГО, тоне у власних гільзах. Він підіймає руки, дивлячись на Аудитора Синдикату.
 
-     [bolditalic](Loud deranged LAUGHTER)[/bolditalic]
+    "Командир Танго, відповідальний за скорочення бюджету на боєприпаси"
+    ("МЕНІ НАПЛЮВАТИ, ЩО ДУМАЄ СИНДИКАТ, ВОНИ ДАЛИ МЕНІ ГАРМАТУ. Я ВИКОРИСТОВУЮ ВСЮ ГАРМАТУ, ДО БІСА ВИТРАТИ НАБОЇВ!")
 
-     [italic]"Today's story is focused on none of them. It's about the rejects."[/italic]
+    Кремезний чоловік віддає честь у бік туалету, виглядає абсолютно переляканим. КОМАНДИР СИНДИКАТУ приголомшений, дивлячись на нього, а потім на вантуз.
 
-    The camera starts zipping into a specific part of space, as we see it from a orbital view, a frozen planet. It then zooms into a silhouette, the Narration continues.
+    "Агент Індія, ми... забули провести йому перевірку зору"
+    ("Сер! Я стояв тут, бо думав, що вантуз — це ви, Сер! Я тримав руки біля скронь у вітанні!")
 
-    A man of short stature, COMMANDER TANGO, is sinking into his own bullet shells. He holds his hands up as he looks at a Syndicate Auditor.
+    Жінка вовтузиться з гвинтівкою на стрільбищі, намагаючись усунути заклинювання. Вона спрямовує дуло на всіх інших, поки вони пірнають в укриття.
 
-    "Commander Tango, Responsible for Ammo Budget Cuts"
-     ("I DONT CARE WHAT THE SYNDICATE THINKS, THEY GAVE ME A GUN. I AM USING THE WHOLE GUN, AMMO EXPENDITURE BE DAMNED!")
-
-    A stockier man, he is saluting in the direction of a bathroom, he looks utterly terrified. A SYNDICATE COMMANDER is bewildered, staring at him, then at the plunger.
-
-    "Agent India, We . . . .forgot to give him his Vision Tests"
-     ("Sir! I was standhing here because I thought the Toilet Plunger was you, Sir! I kept my arms at Salute!")
-
-    A woman, she fumbles with a rifle in a shooting range, trying to clear a jam. She flags every other person in the process as they dive for cover.
-
-    "Operative November, Banned from Handling Explosives"
-     ("It's not my fault the gun jammed on me, honest to god Sarge! It uh . . . .decided to fail on me after seeing my positive can do attitude!")
+    "Оперативник Листопад, заборонено поводитися з вибухівкою"
+    ("Це не моя вина, що рушниця заклинила, клянуся Богом, сержанте! Вона е-е... вирішила відмовити після того, як побачила мій позитивний настрій!")
 
     2.
-     [bolditalic]BRIDGE CORRIDOR, INT.[/bolditalic]
-    COMMANDER TANGO
-     (Grunting, he is strained)
-    "Stand clear of the blast-zone team!"
+    [bolditalic]МІСТОК, ВНУТР.[/bolditalic]
+    КОМАНДИР ТАНГО
+    (Кряхтить, напружений)
+    "Відійдіть від зони ураження, команда!"
 
-    He pulls out the secret that he had been hiding in his backpack, a HRISTOV SNIPER RIFLE, it was akwardly placed, it is twice the size of his duffel bag.
+    Він дістає секрет, який ховав у наплічнику — СНАЙПЕРСЬКУ ГВИНТІВКУ «ХРИСТОВ», вона була незграбно розміщена і вдвічі більша за його сумку.
 
-    Heroic music starts to play, Commander Tango has wind somehow whipping past his glorious mane of hair, he crouches, and takes his shot.
+    Починає грати героїчна музика, вітер якимось чином розвіває волосся Танго, він присідає і робить постріл.
 
-    He first it, past the faces of Agent Inda and Operative November. The camera follows the projectile as it flies towards the approaching Nanotrasen Security Force.
+    Він стріляє, повз обличчя Агента Індії та Оперативника Листопада. Камера стежить за кулею, що летить у бік наближення сил безпеки NanoTrasen.
 
-    The projectile misses its mark, avoiding every member of the SECURITY TEAM that was scrambling for cover.
+    Проєкт не влучає в ціль, оминаючи кожного члена ЗАГОНУ ОХОРОНИ, що кинулися в укриття.
 
-    The bullet penetrates into the wall next to them, a silence settles for five seconds, only to be cut with a MOTHROACH SCREAM. They go back to trying to kill each other.
+    Куля входить у стіну поруч із ними, настає п'ятисекундна тиша, яку розриває КРИК МОТРОАЧА. Вони повертаються до спроб повбивати одне одного.
 
-     [bolditalic]MEDBAY, INT[/bolditalic]
-    CHIEF MEDICAL OFFICER:
-    "I NEED MY PAYCHECK! DON'T DIE!"
+    [bolditalic]МЕДБЛОК, ВНУТР.[/bolditalic]
+    ГОЛОВНИЙ ЛІКАР:
+    "МЕНІ ПОТРІБНА МОЯ ЗАРПЛАТА! НЕ ВМИРАЙ!"
 
-    The Chief Medical Officer manages to stabilize the Captain, while [italic]quipping[/italic] about "Suicidal Jetpack Charges"
+    Головному лікарю вдається стабілізувати Капітана, [italic]відпускаючи[/italic] жарти про «самогубчі атаки з реактивними ранцями».
 
-    CAPTAIN
-     (His voice is weak, weary)
-    "Did- Did we win? Did we secure the nuclear authentication di-"
+    КАПІТАН
+    (Голос слабкий, втомлений)
+    "Ми- ми перемогли? Ми захистили диск ядерної аутентифікації..."
 
-    The bullet from before enters the room through a door marked "Morgue" in a SLOW MOTION effect. The camera circles in the Medbay room. A bewildered Security Officer, a Chemist who accidentally mixes Razorium as he sees the bullet enter the Medbay, bewildered and in shock.
+    Куля, випущена раніше, влітає в кімнату через двері з написом «Морг» у сповільненому ефекті. Камера кружляє в медблоці. Збентежений офіцер охорони, хімік, який випадково змішує «Разоріум», бачачи кулю, приголомшений і шокований.
 
-    It starts to bounce all around the room, destroying the annoying smart-fridge, then a Security Officer's hard suit helmet at just the right angle, and finally heads for the Captain's bed.
+    Вона починає відскакувати по всій кімнаті, знищуючи набридливий смарт-холодильник, потім шолом офіцера охорони під правильним кутом, і нарешті прямує до ліжка Капітана.
 
-    The Captain, has a shit-eating grin, he is about to give a rousing speech, takes the bullet to the head.
+    Капітан, з вищиреною посмішкою, збирається виголосити промову і отримує кулю в голову.
 
     3.
-     [bolditalic]BRIDGE, INT.[/bolditalic]
+    [bolditalic]МІСТОК, ВНУТР.[/bolditalic]
 
-    The camera SWEEPS across the ruined Bridge, coffees left untouched, a close up of a ruined sheaf of paper, singed. Only spelling out the words: WHISKEY, TANGO, FOXTROT.
+    Камера проноситься зруйнованим містком, недоторкана кава, великий план пошматованого аркуша паперу, обпаленого. Тільки слова: ВІСКІ, ТАНГО, ФОКСТРОТ.
 
-    Agent India it still firing his machine-gun across the room, mistaking human shaped wrecks for contacts. We hear the ripping sound of [bolditalic]GUNFIRE.[/bolditalic]
+    Агент Індія продовжує стріляти з кулемета по кімнаті, помилково приймаючи уламки за ворогів. Ми чуємо розривні звуки [bolditalic]СТРІЛЬБИ.[/bolditalic]
 
-    AGENT INDIA
-     [bolditalic]"AAAAAAAAAAAAAAAAAAAAAAAAA!!!!!!!!"[/bolditalic]
+    АГЕНТ ІНДІЯ
+    [bolditalic]"АААААААААААААААААААААААААА!!!!!!!!"[/bolditalic]
 
-    COMMANDER TANGO
-     (Trying to get India's attention through the sound of ear-ripping gunfire)
-    "GET A GRIP SOLDIER! I APPRECIATE YOUR FORWARD THINKING BUT ALL THE HOSTILES ARE DEAD!"
+    КОМАНДИР ТАНГО
+    (Намагається привернути увагу Індії крізь оглушливий гуркіт)
+    "ЗІБЕРИСЯ, СОЛДАТЕ! Я ЦІНУЮ ТВОЮ ІНІЦІАТИВУ, АЛЕ ВСІ ВОРОГИ МЕРТВІ!"
 
-    It continues for another solid eight seconds, before the sound of a dry click is heard.
+    Це триває ще вісім секунд, перш ніж чути сухе клацання.
 
-    Agent India tries looking around by squinting, his ears are still ringing. Before he finall hears the voice of TANGO. He looks around, confused.
+    Агент Індія намагається озирнутися, мружачись, у вухах досі дзвенить. Нарешті він чує голос ТАНГО. Дивиться навколо, спантеличений.
 
-    AGENT INDIA
-     (Looks down, a few heads taller than TANGO.)
-    "Oh, there you are Sir! I was wondering where that command was coming from! How is the oxygen down the- I mean the situation down the- I mean the situation in general?"
+    АГЕНТ ІНДІЯ
+    (Дивиться вниз, на кілька голів вищий за ТАНГО.)
+    "О, ось ви де, Сер! Я цікавився, звідки йде команда! Як там кисень внизу- тобто ситуація внизу- тобто ситуація в цілому?"
 
-    A sharp, [italic]"yoo-hoo!"[/italic] is heard, as the camera pans to Operative November, looking like a recruitment poster, as she puts her right arm on the NUCLEAR WARHEAD, while leaning on it.
+    Чути різке [italic]"ю-ху!"[/italic], камера повертається до Оперативника Листопада, що виглядає як плакат для рекрутингу, вона кладе праву руку на ЯДЕРНУ БОЄГОЛОВКУ, спираючись на неї.
 
-    AGENT INDIA (CONT'D)
-    "SIR ANOTHER TANGO!"
+    АГЕНТ ІНДІЯ (ДАЛІ)
+    "СЕР, ЩЕ ОДИН ТАНГО!"
 
-    He slams a fresh magazine and starts firing. As she lets out a short "Eek!" and scrambles for cover BEHIND the NUKE.
+    Він вставляє свіжий магазин і починає стріляти. Вона видає короткий «Ой!» і кидається в укриття ЗА ЯДЕРНУ БОМБУ.
 
     4.
-     [bolditalic]BRIDGE, INT.[/bolditalic]
+    [bolditalic]МІСТОК, ВНУТР.[/bolditalic]
 
-    Tango, November, and India are trying to figure out how to activate the nuclear device in the ruined Bridge. There are fresh bullet scuffs on it.
+    Танго, Листопад та Індія намагаються зрозуміти, як активувати ядерний пристрій на зруйнованому містку. На ньому свіжі сліди від куль.
 
-    COMMANDER TANGO
-    "You idiot! You clearly need to unscrew the Warhead cap! It's like a seltzer, right? The fun time comes after you open it?"
+    КОМАНДИР ТАНГО
+    "Ти ідіот! Тобі чітко потрібно відкрутити кришку боєголовки! Це як зельцер, так? Веселощі починаються після того, як ти відкриєш його?"
 
-    AGENT INDIA
-    "Well Sir! I think we should consult the nuclear manual! Let's see here...uh... ah, it says here to consult General Rick Manuel. Do you know the guy?"
+    АГЕНТ ІНДІЯ
+    "Ну Сер! Думаю, нам варто порадитися з ядерним посібником! Давайте подивимося сюди... е-е... а, тут сказано проконсультуватися з Генералом Ріком Мануелем. Ви знаєте цього хлопця?"
 
-    The shot pans to Agent India's manual, the front cover saying "Generic Manual"
+    Кадр переміщується на посібник Агента Індії, на обкладинці якого написано «Загальний посібник».
 
-    November ignores them, humming to herself. She uses the shiny Nuclear Authentication Disk to check her reflection. Then tries to use it to file her nails.
+    Листопад ігнорує їх, мурчучи собі під ніс. Вона використовує блискучий диск ядерної аутентифікації, щоб перевірити своє відображення. Потім намагається використати його, щоб підпиляти нігті.
 
-    A EXPLOSION rocks the station, as it starts to shake violently. November, being the person to hold the Nuke-Disk, accidentally drops it into the floor ventilation shaft.
+    ВИБУХ трясе станцію, вона починає сильно хитатися. Листопад, тримаючи ядерний диск, випадково випускає його у вентиляційну шахту.
 
-    OPERATIVE NOVEMBER
-    "Oops."
+    ОПЕРАТИВНИК ЛИСТОПАД
+    "Ой."
 
-    The camera focuses in on the faces of TANGO and INDIA, the two idiots, as they slowly turn from what they are watching towards November.
+    Камера фокусується на обличчях ТАНГО та ІНДІЇ, двох ідіотів, які повільно повертаються від того, на що вони дивилися, до Листопада.
 
-    November has a cheerful smile, staring at the vent. And then back at them, then back at the vent.
+    Листопад весело посміхається, дивлячись на вентиляцію. А потім назад на них, потім знову на вентиляцію.
 
-    OPERATIVE NOVEMBER (CONT'D)
-    "What? It wasn't like it was important of anything?"
+    ОПЕРАТИВНИК ЛИСТОПАД (ДАЛІ)
+    "Що? Це ж не було чимось важливим?"
 
-    The camera closes in on Tango's face specifically. He is about to pop a vein, his face red with anger.
+    Камера наближається спеціально до обличчя Танго. У нього ось-ось лопне вена, обличчя червоне від гніву.
 
-book-text-ancientbookrare-2 = I stared with unflinching, fearful eyes at the vast expanses of ruined city in front of me. Names of dentists and lawyers and doctors, who were surely already dead, laid broken and scattered on fallen signage and billboards. Particulates of dust and leaves danced around aimlessly, coalescing into miniature tornados before collapsing unceremoniously upon themselves. I clenched my bandaged wrist and walked forward through shattered glass and chunks of asphalt.
+book-text-ancientbookrare-2 = Я дивився непохитними, переляканими очима на безкраї простори зруйнованого міста перед собою. Назви стоматологів, юристів та лікарів, які напевно вже були мертві, лежали розбитими та розкиданими на впалих вивісках і білбордах. Частинки пилу та листя безцільно танцювали навколо, збираючись у мініатюрні торнадо, перш ніж безцеремонно розвалюватися. Я стиснув забинтоване зап'ястя і пішов вперед крізь розбите скло та шматки асфальту.
 
-    I walked forward slowly, silencing my footfalls, stepping carefully between shards of broken glass. I picked up a baseball-sized chunk of concrete and pitched it at an unbroken window, which shattered into nothing. The roads stretched on in neat graph-paper grids, marred with craters of ash and rock. My eyes scanned the horizon, looking for any sign of the soldiers. The soldiers. The unfeeling Kevlar tools of hatred, stepping in unison, looking for anything to shoot. With refugee camps few and far between, and subject to regular raids by the secret police, hollow husks of cities were usually the safest place to be.
+    Я йшов повільно, приглушуючи кроки, обережно ступаючи між уламками скла. Я підібрав шматок бетону розміром з бейсбольний м'яч і кинув у ціле вікно, яке розлетілося на ніщо. Дороги тягнулися акуратною міліметровою сіткою, пошматовані кратерами попелу та каміння. Мої очі сканували горизонт у пошуках солдатів. Солдати. Бездушні кевларові інструменти ненависті, що крокують у ногу, шукаючи, у що б вистрілити. Оскільки таборів біженців було мало, і вони часто піддавалися рейдам таємної поліції, порожні оболонки міст зазвичай були найбезпечнішим місцем.
 
-    God dammit, I thought angrily to myself, kicking a rock on the street. God forbid anything good ever happens on this planet. I looked up at the sky. The sun was not the Sun I had grown up with, or the Sun that I played under as my mother sipped sweet tea on the veranda with the other women on the street. This was a colder, redder sun, hundreds of light-years away from the Sun I had known so well as a child. And it was then that the clouds gathered across the sky and the shadows of broad daylight retreated again into overcast grays on the ground.
+    Прокляття, подумав я сердито, штовхаючи камінь на вулиці. Боже борони, щоб на цій планеті трапилося щось хороше. Я подивився в небо. Сонце було не тим Сонцем, з яким я виріс, чи Сонцем, під яким я грав, поки мати попивала солодкий чай на веранді з іншими жінками на вулиці. Це було холодніше, червоніше сонце, за сотні світлових років від Сонця, яке я так добре знав у дитинстві. І саме тоді хмари зібралися на небі, і тіні ясного дня знову відступили в похмурі сірі тони на землі.
 
-    I stepped into an intersection where a car had wrapped itself around a lamppost, which bent down as if to examine the wreckage. I ran over and checked the trunk. It was at this point in my life where I had begun collecting things that might have been sentimental to another. I figured the second death, the death of memory, was the most painful. A satchel I carried around contained small ornaments, passports, and wallets, artifacts that I kept to delay the second death of their previous owners as long as possible. I dug through the luggage of what was once someone’s life. I stared solemnly at the open suitcases piled in the trunk.
+    Я вийшов на перехрестя, де автомобіль обмотався навколо ліхтарного стовпа, який зігнувся, ніби розглядаючи уламки. Я підбіг і перевірив багажник. Саме в цей момент життя я почав збирати речі, які могли бути сентиментальними для когось іншого. Я подумав, що друга смерть — смерть пам'яті — була найболючішою. Сумка, яку я носив із собою, містила дрібні прикраси, паспорти та гаманці — артефакти, які я зберігав, щоб якомога довше відстрочити другу смерть їхніх колишніх власників. Я порпався в багажі того, що колись було чиїмось життям. Я урочисто дивився на відкриті валізи, складені в багажнику.
 
-    I turned over a small white figurine of a sheep in my hand. The sheep had been living in the side pocket of a suitcase. According to the inscription on the bottom, it was forty years older than I was. I gave it a new home amongst my collection of others’ memories. The sun had not returned, instead, the clouds had further suffocated the light of day. In the distance, something cracked. I sprinted behind a wall that was once a coffee shop, fearing that a soldier might execute me in the street. Rivulets of sweat ran down my neck. These moments, far and few between, of genuine fight-or-flight reactions, punctuated the atmosphere of general uneasiness ever-present in my mind. My wrist surged with pain, seeming to mock me. Painfully, I grasped at my pistol, ready to fire at anything that entered the building wearing body armor. It was in this position that I fell asleep a couple hours later. I dreamt that I was furiously rowing backwards against the current of a ceaseless river.
+    Я перевернув у руці маленьку білу фігурку вівці. Вівця жила в бічній кишені валізи. Згідно з написом на дні, вона була на сорок років старша за мене. Я дав їй новий дім серед своєї колекції чужих спогадів. Сонце не повернулося, натомість хмари ще більше задушили денне світло. Вдалині щось тріснуло. Я рвонув за стіну, яка колись була кав'ярнею, боячись, що солдат може стратити мене на вулиці. Струмки поту стікали по моїй шиї. Ці миті справжніх реакцій «бий або біги» підкреслювали атмосферу загальної тривоги, що постійно була в моїй голові. Зап'ястя боліло, ніби глузуючи з мене. Болісно схопившись за пістолет, я був готовий стріляти в будь-кого, хто увійде в будівлю в бронежилеті. У цій позі я й заснув через пару годин. Мені снилося, що я люто веслую назад проти течії безкінечної річки.
 
-    When I awoke, the inky blackness of sleep persisted. I nervously looked outside. A canopy of infinite stars illuminated the moonless sky. I thought about taking flight, spiraling up into the night, taking my place among the heavens as a burning Icarus. Silence permeated the city. My ears rang, desperate to find sound and meaning in the harsh blackness. It was the perfect time to walk. I reached into my satchel and grasped the sheep figurine. I had nothing else to do.
+    Коли я прокинувся, чорнильна темрява сну зберігалася. Я нервово виглянув назовні. Полог нескінченних зірок освітлював безмісячне небо. Я думав про те, щоб злетіти, спіраллю вгору в ніч, зайнявши своє місце серед небес як палаючий Ікар. Тиша пронизувала місто. У вухах дзвеніло, відчайдушно намагаючись знайти звук і сенс у різкій темряві. Це був ідеальний час для прогулянки. Я засунув руку в сумку і схопив фігурку вівці. Мені більше нічого було робити.
 
-    I had to keep going.
+    Я мусив продовжувати.
 
-book-text-ancientbookrare-3 = Are station-bound critters too boring for you? Are you looking to make a new, exotic friend to show off to the crew? This is the guide for you!
+book-text-ancientbookrare-3 = Чи занадто нудні для вас істоти, прив'язані до станції? Шукаєте нового екзотичного друга, щоб похизуватися перед екіпажем? Цей посібник для вас!
 
-    Cognizine is a wonderous chemical that can enlighten any creature to our level of intelligence, and even speak our language! For the recipes involved in making Cognizine, please refer to the Chempendium, or the Chemicals section in your NanoTrasen-issued Guidebook.
+    Когнізин — це чудовий хімікат, здатний просвітити будь-яку істоту до нашого рівня інтелекту і навіть змусити її говорити нашою мовою! Для рецептів приготування Когнізину, будь ласка, зверніться до Хемпендіуму або розділу «Хімікати» у вашому посібнику NanoTrasen.
 
-    Once you get your hand on some Cognizine, the hard part begins. This guide was initially written for salvagers, but anyone with access outside the station should be able to take advantage of this guide as well.
+    Як тільки ви отримаєте Когнізин, почнеться найважча частина. Цей посібник був спочатку написаний для рятувальників, але будь-хто, хто має доступ за межі станції, зможе ним скористатися.
 
-    The first step is setting the dosage on the syringe. An effective dose of Cognizine is a mere 5u, so set the dosage there so you don't waste any of that precious chemical!
+    Перший крок — встановлення дози на шприці. Ефективна доза Когнізину складає всього 5 од., тому встановіть її там, щоб не витрачати цей дорогоцінний хімікат!
 
-    Step two is locating the creature you want to enlighten. This isn't as easy as it sounds; most creatures you will encounter on space debris and wrecks will vanish alongside the wreck, no matter where they are or if they've already been enlightened. I found this out the hard way.
+    Крок другий — знаходження істоти, яку хочете просвітити. Це не так просто, як здається; більшість істот, яких ви зустрінете на космічному смітті та уламках, зникнуть разом із уламками, незалежно від того, де вони знаходяться або чи були вони вже просвітлені. Я дізнався це на власному гіркому досвіді.
 
-    Your potential list of new friends is limited based on this. However, in theory, if you have the supplies, it might be possible to kill a creature, then bring it back to life once the wreck has vanished. I have not tried this myself, but I see no reason why it couldn't work. If it does work, you can add Space Spiders and Space Bears to your list of new potential friends.
+    Ваш список потенційних нових друзів обмежений через це. Проте, теоретично, якщо у вас є запаси, можливо вбити істоту, а потім повернути її до життя після того, як уламок зникне. Я не пробував це сам, але не бачу причин, чому б це не спрацювало. Якщо це спрацює, ви можете додати космічних павуків та космічних ведмедів до свого списку потенційних друзів.
 
-    For a more reliable source of pals, you'll want to explore debris and wrecks that stay around, like the shipwrecks around the outside of the station, the permanent space debris further out, or possibly even the creatures of RedRock, but for the last one I cannot promise success or even if it's possible to get the needle in.
+    Для більш надійного джерела друзів вам варто досліджувати уламки, що залишаються, такі як корабельні аварії навколо станції, постійне космічне сміття далі, або, можливо, навіть істот РедРоку, але щодо останнього я не можу обіцяти успіх або навіть те, що вдасться зробити ін'єкцію.
 
-    On Permanent Space Debris, you can find Space Carps and the Elusive Sharkminnows. On shipwrecks, you might find the rare Space Bear, Space Adder/Snake, or even Xenos! Xenos, however, while they can take full advantage of Cognizine, are still bent on killing you, so do not bother; they will not be your friends, despite how cool it sounds.
+    На постійному космічному смітті можна знайти космічних коропів та невловимих акуломінок. На корабельних уламках можна знайти рідкісних космічних ведмедів, космічних гадюк/змій або навіть ксеноморфів! Ксеноморфи, хоча й можуть повною мірою використовувати Когнізин, все одно прагнуть убити вас, тому не витрачайте час; вони не будуть вашими друзями, попри те, як круто це звучить.
 
-    The hard part is getting them to stay still long enough to put a dose in. It's unlikely that you have a hypopen, so we're working on the assumption that you have a syringe. Luckily for you, I've found a method that will enable you to have plenty of time.
+    Найважче — змусити їх стояти нерухомо досить довго, щоб ввести дозу. Навряд чи у вас є гіпопен, тому працюємо з припущенням, що у вас шприц. На щастя, я знайшов метод, який дасть вам багато часу.
 
-    To tame a creature, first lure them close to you by standing on the edge of said debris or wreck. Let them get nice and close, and at the last second, step back off of the floor. If you timed it right, they won't have enough time to correct themselves, and will fly off into space with you. Despite upon awakening they're able to fly through space with ease, for some reason, non-Cognizine'd creatures will remain docile in space, even if you're right up next to them. Once they reach a standstill, it's as simple as flying over to them and injecting them with a dose. Be patient, sometimes it can take a bit for the creature to wake up. If you did everything right, you'll have made a new best friend to bring home with you!
+    Щоб приручити істоту, спочатку заманіть її близько до себе, стоячи на краю сміття чи уламка. Дайте їм підійти ближче, і в останній момент відступіть із підлоги. Якщо ви все розрахували правильно, вони не встигнуть зорієнтуватися і полетять у космос разом з вами. Хоча після пробудження вони легко літають у космосі, чомусь непросвітлені Когнізином істоти залишаються покірними в космосі, навіть якщо ви поруч із ними. Як тільки вони зупиняються, достатньо підлетіти до них і ввести дозу. Будьте терплячі, іноді потрібно трохи часу, щоб істота прокинулася. Якщо ви все зробили правильно, у вас з'явиться новий найкращий друг, якого можна забрати додому!
 
-    PS: You may have noticed I said MOST creatures vanish with space wrecks. This is because for some reason, icewings, magmawings, and the rest of the watcher family of creatures will remain in space after the wreck vanishes. We're unsure why this is, but this just means you've got a super cool laser-shooting best friend to make!
+    PS: Ви могли помітити, що я сказав, що БІЛЬШІСТЬ істот зникає з космічними уламками. Це тому, що чомусь льодокрили, магмокрили та решта родини істот-спостерігачів залишаються в космосі після зникнення уламка. Ми не впевнені, чому це так, але це означає, що у вас є суперкрутий найкращий друг, що стріляє лазером!

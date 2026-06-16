@@ -1,2 +1,2 @@
-lathe-category-hardsuits = Hardsuits
-lathe-category-softsuits = Softsuits
+lathe-category-hardsuits = Скафандри
+lathe-category-softsuits = Костюми

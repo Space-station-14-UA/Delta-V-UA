@@ -1,2 +1,2 @@
-chemistry-bottle-firebugs-friend = Firebug's Friend
-chemistry-bottle-revivopine = Revivopine
+chemistry-bottle-firebugs-friend = «Друг палія»
+chemistry-bottle-revivopine = Ревівопін

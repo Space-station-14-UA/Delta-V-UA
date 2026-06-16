@@ -1,22 +1,23 @@
 hitman-role-greeting-human =
-    You're a hitman hired to kill a target.
-    There are conditions for this assassination.
-    Keep damage to bystanders to a minimum.
+    Ви — кілер, найнятий для ліквідації цілі.
+    У цього контракту є умови.
+    Зведіть шкоду випадковим перехожим до мінімуму.
 
 hitman-briefing =
-    You've prepared a case with to complete your contract.
-    You've brought it with you on this trip.
+    Ви підготували кейс зі спорядженням для виконання свого контракту.
+    Ви взяли його з собою в цю подорож.
 
-objective-issuer-hitman = [color=#746694]Criminal[/color]
+objective-issuer-hitman = [color=#746694]Криміналітет[/color]
 
-hitman-round-end-name = Hitman
+hitman-round-end-name = Кілер
 
-hitman-round-end-agent-name = Hitman
+hitman-round-end-agent-name = кілер
 
-ghost-role-information-hitman-name = Hitman
+ghost-role-information-hitman-name = Кілер
 
-ghost-role-information-hitman-description = A contract killer, hired to kill a specific person
+ghost-role-information-hitman-description = Найманий убивця, контракт якого полягає в ліквідації конкретної особи
 
-ghost-role-information-hitman-rules = You are a [color=red][bold]Solo Antagonist[/bold][/color].
-                                    You may kill your target, you do not need to ensure they stay dead.
-                                    You should avoid attacking those other than your target, except to protect yourself or to ensure your target dies.
+ghost-role-information-hitman-rules =
+    Ви — [color=red][bold]Одиночний антагоніст[/bold][/color].
+    Ви маєте вбити свою ціль, але вам не обов'язково стежити за тим, щоб вона залишалася мертвою.
+    Вам слід уникати нападів на інших людей, окрім вашої цілі, за винятком самозахисту або для гарантованого знищення цілі.

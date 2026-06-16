@@ -1,3 +1,3 @@
-change-pin-face = Change Pin Face
-change-scarf-pattern = Change Scarf Pattern
-change-cloak-pattern = Change Cloak Pattern
+change-pin-face = Змінити вигляд значка
+change-scarf-pattern = Змінити візерунок шарфа
+change-cloak-pattern = Змінити візерунок плаща

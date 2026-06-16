@@ -1,3 +1,3 @@
-damage-on-unequip-examine = [color=red]You feel like removing this is a bad idea...[/color]
-damage-on-unequip-begin = The {$item} begins to creak and groan...
-damage-on-unequip-finish = The {$item} rips off of {$wearer}'s body!
+damage-on-unequip-examine = [color=red]Вам здається, що знімати це — кепська ідея...[/color]
+damage-on-unequip-begin = {$item} починає тріщати та стогнати...
+damage-on-unequip-finish = {$item} з м'ясом зривається з тіла {$wearer}!

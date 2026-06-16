@@ -1,8 +1,8 @@
-ent-DefibrillatorCabinet = defibrillator cabinet
-    .desc = A small wall mounted cabinet designed to hold a defibrillator. It slowly recharges the battery within.
-ent-DefibrillatorCabinetFilled = defibrillator cabinet
-    .desc = A small wall mounted cabinet designed to hold a defibrillator. It slowly recharges the battery within.
-ent-DefibrillatorCabinetOpen = defibrillator cabinet
-    .desc = A small wall mounted cabinet designed to hold a defibrillator. It slowly recharges the battery within.
-ent-DefibrillatorCabinetFilledOpen = defibrillator cabinet
-    .desc = A small wall mounted cabinet designed to hold a defibrillator. It slowly recharges the battery within.
+ent-DefibrillatorCabinet = настінна шафка з дефібрилятором
+    .desc = Невелика настінна шафка, призначена для зберігання дефібрилятора. Вона повільно заряджає його акумулятор всередині.
+ent-DefibrillatorCabinetFilled = настінна шафка з дефібрилятором
+    .desc = Невелика настінна шафка, призначена для зберігання дефібрилятора. Вона повільно заряджає його акумулятор всередині.
+ent-DefibrillatorCabinetOpen = настінна шафка з дефібрилятором
+    .desc = Невелика настінна шафка, призначена для зберігання дефібрилятора. Вона повільно заряджає його акумулятор всередині.
+ent-DefibrillatorCabinetFilledOpen = настінна шафка з дефібрилятором
+    .desc = Невелика настінна шафка, призначена для зберігання дефібрилятора. Вона повільно заряджає його акумулятор всередині.

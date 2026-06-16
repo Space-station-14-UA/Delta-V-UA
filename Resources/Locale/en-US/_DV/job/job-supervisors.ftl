@@ -1,3 +1,3 @@
-job-supervisors-cj = the Chief Justice
-job-supervisors-command = all command staff
-job-supervisors-warden = the Warden
+job-supervisors-cj = Головному судді
+job-supervisors-command = усьому командному складу
+job-supervisors-warden = Наглядачу

@@ -1,2 +1,2 @@
-deltav-objective-carp-rifts-description = Use the rift action to open {$count} rifts and ensure they do not get destroyed. You must place one every 10 minutes until you have three!
-deltav-dragon-halftime-popup = You only have five minutes left to place a rift!
+deltav-objective-carp-rifts-description = Використовуйте дію розлому, щоб відкрити {$count} розломів, та переконайтеся, що їх не знищать. Ви повинні розміщувати по одному кожні 10 хвилин, поки у вас не буде трьох!
+deltav-dragon-halftime-popup = У вас залишилося всього п'ять хвилин, щоб розмістити розлом!

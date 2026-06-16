@@ -1,1 +1,1 @@
-names-cat-clippy-dataset-1 = Clippy
+names-cat-clippy-dataset-1 = Кліппі

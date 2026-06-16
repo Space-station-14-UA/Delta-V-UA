@@ -1,1 +1,1 @@
-ghost-role-information-syndicate-cyborg-medical-name = Syndicate Medical Cyborg
+ghost-role-information-syndicate-cyborg-medical-name = Медичний кіборг Синдикату

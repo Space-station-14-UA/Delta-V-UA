@@ -1,35 +1,35 @@
-influence-type-active = Active
-influence-type-passive = Passive
+influence-type-active = Активний
+influence-type-passive = Пасивний
 
 ## ACTIVE INFLUENCES
-influence-name-lapse = Aberrant Lapse
-influence-description-lapse = Lapse an individual's form, rendering them temporarily unable to move or act. Lapsed units are invulnerable tile obstructions.
+influence-name-lapse = Абераційне розчинення
+influence-description-lapse = Розчиняє матеріальну оболонку цілі, тимчасово позбавляючи її можливості рухатися чи діяти. Розчинені одиниці стають невразливими перешкодами.
 
-influence-name-glare = Null Glare
-influence-description-glare = Emit a horrific pulse of cosmic light, slowing and disorienting everyone around you. Its effects are amplified against silicon-based entities.
+influence-name-glare = Нуль-Погляд
+influence-description-glare = Випромінює жахливий імпульс космічного світла, що сповільнює та дезорієнтує всіх навколо. Ефект посилюється проти силіконових сутностей.
 
-influence-name-shunt = Shunt Subjectivity
-influence-description-shunt = Shunt your target's mind out of their body and unto the cosmic dark, temporarily rendering their body mindless.
+influence-name-shunt = Відторгнення суб'єктивності
+influence-description-shunt = Виштовхує розум цілі з її тіла в космічну темряву, тимчасово перетворюючи тіло на бездумну оболонку.
 
-influence-name-ingress = Force ingress
-influence-description-ingress = Use a concentrated effort of power to wrench an airlock - secure door - open.
+influence-name-ingress = Примусове проникнення
+influence-description-ingress = Використовує концентроване зусилля сили, щоб вирвати та відчинити шлюз або захищені двері.
 
-influence-name-nova = Astral Nova
-influence-description-nova = Hurl a large and disruptive blast of astral energy that damages, paralyzes, and draws in everything in its path.
+influence-name-nova = Астральна Нова
+influence-description-nova = Вивергає потужний та деструктивний вибух астральної енергії, який завдає шкоди, паралізує та притягує все на своєму шляху.
 
-influence-name-imposition = Vacuous Imposition
-influence-description-imposition = For a short time, your corporeal form becomes a conduit of cosmic power - negating any incoming damage.
+influence-name-imposition = Вакуумне накладання
+influence-description-imposition = На короткий час ваша матеріальна оболонка стає провідником космічної сили, що повністю нівелює будь-яку вхідну шкоду.
 
 
 ## PASSIVE INFLUENCES
-influence-name-eschew = Eschew Metabolism
-influence-description-eschew = Your corporeal needs of hunger and thirst are sundered - you no longer need to eat or drink.
+influence-name-eschew = Відмова від метаболізму
+influence-description-eschew = Ваші матеріальні потреби в їжі та спразі розірвані — вам більше не потрібно їсти чи пити.
 
-influence-name-step = Unbound Step
-influence-description-step = You move relative only to the starless black - your movement is no longer affected by gravity.
+influence-name-step = Незв'язаний крок
+influence-description-step = Ви рухаєтеся відносно лише беззоряної темряви — гравітація більше не впливає на ваше пересування.
 
-influence-name-stride = Astral Stride
-influence-description-stride = Astral energy invigorates your every move, subtly hastening your speed.
+influence-name-stride = Астральна хода
+influence-description-stride = Астральна енергія підживлює кожен ваш рух, поступово збільшуючи вашу швидкість.
 
-influence-name-vitality = Vacuous Vitality
-influence-description-vitality = The starless emptiness of The Monument overwhelms your mind and body. Your corporeal form slowly regenerates while in its presence.
+influence-name-vitality = Вакуумна життєздатність
+influence-description-vitality = Беззоряна порожнеча Монумента переповнює ваші розум і тіло. Ваша матеріальна оболонка повільно регенерує, перебуваючи поруч із ним.

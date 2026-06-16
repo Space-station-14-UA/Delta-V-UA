@@ -1,5 +1,6 @@
-ghost-role-information-nukie-spider-name = Nuclear Operative Spider
-ghost-role-information-nukie-spider-description = A Nuclear Operative reinforcement for the Syndicate.
-ghost-role-information-nukie-spider-rules = Normal syndicate antagonist rules apply. Work with whoever called you in, and don't harm them.
-                                           The crew is allowed to kill you without warning.
-                                           You are allowed to attack the crew and destroy the station without provocation.
+ghost-role-information-nukie-spider-name = Павук-ядерний оперативник
+ghost-role-information-nukie-spider-description = Підкріплення для Синдикату у вигляді ядерного оперативника.
+ghost-role-information-nukie-spider-rules = 
+    Застосовуються звичайні правила для антагоністів Синдикату. Працюйте разом із тими, хто вас викликав, і не завдавайте їм шкоди.
+    Екіпажу дозволено вбивати вас без попередження.
+    Вам дозволено атакувати екіпаж та руйнувати станцію без будь-яких провокацій з їхнього боку.

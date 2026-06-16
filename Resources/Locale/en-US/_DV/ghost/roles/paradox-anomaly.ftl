@@ -1,5 +1,5 @@
-ghost-role-information-paradox-anomaly-name = Paradox Anomaly
-ghost-role-information-paradox-anomaly-description = Replace your double, or befriend them.
-ghost-role-information-paradox-anomaly-rules = Try and replace your twin with this funny roleplay antag rather than plasma flooding the station or something. You can also just befriend them.
+ghost-role-information-paradox-anomaly-name = Парадоксальна аномалія
+ghost-role-information-paradox-anomaly-description = Замініть свого двійника або подружіться з ним.
+ghost-role-information-paradox-anomaly-rules = Спробуйте замінити свого близнюка в цій кумедній рольовій грі для антагоністів, замість того, щоб затоплювати станцію плазмою чи робити щось подібне. Ви також можете просто з ним подружитися.
 
-paradox-anomaly-role-greeting = A freak space-time anomaly has teleported you into another reality! Now you have to find your counterpart, then either befriend or kill them.
+paradox-anomaly-role-greeting = Химерна просторово-часова аномалія телепортувала вас в іншу реальність! Тепер ви мусите знайти свого двійника, а потім або подружитися з ним, або вбити його.

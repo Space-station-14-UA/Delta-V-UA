@@ -1,4 +1,4 @@
-objective-recruiting-title = Recruit {$count} people into the Syndicate
+objective-recruiting-title = Завербувати {$count} людей до Синдикату
 
-objective-keep-pen-safe-title = Keep your pen safe
-objective-keep-pen-safe-description = Never let your unique recruiter's pen fall into enemy hands.
+objective-keep-pen-safe-title = Берегти свою ручку
+objective-keep-pen-safe-description = У жодному разі не дозвольте вашій унікальній ручці вербувальника потрапити до рук ворога.

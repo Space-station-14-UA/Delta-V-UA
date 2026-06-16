@@ -1,1 +1,1 @@
-cassette-tape-garry-smosh = Interview with Garry Smosh
+cassette-tape-garry-smosh = Інтерв'ю з Ґаррі Смошем

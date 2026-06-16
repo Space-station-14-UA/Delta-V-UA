@@ -1,3 +1,3 @@
-hud-chatbox-select-channels = Channels:
+hud-chatbox-select-channels = Канали:
 
-hud-chatbox-auto-highlights = Automatic Highlights:
+hud-chatbox-auto-highlights = Автоматичне підсвічування:

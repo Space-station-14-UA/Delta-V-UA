@@ -1,3 +1,3 @@
-ghost-role-information-fugitive-name = Fugitive
-ghost-role-information-fugitive-description = You're an escaped prisoner. Make it out alive.
-ghost-role-information-fugitive-rules = You are the lightest of antags, focus on laying low rather than engaging security directly. Don't murderbone.
+ghost-role-information-fugitive-name = Втікач
+ghost-role-information-fugitive-description = Ви — ув'язнений-втікач. Виберіться звідси живим.
+ghost-role-information-fugitive-rules = Ви — максимально «лайтовий» антагоніст, тому зосередьтеся на тому, щоб залягти на дно, аніж на прямих сутичках із безпекою станції. Ніякого мердербону.

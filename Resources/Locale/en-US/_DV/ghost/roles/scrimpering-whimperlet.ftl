@@ -1,2 +1,2 @@
-ghost-role-information-whimperlet-name = Scrimpering Whimperlet
-ghost-role-information-whimperlet-description = A pitiful and cowardly critter. Avoid danger!
+ghost-role-information-whimperlet-name = Кволий скиглійка
+ghost-role-information-whimperlet-description = Жалюгідна та боягузлива істотка. Уникайте небезпеки!

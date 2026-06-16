@@ -1,1 +1,1 @@
-ent-BoxQMStamps = LO's stamp box
+ent-BoxQMStamps = коробка зі штампами КЛ

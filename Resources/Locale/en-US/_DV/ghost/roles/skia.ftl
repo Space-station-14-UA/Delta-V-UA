@@ -1,13 +1,14 @@
-ghost-role-information-skia-name = Skia
-ghost-role-information-skia-description = The fates have cut the thread of a soul, stalk the shadows to find them and reap what is owed.
-ghost-role-information-skia-rules = You are a [color=red][bold]Solo Antagonist[/bold][/color].
-                                    You may kill your target, you do not need to ensure they stay dead.
-                                    You should avoid attacking those other than your target, except to protect yourself or to ensure your target dies.
+ghost-role-information-skia-name = Скіа
+ghost-role-information-skia-description = Мойри перерізали нитку душі. Блукайте в тінях, щоб знайти свою ціль та зібрати те, що вам належить.
+ghost-role-information-skia-rules =
+    Ви — [color=red][bold]Одиночний антагоніст[/bold][/color].
+    Ви можете вбити свою ціль, але вам не обов'язково стежити за тим, щоб вона залишалася мертвою.
+    Вам слід уникати нападу на будь-кого, крім вашої цілі, за винятком самозахисту або для того, щоб гарантувати смерть цілі.
 
 skia-role-briefing =
-    You are a Skia, a Shade of the Noösphere.
-    You are bound to darkness and shadows, use the darkness to your advantage.
-    Find your prey and reap their soul (kill them). Avoid ending the lives of innocents.
-skia-round-end-name = Skia
+    Ви — Скіа, Тінь із Ноосфери.
+    Ви прив'язані до темряви та тіней, тож використовуйте темряву на свою користь.
+    Знайдіть свою здобич та заберіть її душу (вбийте її). Уникайте позбавлення життя невинних.
+skia-round-end-name = Скіа
 
-skia-resurrecting-desc = [color=red]Their form shifts, it looks like they're trying to reform![/color]
+skia-resurrecting-desc = [color=red]Їхня подоба змінюється, схоже, вони намагаються переродитися![/color]

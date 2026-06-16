@@ -1,5 +1,5 @@
-pager-message-fax = Fax received from {$faxname}
-pager-message-call = Call incoming from {$name} ({$job})
-pager-message-unknown-caller = Unknown caller
-pager-message-unknown-job = Unknown job
-pager-message-button = Someone is requesting your presence at your department {$location}.
+pager-message-fax = Отримано факс від {$faxname}
+pager-message-call = Вхідний виклик від {$name} ({$job})
+pager-message-unknown-caller = Невідомий абонент
+pager-message-unknown-job = Невідома посада
+pager-message-button = Хтось потребує вашої присутності у вашому відділі {$location}.

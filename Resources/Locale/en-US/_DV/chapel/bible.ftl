@@ -1,1 +1,1 @@
-bible-summon-respawn-gone = {CAPITALIZE(THE($book))} power has faded. {CAPITALIZE(POSS-ADJ($book))} resident will not return.
+bible-summon-respawn-gone = Сила {$book} вичерпалася. {CAPITALIZE($book)} мешканець більше не повернеться.

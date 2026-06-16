@@ -1,3 +1,3 @@
-department-Epistemics-description = Research artifacts and anomalies to invent new equipment for the station, while trying to keep glimmer tame.
-department-Logistics-description = Complete bounties, earn Spesos and deliver useful supplies to the crew.
-department-Justice-description = Uphold justice on the station.
+department-Epistemics-description = Досліджуйте артефакти та аномалії, щоб створювати нове обладнання для станції, водночас намагаючись утримувати глімер під контролем.
+department-Logistics-description = Виконуйте замовлення, заробляйте Спесо та доставляйте корисні припаси екіпажу.
+department-Justice-description = Підтримуйте правосуддя на станції.

@@ -1,8 +1,8 @@
-cleanse-deconvert-attempt-begin = {CAPITALIZE(THE($target))} holds a rosary out towards you!
-cleanse-deconvert-attempt-begin-user = You attempt to cleanse {CAPITALIZE(THE($target))} of otherworldly influences!
-cleanse-deconvert-attempt-success = You cleanse {CAPITALIZE(THE($target))} in a cascade of holy light!
-cleanse-deconvert-attempt-success-empowered = You cleanse {CAPITALIZE(THE($target))}, but a pulse of malign energy bursts forth!
-cleanse-deconvert-attempt-notcorrupted = {CAPITALIZE(THE($target))} wasn't under the influence of anything.
-cleanse-deconvert-attempt-rebound = Noospheric energies lash out!
+cleanse-deconvert-attempt-begin = {CAPITALIZE($target)} простягає вервицю до вас!
+cleanse-deconvert-attempt-begin-user = Ви намагаєтеся очистити {CAPITALIZE($target)} від потойбічних впливів!
+cleanse-deconvert-attempt-success = Ви очищуєте {CAPITALIZE($target)} каскадом святого світла!
+cleanse-deconvert-attempt-success-empowered = Ви очищуєте {CAPITALIZE($target)}, але назовні виривається імпульс зловмисної енергії!
+cleanse-deconvert-attempt-notcorrupted = {CAPITALIZE($target)} не перебуває під жодним впливом.
+cleanse-deconvert-attempt-rebound = Ноосферна енергія завдає удару у відповідь!
 
-cleanse-item-sizzle = {CAPITALIZE(THE($target))} sizzles in your hands!
+cleanse-item-sizzle = {CAPITALIZE($target)} шипить у ваших руках!

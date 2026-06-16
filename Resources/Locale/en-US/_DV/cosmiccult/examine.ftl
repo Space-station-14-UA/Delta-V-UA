@@ -1,36 +1,38 @@
 ## CREW EXAMINES
-cosmic-examine-text-contraband = [color=#4cabb3]This is highly illegal contraband with unknown properties![/color]
-cosmic-examine-text-structures = [color=#4cabb3]This object should not be on the station![/color]
-cosmic-examine-text-entities = [color=#4cabb3]This entity should not be on the station![/color]
-cosmic-examine-text-glyphs = [color=#4cabb3]The etched lines are deeply unnerving to gaze upon.[/color]
-cosmic-examine-text-abilityblank = [color=#4cabb3]Their catatonic eyes pulse with wicked light![/color]
-cosmic-examine-text-abilitylapse = [color=#4cabb3]They look like they're seeing something not meant to be seen. Not by anyone.[/color]
-cosmic-examine-text-malignecho = [color=#4cabb3]An echo in the membrane of realspace — it appears to be fading quickly. Something is amiss aboard the station![/color]
-cosmic-examine-text-imposition = [color=#4cabb3]A barrier of astral power wards them from injury![/color]
-cosmic-examine-text-chantry = [color=#4cabb3]You get the horrific feeling that there's somebody trapped inside![/color]
-cosmic-examine-text-effigy = [color=#4cabb3]It radiates unstable anomalous energy![/color]
-cosmic-examine-text-god = [color=#4cabb3]the end is the end is the end is the end is the end is the end is the end is the end is the end is the end is[/color]
-cosmic-examine-text-subtle-mark = [color=#4cabb3]Otherwordly energies surge within their eyes![/color]
-cosmic-examine-text-injector = [color=#4cabb3]You feel like injecting this into yourself would be your last bad idea.[/color]
+cosmic-examine-text-contraband = [color=#4cabb3]Це вкрай незаконна контрабанда з невідомими властивостями![/color]
+cosmic-examine-text-structures = [color=#4cabb3]Цього об'єкта не повинно бути на станції![/color]
+cosmic-examine-text-entities = [color=#4cabb3]Цієї сутності не повинно бути на станції![/color]
+cosmic-examine-text-glyphs = [color=#4cabb3]Викарбувані лінії викликають глибоку тривогу при погляді на них.[/color]
+cosmic-examine-text-abilityblank = [color=#4cabb3]Їхні кататонічні очі пульсують зловісним світлом![/color]
+cosmic-examine-text-abilitylapse = [color=#4cabb3]Здається, вони бачать те, чого ніхто не мав би бачити. Ніхто й ніколи.[/color]
+cosmic-examine-text-malignecho = [color=#4cabb3]Ехо в мембрані реального простору — схоже, воно швидко згасає. Щось не так на борту станції![/color]
+cosmic-examine-text-imposition = [color=#4cabb3]Бар'єр астральної сили захищає їх від поранень![/color]
+cosmic-examine-text-chantry = [color=#4cabb3]У вас виникає жахливе передчуття, що всередині хтось пастці![/color]
+cosmic-examine-text-effigy = [color=#4cabb3]Воно випромінює нестабільну аномальну енергію![/color]
+cosmic-examine-text-god = [color=#4cabb3]кінець це кінець це кінець це кінець це кінець це кінець це кінець це кінець це кінець це кінець це[/color]
+cosmic-examine-text-subtle-mark = [color=#4cabb3]Потойбічна енергія вирує в їхніх очах![/color]
+cosmic-examine-text-injector = [color=#4cabb3]Вам здається, що введення цього в себе стане вашою останньою кепською ідеєю.[/color]
 
 ## CULTIST EXAMINES
-cosmic-examine-text-forthecult = [color=#4cabb3]This is our doing. As things should be.[/color]
-cosmic-examine-text-cultentity = [color=#4cabb3]A powerful ally.[/color]
-cosmic-examine-text-culteffigy = [color=#4cabb3]This may prove useful.[/color]
-cosmic-examine-transmutable = This can be transmuted into [color=#4cabb3]{$result}[/color] by using [color=#4cabb3]{$glyph}[/color].
-cosmic-examine-transmutable-verb-text = Transmutability.
-cosmic-examine-transmutable-error = This item should be transmutable, but it doesn't seem to work.
-cosmic-examine-text-injector-cult = [color=#4cabb3]A powerful dose of stimulants... or a poison for our enemies.[/color]
+cosmic-examine-text-forthecult = [color=#4cabb3]Це справа наших рук. Так і має бути.[/color]
+cosmic-examine-text-cultentity = [color=#4cabb3]Могутній союзник.[/color]
+cosmic-examine-text-culteffigy = [color=#4cabb3]Це може стати нам у пригоді.[/color]
+cosmic-examine-transmutable = Це можна трансмутувати в [color=#4cabb3]{$result}[/color] за допомогою [color=#4cabb3]{$glyph}[/color].
+cosmic-examine-transmutable-verb-text = Здатність до трансмутації.
+cosmic-examine-transmutable-error = Цей предмет мав би бути трансмутованим, але, схоже, це не працює.
+cosmic-examine-text-injector-cult = [color=#4cabb3]Потужна доза стимуляторів... або отрута для наших ворогів.[/color]
 
 ## GLYPH EXAMINES
-cosmic-examine-glyph-cultcount = {$COUNT ->
-    [1] [color=#4cabb3]Requires only a single cultist to activate.[/color]
-    *[other] [color=#4cabb3]Requires {$COUNT} cultists to activate.[/color]
+cosmic-examine-glyph-cultcount = { $COUNT ->
+    [one] [color=#4cabb3]Для активації потрібен лише один культист.[/color]
+    [few] [color=#4cabb3]Для активації потрібно {$COUNT} культисти.[/color]
+    *[other] [color=#4cabb3]Для активації потрібно {$COUNT} культистів.[/color]
 }
 
-cosmic-examine-glyph-truth = [color=#4cabb3]Instills the pure, indelible truth. Able to convert absolutely anyone to join our ranks.[/color]
-cosmic-examine-glyph-knowledge = [color=#4cabb3]Instills the spark of indelible knowledge. Able to convert most to join our ranks.[/color]
-cosmic-examine-glyph-cessation = [color=#4cabb3]Transmutes various machinery into mysterious devices for our use.[/color]
-cosmic-examine-glyph-projection = [color=#4cabb3]Allows us to ascend in a temporary astral form to spy on those around us.[/color]
-cosmic-examine-glyph-blades = [color=#4cabb3]Transmutes and extrudes sharp objects into more lethal weaponry.[/color]
-cosmic-examine-glyph-warding = [color=#4cabb3]Transmutes pressure-resistant clothing into entropic garb.[/color]
+
+cosmic-examine-glyph-truth = [color=#4cabb3]Навіює чисту, незгладиму істину. Здатен навернути абсолютно кожного до наших лав.[/color]
+cosmic-examine-glyph-knowledge = [color=#4cabb3]Навіює іскру незгладимого знання. Здатен навернути більшість до наших лав.[/color]
+cosmic-examine-glyph-cessation = [color=#4cabb3]Трансмутує різноманітне обладнання на таємничі пристрої для нашого використання.[/color]
+cosmic-examine-glyph-projection = [color=#4cabb3]Дозволяє нам підноситися у тимчасовій астральній формі, щоб шпигувати за тими, хто навколо.[/color]
+cosmic-examine-glyph-blades = [color=#4cabb3]Трансмутує та витягує гострі предмети, перетворюючи їх на більш смертоносну зброю.[/color]
+cosmic-examine-glyph-warding = [color=#4cabb3]Трансмутує стійкий до тиску одяг на ентропійне вбрання.[/color]

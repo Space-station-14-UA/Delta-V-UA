@@ -1,3 +1,3 @@
-department-Epistemics = Epistemics
-department-Logistics = Logistics
-department-Justice = Justice
+department-Epistemics = Епістеміка
+department-Logistics = Логістика
+department-Justice = Юстиція

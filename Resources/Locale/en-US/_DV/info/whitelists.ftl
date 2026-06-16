@@ -1,3 +1,3 @@
-cmd-jobwhitelists-desc = Opens the job whitelists window
-cmd-jobwhitelists-help = Usage: jobwhitelists [name or user guid]
-cmd-jobwhitelists-player-err = The specified player could not be found
+cmd-jobwhitelists-desc = Відкриває вікно вайтлістів професій
+cmd-jobwhitelists-help = Використання: jobwhitelists [ім'я або GUID користувача]
+cmd-jobwhitelists-player-err = Вказаного гравця не знайдено

@@ -1,2 +1,2 @@
-ent-ToySword = toy sword
-    .desc = New Sandy-Cat plastic sword! Comes with squeaky sounds and full color! Looks almost like the real thing!
+ent-ToySword = іграшковий меч
+    .desc = Новий пластиковий меч Коті-Санді! Зі пищащими звуками та в повному кольорі! Виглядає майже як справжній!

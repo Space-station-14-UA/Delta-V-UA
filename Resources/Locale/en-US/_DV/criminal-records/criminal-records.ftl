@@ -1,5 +1,5 @@
 ## DeltaV - Justice Department Subpoena
 
-criminal-records-status-subpoenaed = Subpoenaed
-criminal-records-console-subpoenaed = {$name} has been issued a subpoena by the Justice Department and must report to Court immediately.
-criminal-records-console-not-subpoenaed = {$name} is no longer subpoenaed by the Justice Department.
+criminal-records-status-subpoenaed = Викликано до суду
+criminal-records-console-subpoenaed = Департамент юстиції видав судову повістку для {$name}, особа має негайно з'явитися до суду.
+criminal-records-console-not-subpoenaed = {$name} більше не викликається до суду Департаментом юстиції.

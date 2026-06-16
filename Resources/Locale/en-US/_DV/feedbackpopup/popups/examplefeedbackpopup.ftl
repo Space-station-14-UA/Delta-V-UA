@@ -1,6 +1,6 @@
 # An example ftl file for popups. Make a new file for each popup to avoid merge conflicts!
 
 example-feedback-popup-name = FeedbackPopupCampaign
-example-feedback-popup-title = [color=red]FEEDBACK[/color] on new popup system.
-example-feedback-popup-description-0 = This is a [bold]new system[/bold] to get feedback on features. It will give popups!
-example-feedback-popup-description-1 = It also supports multiple sections if it looks better.
+example-feedback-popup-title = [color=red]ВІДГУК[/color] про нову систему вікон.
+example-feedback-popup-description-0 = Це [bold]нова система[/bold] для збору відгуків про функції. Вона показуватиме спливаючі вікна!
+example-feedback-popup-description-1 = Вона також підтримує кілька розділів, якщо так виглядає краще.

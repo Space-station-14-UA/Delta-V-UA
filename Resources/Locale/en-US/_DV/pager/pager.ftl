@@ -1,4 +1,4 @@
-pager-error-different-networks = { THE($sender) } is on a different network from { THE($receiver) }.
-pager-connection-added = { THE($receiver) } will now receive pages from { THE($sender) }.
-pager-connection-removed = { THE($receiver) } will no longer receive pages from { THE($sender) }.
-pager-notification = Page from { $sender }
+pager-error-different-networks = {$sender} знаходиться в іншій мережі, ніж {$receiver}.
+pager-connection-added = {$receiver} тепер отримуватиме повідомлення від {$sender}.
+pager-connection-removed = {$receiver} більше не отримуватиме повідомлення від {$sender}.
+pager-notification = Повідомлення від {$sender}

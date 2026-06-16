@@ -1,1 +1,1 @@
-nukeops-role-warden = Warden
+nukeops-role-warden = Наглядач

@@ -1,5 +1,5 @@
-entity-effect-status-effect-PsionicallyInsulated = psionic insulation
-entity-effect-status-effect-PsionicsDisabled = inability to use psionic powers
-entity-effect-status-effect-Anesthesia = surgical anesthesia
-entity-effect-status-effect-PainNumbness = inability to sense pain
-entity-effect-status-effect-RepeatingTelepath = involuntarily repetition of telepathic messages
+entity-effect-status-effect-PsionicallyInsulated = псіонічна ізоляція
+entity-effect-status-effect-PsionicsDisabled = нездатність використовувати псіонічні здібності
+entity-effect-status-effect-Anesthesia = хірургічна анестезія
+entity-effect-status-effect-PainNumbness = нездатність відчувати біль
+entity-effect-status-effect-RepeatingTelepath = мимовільне повторення телепатичних повідомлень

@@ -1,12 +1,12 @@
-cpr-verb-start = Perform CPR
-cpr-verb-description = Enable the critical target to breathe.
-cpr-verb-disabled-description = Someone's already performing CPR on them.
+cpr-verb-start = Зробити СЛР
+cpr-verb-description = Допомогти критичному пацієнту дихати.
+cpr-verb-disabled-description = Хтось уже робить СЛР цьому пацієнту.
 
-cpr-popup-start-user = You begin to perform CPR on {THE($patient)}'s chest.
-cpr-popup-start-others = {CAPITALIZE(THE($provider))} begins to perform CPR on {THE($patient)}'s chest.
+cpr-popup-start-user = Ви починаєте робити СЛР на грудній клітці { THE($patient) }.
+cpr-popup-start-others = { CAPITALIZE(THE($provider)) } починає робити СЛР на грудній клітці { THE($patient) }.
 
-cpr-popup-continue-user = You continue to perform CPR on {THE($patient)}'s chest.
-cpr-popup-continue-others = {CAPITALIZE(THE($provider))} continues to perform CPR on {THE($patient)}'s chest.
+cpr-popup-continue-user = Ви продовжуєте робити СЛР на грудній клітці { THE($patient) }.
+cpr-popup-continue-others = { CAPITALIZE(THE($provider)) } продовжує робити СЛР на грудній клітці { THE($patient) }.
 
-cpr-popup-stop-user = You stop performing CPR on {THE($patient)}'s chest.
-cpr-popup-stop-others = {CAPITALIZE(THE($provider))} stops performing CPR on {THE($patient)}'s chest.
+cpr-popup-stop-user = Ви припиняєте робити СЛР на грудній клітці { THE($patient) }.
+cpr-popup-stop-others = { CAPITALIZE(THE($provider)) } припиняє робити СЛР на грудній клітці { THE($patient) }.

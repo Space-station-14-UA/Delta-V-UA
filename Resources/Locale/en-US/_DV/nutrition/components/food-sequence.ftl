@@ -1,5 +1,5 @@
-food-sequence-content-grilled-cheese = toasty
-food-sequence-content-scrambled-eggs = scrambled
-food-sequence-content-crystal-thistle = crystal
-food-sequence-content-ghost-pepper = ghostpepper
-food-sequence-content-revenant = revenant
+food-sequence-content-grilled-cheese = хрусткий
+food-sequence-content-scrambled-eggs = бовтанка
+food-sequence-content-crystal-thistle = кришталевий
+food-sequence-content-ghost-pepper = примарний
+food-sequence-content-revenant = ревенант

@@ -1,6 +1,6 @@
 # Kidnap heads objective
-nukie-operations-kidnap-heads-nuke-codes-override = This is a hostage operation. Look at your objectives for more information. It is recommended to buy hostage implants and handcuffs from your uplink. [color=red]To complete your objective you must FTL back to your outpost with the required number of heads restrained[/color].
-nukie-operations-kidnap-heads-objective-title = Cut off the head.
-nukie-operations-kidnap-heads-objective-descript = We need to you kidnap {$count} heads of staff from the station. We only care about the heads, any crew who dies is just collateral.
+nukie-operations-kidnap-heads-nuke-codes-override = Це операція із захоплення заручників. Перегляньте свої цілі для отримання детальнішої інформації. Рекомендується придбати імпланти для заручників та кайданки у своєму аплінку. [color=red]Щоб виконати завдання, ви повинні повернутися на надсвітловій швидкості (FTL) на свій аванпост із необхідною кількістю зв'язаних голів відділів[/color].
+nukie-operations-kidnap-heads-objective-title = Відсікти голову.
+nukie-operations-kidnap-heads-objective-descript = Вам необхідно викрасти {$count} голів відділів зі станції. Нас цікавить лише Командування, будь-які інші загиблі члени екіпажу — лише супутня шкода.
 
-nukeops-cond-nukieskidnappedheads = The nuclear operative kidnapped the heads of the station.
+nukeops-cond-nukieskidnappedheads = Ядерні оперативники викрали голів відділів станції.
