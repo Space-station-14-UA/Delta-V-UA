@@ -29,7 +29,6 @@ cosmic-examine-glyph-cultcount = { $COUNT ->
     *[other] [color=#4cabb3]Для активації потрібно {$COUNT} культистів.[/color]
 }
 
-
 cosmic-examine-glyph-truth = [color=#4cabb3]Навіює чисту, незгладиму істину. Здатен навернути абсолютно кожного до наших лав.[/color]
 cosmic-examine-glyph-knowledge = [color=#4cabb3]Навіює іскру незгладимого знання. Здатен навернути більшість до наших лав.[/color]
 cosmic-examine-glyph-cessation = [color=#4cabb3]Трансмутує різноманітне обладнання на таємничі пристрої для нашого використання.[/color]

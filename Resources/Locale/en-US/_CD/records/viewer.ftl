@@ -1,5 +1,5 @@
 cd-character-records-viewer-title-employ = Трудові записи
-cd-character-records-viewer-title-sec = Записи безпеки
+cd-character-records-viewer-title-sec = Кримінальні записи
 cd-character-records-viewer-title-med = Медичні записи
 
 cd-record-viewer-empty-state = Не вдається отримати записи.
@@ -7,7 +7,7 @@ cd-record-viewer-no-record-selected = Будь ласка, виберіть за
 
 cd-character-records-viewer-record-age = Вік:
 cd-character-records-viewer-record-job = Робота:
-cd-character-records-viewer-record-gender = Стать:
+cd-character-records-viewer-record-gender = Ґендер:
 cd-character-records-viewer-record-species = Вид:
 
 cd-character-records-viewer-record-sec-fingerprint = Відбиток пальця:

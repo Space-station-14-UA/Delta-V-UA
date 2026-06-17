@@ -31,7 +31,6 @@ ghost-role-colossus-effigy-error-space = Занадто близько до ко
 objective-condition-effigy-no-target = Закличте Ефігію будь-де на свій розсуд.
 objective-condition-effigy = Закличте Ефігію біля "{$location}".
 
-
 # MINDSINK (Positronic Brain)
 
 ghost-role-mindsink-installed = З його поверхні чути шепіт!
@@ -45,4 +44,3 @@ ghost-role-mindsink-wiped-device = Розум було погашено.
 ghost-role-mindsink-stop-searching-verb-text = Припинити пошук
 ghost-role-mindsink-stopped-searching = Ноосферний резонанс припинено.
 ghost-role-mindsink-slot-component-slot-name-brain = Мозок
-

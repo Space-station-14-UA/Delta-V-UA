@@ -38,4 +38,4 @@ names-mouse-death-commando-dataset-37 = Оператор Весела Корів
 names-mouse-death-commando-dataset-38 = Оператор Маскарпоне
 names-mouse-death-commando-dataset-39 = Оператор Рікота
 names-mouse-death-commando-dataset-40 = Оператор Вашрен
-
+names-mouse-death-commando-dataset-41 = Оператор Болз

@@ -11,4 +11,3 @@ crafting-menu-name-any-screwdriver = Будь-яка викрутка
 crafting-menu-name-any-crowbar = Будь-який лом
 
 crafting-menu-name-any-gas-tank = Будь-який газовий балон
-

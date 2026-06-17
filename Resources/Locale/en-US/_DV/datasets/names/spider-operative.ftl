@@ -44,4 +44,3 @@ names-spider-operative-dataset-43 = Нуар
 names-spider-operative-dataset-44 = Шинка
 names-spider-operative-dataset-45 = Браун
 names-spider-operative-dataset-46 = Волоцюга
-

@@ -10,7 +10,6 @@ cmd-getping-desc = Виводить поточний пінг вказаного
 cmd-getping-help = getping <ім'я_користувача>
 cmd-getping-err = Не вдалося знайти вказаного гравця
 
-
 # UI
 ui-options-admin-player-tab-mark-ghosted = Позначати привидів
 ui-options-admin-player-tab-mark-ghosted-tooltip = До імен персонажів-привидів буде додано позначку "(П)" (наприклад, "(П) Гліп-Глуб")

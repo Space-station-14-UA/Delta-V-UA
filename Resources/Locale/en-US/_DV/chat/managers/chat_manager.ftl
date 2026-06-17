@@ -40,7 +40,6 @@ chat-speech-verb-feroxi-2 = шелестить
 chat-speech-verb-feroxi-3 = скрегоче зубами
 chat-speech-verb-feroxi-4 = гарчить
 
-
 chat-manager-entity-me-possessive-wrap-message = [italic]{$entityName}: {$message}[/italic]
 
 chat-manager-entity-me-audible-wrap-message = [italic]{ PROPER($entity) ->

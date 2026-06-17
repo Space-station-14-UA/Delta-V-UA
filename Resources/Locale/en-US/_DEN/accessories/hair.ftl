@@ -1,4 +1,4 @@
-marking-amazon = Amazon
+marking-amazon = Амазон
 marking-astolfo = Астольфо
 marking-baum = Баум
 marking-beachwave = Пляжна хвиля
@@ -45,7 +45,7 @@ marking-longdtails = Довгі подвійні хвости
 marking-longovereye_alt = Довге волосся на очі (Alt)
 marking-longsidepartstraight = Довгий прямий бічний проділ
 marking-loose_slicked = Вільне зачесане волосся
-marking-mcsqueeb = Mcsqueeb
+marking-mcsqueeb = Макскіб
 marking-mediumbraid = Коса середньої довжини
 marking-mermaid = Русалка
 marking-mia = Міа

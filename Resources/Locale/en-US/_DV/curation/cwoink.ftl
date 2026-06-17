@@ -23,4 +23,3 @@ cwoink-title-none-selected = Нічого не вибрано
 
 cwoink-message-curator-only = (Тільки Куратор)
 cwoink-message-silent = (Т)
-

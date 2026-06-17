@@ -32,7 +32,7 @@ accent-anglish-words-11 = алкоголь
 accent-anglish-replacement-11 = життєва вода
 
 accent-anglish-words-12 = тривога
-accent-anglish-replacement-12 = насторожений
+accent-anglish-replacement-12 = настороженість
 
 accent-anglish-words-13 = чужинець
 accent-anglish-replacement-13 = сторонній
@@ -44,7 +44,7 @@ accent-anglish-words-15 = дозволяти
 accent-anglish-replacement-15 = дати змогу
 
 accent-anglish-words-16 = абетка
-accent-anglish-replacement-16 = азбука
+accent-anglish-replacement-16 = АБВГДейка
 
 accent-anglish-words-17 = вівтар
 accent-anglish-replacement-17 = жертовний стіл
@@ -77,7 +77,7 @@ accent-anglish-words-26 = кут
 accent-anglish-replacement-26 = закуток
 
 accent-anglish-words-27 = сердитий
-accent-anglish-replacement-27 = шалений
+accent-anglish-replacement-27 = вар'ят
 
 accent-anglish-words-28 = тварина
 accent-anglish-replacement-28 = істота
@@ -115,7 +115,7 @@ accent-anglish-replacement-38 = неспокій
 accent-anglish-words-39 = окремо
 accent-anglish-replacement-39 = розділений
 
-accent-anglish-words-40 = APC
+accent-anglish-words-40 = ЗКЖ
 accent-anglish-replacement-40 = перетворювач струму
 
 accent-anglish-words-41 = апокаліпсис
@@ -124,7 +124,7 @@ accent-anglish-replacement-41 = судний день
 accent-anglish-words-42 = вибачатися
 accent-anglish-replacement-42 = просити прощення
 
-accent-anglish-words-43 = вибачення
+accent-anglish-words-43 = вибач
 accent-anglish-replacement-43 = жаль
 
 accent-anglish-words-44 = арешт
@@ -179,7 +179,7 @@ accent-anglish-words-60 = цукерка
 accent-anglish-replacement-60 = солодощі
 
 accent-anglish-words-61 = канабіс
-accent-anglish-replacement-61 = коноплі
+accent-anglish-replacement-61 = конопля
 
 accent-anglish-words-62 = канібал
 accent-anglish-replacement-62 = людожер
@@ -302,7 +302,7 @@ accent-anglish-words-101 = спільний
 accent-anglish-replacement-101 = поділений
 
 accent-anglish-words-102 = спільнота
-accent-anglish-replacement-102 = братерство
+accent-anglish-replacement-102 = братство
 
 accent-anglish-words-103 = компанія
 accent-anglish-replacement-103 = гурт
@@ -356,7 +356,7 @@ accent-anglish-words-119 = шкідливий
 accent-anglish-replacement-119 = згубний
 
 accent-anglish-words-120 = танець
-accent-anglish-replacement-120 = тріпотіння
+accent-anglish-replacement-120 = танок
 
 accent-anglish-words-121 = небезпека
 accent-anglish-replacement-121 = загроза
@@ -397,10 +397,10 @@ accent-anglish-replacement-132 = згасаючий
 accent-anglish-words-133 = зменшення
 accent-anglish-replacement-133 = применшення
 
-accent-anglish-words-134 = такий, що зменшується
+accent-anglish-words-134 = зменшується
 accent-anglish-replacement-134 = применшення
 
-accent-anglish-words-135 = старезний
+accent-anglish-words-135 = старий
 accent-anglish-replacement-135 = зношений часом
 
 accent-anglish-words-136 = захищати
@@ -430,8 +430,8 @@ accent-anglish-replacement-143 = народовладдя
 accent-anglish-words-144 = демон
 accent-anglish-replacement-144 = біс
 
-accent-anglish-words-145 = демонструвати
-accent-anglish-replacement-145 = показувати
+accent-anglish-words-145 = показувати
+accent-anglish-replacement-145 = демонструвати
 
 accent-anglish-words-146 = зубний
 accent-anglish-replacement-146 = зубовий
@@ -499,7 +499,7 @@ accent-anglish-replacement-166 = пластина
 accent-anglish-words-167 = не любити
 accent-anglish-replacement-167 = недолюблювати
 
-accent-anglish-words-168 = утилізація
+accent-anglish-words-168 = смітник
 accent-anglish-replacement-168 = нічийна земля
 
 accent-anglish-words-169 = позбуватися
@@ -521,7 +521,7 @@ accent-anglish-words-174 = зусилля
 accent-anglish-replacement-174 = праця
 
 accent-anglish-words-175 = яйце
-accent-anglish-replacement-175 = яйце
+accent-anglish-replacement-175 = яйка
 
 accent-anglish-words-176 = баклажан
 accent-anglish-replacement-176 = шалене яблуко
@@ -604,8 +604,8 @@ accent-anglish-replacement-201 = випромінювач світлозасти
 accent-anglish-words-202 = свята холера
 accent-anglish-replacement-202 = пекельний вогонь
 
-accent-anglish-words-203 = величезний
-accent-anglish-replacement-203 = великий
+accent-anglish-words-203 = великий
+accent-anglish-replacement-203 = величезний
 
 accent-anglish-words-204 = людина
 accent-anglish-replacement-204 = землянин
@@ -866,7 +866,7 @@ accent-anglish-words-289 = гриб
 accent-anglish-replacement-289 = шапковик
 
 accent-anglish-words-290 = музика
-accent-anglish-replacement-290 = спів
+accent-anglish-replacement-290 = пісня
 
 accent-anglish-words-291 = музикант
 accent-anglish-replacement-291 = співець
@@ -877,10 +877,10 @@ accent-anglish-replacement-292 = тіньовий боєць
 accent-anglish-words-293 = азот
 accent-anglish-replacement-293 = задушлива речовина
 
-accent-anglish-words-294 = н’юкі
+accent-anglish-words-294 = ядерник
 accent-anglish-replacement-294 = страхоударник
 
-accent-anglish-words-295 = н’юкі (множина)
+accent-anglish-words-295 = ядерники (множина)
 accent-anglish-replacement-295 = страхоударники
 
 accent-anglish-words-296 = офіцер
@@ -910,8 +910,8 @@ accent-anglish-replacement-303 = робити наперед
 accent-anglish-words-304 = можливо
 accent-anglish-replacement-304 = може бути
 
-accent-anglish-words-305 = тимчасове збереження
-accent-anglish-replacement-305 = позачасове утримання
+accent-anglish-words-305 = тимчасове
+accent-anglish-replacement-305 = позачасове
 
 accent-anglish-words-306 = постійний
 accent-anglish-replacement-306 = вічний
@@ -938,7 +938,7 @@ accent-anglish-words-313 = картопля
 accent-anglish-replacement-313 = земне яблуко
 
 accent-anglish-words-314 = готувати
-accent-anglish-replacement-314 = завчасно готувати
+accent-anglish-replacement-314 = препарувати
 
 accent-anglish-words-315 = підготовлений
 accent-anglish-replacement-315 = готовий
@@ -1144,7 +1144,7 @@ accent-anglish-replacement-381 = червона зграя
 accent-anglish-words-382 = синді
 accent-anglish-replacement-382 = злочинець
 
-accent-anglish-words-383 = TEG
+accent-anglish-words-383 = ТЕГ
 accent-anglish-replacement-383 = генератор тепла
 
 accent-anglish-words-384 = доглядати
@@ -1171,7 +1171,7 @@ accent-anglish-replacement-390 = страхоударник
 accent-anglish-words-391 = терористи
 accent-anglish-replacement-391 = страхоударники
 
-accent-anglish-words-392 = розрив TESLA
+accent-anglish-words-392 = теслалуз
 accent-anglish-replacement-392 = втеча іскрового ядра
 
 accent-anglish-words-393 = текст
@@ -1194,6 +1194,9 @@ accent-anglish-replacement-398 = любовне яблуко
 
 accent-anglish-words-399 = трит
 accent-anglish-replacement-399 = третя водна речовина
+
+accent-anglish-words-400 = тритій
+accent-anglish-replacement-400 = третя вода
 
 accent-anglish-words-401 = жилет
 accent-anglish-replacement-401 = нагрудний шолом
@@ -1273,8 +1276,8 @@ accent-anglish-replacement-802 = заправляти
 accent-anglish-words-803 = процедура
 accent-anglish-replacement-803 = уклад
 
-accent-anglish-words-426 = СОР
-accent-anglish-replacement-426 = СУП
+accent-anglish-words-426 = процедури
+accent-anglish-replacement-426 = становлення
 
 accent-anglish-words-427 = продовжувати
 accent-anglish-replacement-427 = іти далі
@@ -3413,7 +3416,7 @@ accent-anglish-words-1143 = овінія
 accent-anglish-replacement-1143 = вівцелюд
 
 accent-anglish-words-1144 = авалі
-accent-anglish-replacement-1144 = пір'їнолюд
+accent-anglish-replacement-1144 = пірнолюд
 
 accent-anglish-words-1145 = заявити
 accent-anglish-replacement-1145 = виголосити

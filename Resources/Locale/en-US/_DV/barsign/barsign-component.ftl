@@ -1,4 +1,3 @@
 ## Klub Skub
-barsign-prototype-name-klubskub = Клуб Скуб
-barsign-prototype-description-klubskub = Скуб!
-
+barsign-prototype-name-klubskub = Клуб Скаб
+barsign-prototype-description-klubskub = Скаб!

@@ -310,4 +310,3 @@ dv-names-diona-last-113 = Пам'ять
 dv-names-diona-last-114 = Походження
 dv-names-diona-last-115 = Відсутність
 dv-names-diona-last-116 = Присутність
-

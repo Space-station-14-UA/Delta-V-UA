@@ -23,21 +23,16 @@ guide-entry-deltav-rule-s7 = S7. Ви маєте бути послідовним
 guide-entry-deltav-rule-s8 = S8. Визначення екіпажу за замовчуванням
 guide-entry-deltav-rule-s9 = S9. Визначення шкоди за замовчуванням
 guide-entry-deltav-rule-s10 = S10. Ви самостійно вирішуєте конфлікти між наказами
-
 guide-entry-alert-levels = Рівні загрози
 guide-entry-justice = Юстиція
 guide-entry-whitelist = Вайтліст
-
 guide-entry-science = Епістеміка
 guide-entry-glimmer-creatures = Істоти Глімеру
 guide-entry-altars = Вівтарі
 guide-entry-psionics = Псіоніка
 guide-entry-mantis = Псіонічний богомол
 guide-entry-reverse-engineering = Зворотне проектування
-
 guide-entry-trade-station = Торгова станція
 guide-entry-cargo = Логістика
-
 guide-entry-frequently-used-chemicals = Популярні хімікати
-
 guide-entry-deepfried-recipes = Рецепти для фритюру

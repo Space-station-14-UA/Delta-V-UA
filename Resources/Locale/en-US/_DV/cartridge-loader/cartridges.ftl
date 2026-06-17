@@ -26,7 +26,6 @@ crime-assist-crime-theft = Код 104: Дрібна крадіжка
 crime-assist-crime-trespass = Код 105: Незаконне проникнення
 crime-assist-crime-vandalism = Код 106: Вандалізм
 crime-assist-crime-hooliganism = Код 107: Хуліганство
-
 crime-assist-crime-assault = Код 201: Напад (побиття)
 crime-assist-crime-breakingandentering = Код 202: Злам та проникнення
 crime-assist-crime-rioting = Код 203: Участь у заворушеннях
@@ -36,7 +35,6 @@ crime-assist-crime-obstructionofjustice = Код 206: Перешкоджання
 crime-assist-crime-perjuryfalsereport = Код 207: Неправдиві свідчення або донос
 crime-assist-crime-contemptofcourt = Код 208: Неповага до суду
 crime-assist-crime-identitytheft = Код 209: Крадіжка особистих даних
-
 crime-assist-crime-manslaughter = Код 301: Вбивство з необережності
 crime-assist-crime-kidnapping = Код 302: Викрадення людини
 crime-assist-crime-grandpossession = Код 303: Володіння контрабандою у великих розмірах
@@ -45,14 +43,12 @@ crime-assist-crime-sabotage = Код 305: Саботаж
 crime-assist-crime-abuseofpower = Код 306: Зловживання владою
 crime-assist-crime-grandtheft = Код 307: Крадіжка у великих розмірах
 crime-assist-crime-blackmarketeering = Код 308: Торгівля на чорному ринку
-
 crime-assist-crime-murder = Код 401: Умисне вбивство
 crime-assist-crime-terrorism = Код 402: Тероризм
 crime-assist-crime-grandsabotage = Код 403: Тяжкий саботаж
 crime-assist-crime-preventionofrevival = Код 404: Перешкоджання воскресінню
 crime-assist-crime-sedition = Код 405: Підбурювання до бунту (державна зрада)
 crime-assist-crime-breachofcustody = Код 406: Втеча з-під варти
-
 
 # Questions
 crime-assist-question-isitterrorism = Чи брав підозрюваний заручників, спричиняв масові смерті або значні руйнування, щоб змусити екіпаж підкоритися?
@@ -156,11 +152,10 @@ crime-assist-crimepunishment-preventionofrevival = Покарання: Вища 
 crime-assist-crimepunishment-sedition = Покарання: Вища міра
 crime-assist-crimepunishment-breachofcustody = Покарання: Вища міра
 
-
 ## MailMetrics
 
 # General
-mail-metrics-program-name = MailMetrics
+mail-metrics-program-name = МейлМетрікс
 mail-metrics-header = Дохід від доставки пошти
 mail-metrics-opened = Заробіток (Відкрито)
 mail-metrics-expired = Збитки (Протерміновано)
@@ -176,7 +171,7 @@ mail-metrics-progress-percent = Коефіцієнт успіху: {$successRate
 ## StockTrading
 
 # General
-stock-trading-program-name = StockTrading
+stock-trading-program-name = СтокТрейдінг
 stock-trading-title = Міжгалактичний фондовий ринок
 stock-trading-balance = Баланс: {$balance} спесо
 stock-trading-no-entries = Записи відсутні
@@ -189,8 +184,8 @@ stock-trading-price-history = Історія ціни
 ## NanoChat
 
 # General
-nano-chat-program-name = NanoChat
-nano-chat-title = NanoChat
+nano-chat-program-name = НаноЧат
+nano-chat-title = НаноЧат
 nano-chat-new-chat = Новий чат
 nano-chat-contacts = КОНТАКТИ
 nano-chat-no-chats = Немає активних чатів
@@ -211,7 +206,6 @@ nano-chat-delivery-failed = Не вдалося доставити
 nano-chat-look-up-no-server = Сервер телекомунікацій не знайдений
 nano-chat-look-up = Знайти номери
 nano-chat-list-number = Показати номер
-
 
 # Create chat popup
 nano-chat-new-title = Додати новий чат

@@ -1,5 +1,5 @@
 # Names
-delta-chat-emote-name-honk = Хонк
+delta-chat-emote-name-honk = Гонк
 delta-chat-emote-name-ring = Дзинь
 delta-chat-emote-name-pew = Піу
 delta-chat-emote-name-bang = Бах
