@@ -1,4 +1,4 @@
-id-card-access-level-orders = Замовлення
+id-card-access-level-orders = Накази
 id-card-access-level-mantis = Псіонічний богомол
 id-card-access-level-chief-justice = Головний суддя
 id-card-access-level-prosecutor = Прокурор

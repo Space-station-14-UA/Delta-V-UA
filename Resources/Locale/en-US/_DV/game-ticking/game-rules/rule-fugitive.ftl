@@ -1,4 +1,5 @@
 fugitive-round-end-agent-name = Втікач
+
 fugitive-spawn = Ви падаєте зі стелі!
 
 station-event-fugitive-hunt-announcement = Будь ласка, перевірте консолі зв'язку на наявність конфіденційного повідомлення.
@@ -34,6 +35,7 @@ fugitive-crime-3 = масштабного диверсійного акту
 fugitive-crime-4 = перешкоджання клонуванню
 fugitive-crime-5 = підбурювання до заколоту
 fugitive-crime-6 = втечі з-під варти
+
 fugitive-crime-7 = ненавмисного вбивства
 fugitive-crime-8 = викрадення людини
 fugitive-crime-9 = зберігання великої кількості контрабанди
@@ -42,6 +44,7 @@ fugitive-crime-11 = диверсії
 fugitive-crime-12 = зловживання владою
 fugitive-crime-13 = крадіжки в особливо великих розмірах
 fugitive-crime-14 = торгівлі на чорному ринку
+
 fugitive-crime-15 = нападу та нанесення тілесних ушкоджень
 fugitive-crime-16 = незаконного проникнення зі зломом
 fugitive-crime-17 = участі в масових заворушеннях

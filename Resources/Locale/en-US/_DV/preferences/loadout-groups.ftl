@@ -1,3 +1,4 @@
+# This file will contain strings for both DeltaV and Nyanotrasen loadouts, because I'm lazy
 # Miscellaneous
 loadout-group-survival-corpsman = Рятувальний набір санітара
 

@@ -32,6 +32,7 @@ names-chitinid-first-male-dataset-30 = Ву'льта'восс
 names-chitinid-first-male-dataset-31 = Ксікса'ба
 names-chitinid-first-male-dataset-32 = Ярр'ват
 names-chitinid-first-male-dataset-33 = Зай'зз
+
 ## First, Female
 names-chitinid-first-female-dataset-1 = Амер'ікс
 names-chitinid-first-female-dataset-2 = Ан'бела

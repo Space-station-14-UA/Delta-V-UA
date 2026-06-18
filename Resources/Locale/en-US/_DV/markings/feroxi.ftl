@@ -77,7 +77,7 @@ marking-FeroxiTipTail-feroxi-dorsal = Основа спинного плавця
 
 marking-FeroxiTipTailAndDorsal = Хвіст із кінчиками та спинним плавцем Фероксі
 marking-FeroxiTipTailAndDorsal-feroxi-tail = Основа хвоста
-marking-FeroxiTipTailAndDorsal-feroxi-tail-top-tip = Upper Tail Fin Tip
+marking-FeroxiTipTailAndDorsal-feroxi-tail-top-tip = Верхній кінчик хвостового плавця
 marking-FeroxiTipTailAndDorsal-feroxi-tail-bottom-tip = Нижній кінчик хвоста
 marking-FeroxiTipTailAndDorsal-feroxi-second-dorsal-tip = Кінчик другого спинного плавця
 marking-FeroxiTipTailAndDorsal-feroxi-dorsal = Основа спинного плавця

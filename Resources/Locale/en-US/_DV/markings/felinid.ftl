@@ -9,6 +9,7 @@ marking-FelinidTiger = Тигровий хвіст
 marking-FelinidTiger-m_tail_tiger_primary = Первинний колір
 marking-FelinidTiger-m_tail_tiger_secondary = Колір кінчика хвоста
 marking-FelinidTiger-m_tail_tiger_tertiary = Смуги
+
 marking-FurredLeftArm-furred_l_arm = Хутряна ліва рука
 marking-FurredLeftArm = Хутряна ліва рука
 marking-FurredRightArm-furred_r_arm = Хутряна права рука
