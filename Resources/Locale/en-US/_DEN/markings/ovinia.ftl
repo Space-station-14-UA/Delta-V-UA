@@ -1,69 +1,69 @@
-marking-OviniaEars = Ovinia Ears (Default)
-marking-OviniaEars-ovinia-ears = Outer Ears
-marking-OviniaEars-ovinia-ears-inner = Inner Ears
+marking-OviniaEars = Вуха Овінії (за замовчуванням)
+marking-OviniaEars-ovinia-ears = Зовнішні вуха
+marking-OviniaEars-ovinia-ears-inner = Внутрішні вуха
 
-marking-OviniaTail = Ovinia Tail (Default)
-marking-OviniaTail-ovinia-tail = Tail
+marking-OviniaTail = Хвіст Овінії (за замовчуванням)
+marking-OviniaTail-ovinia-tail = Хвіст
 
-marking-OviniaNeckfluff = Ovinia Neck Fluff
-marking-OviniaNeckfluff-ovinia-neck-fluff = Neck Fluff
+marking-OviniaNeckfluff = Пух на шиї Овінії
+marking-OviniaNeckfluff-ovinia-neck-fluff = Пух на шиї
 
-marking-OviniaLambHorns = Lamb Horns
-marking-OviniaLambHorns-lamb-horns = Horns
+marking-OviniaLambHorns = Ягнячі роги
+marking-OviniaLambHorns-lamb-horns = Роги
 
-marking-OviniaRamHorns = Ram Horns
-marking-OviniaRamHorns-ovinia-ram-horns = Horns
+marking-OviniaRamHorns = Баранячі роги
+marking-OviniaRamHorns-ovinia-ram-horns = Роги
 
-marking-OviniaPointyHorns = Pointy Horns
-marking-OviniaPointyHorns-ovinia-pointy-horns = Horns
+marking-OviniaPointyHorns = Гострі роги
+marking-OviniaPointyHorns-ovinia-pointy-horns = Роги
 
-marking-OviniaDeerHorns = Deer Horns
-marking-OviniaDeerHorns-ovinia-deer-horns = Horns
+marking-OviniaDeerHorns = Оленячі роги
+marking-OviniaDeerHorns-ovinia-deer-horns = Роги
 
-marking-OviniaDevilHorns = Devil Horns
-marking-OviniaDevilHorns-ovinia-devil-horns = Horns
+marking-OviniaDevilHorns = Диявольські роги
+marking-OviniaDevilHorns-ovinia-devil-horns = Роги
 
-marking-OviniaBaphometHorns = Baphomet Horns
-marking-OviniaBaphometHorns-ovinia-baphomet-horns = Horns
+marking-OviniaBaphometHorns = Роги Бафомета
+marking-OviniaBaphometHorns-ovinia-baphomet-horns = Роги
 
-marking-OviniaIbexHorns = Ibex Horns
-marking-OviniaIbexHorns-ovinia-ibex-horns = Horns
+marking-OviniaIbexHorns = Роги козла
+marking-OviniaIbexHorns-ovinia-ibex-horns = Роги
 
-marking-OviniaCurvedHorns = Curved Horns
-marking-OviniaCurvedHorns-ovinia-curved-horns = Horns
+marking-OviniaCurvedHorns = Вигнуті роги
+marking-OviniaCurvedHorns-ovinia-curved-horns = Роги
 
 
-marking-OviniaFace = Ovinia Face
-marking-OviniaFace-ovinia-face = Face
-marking-OviniaFace-ovinia-nose = Nose
+marking-OviniaFace = Обличчя Овінії
+marking-OviniaFace-ovinia-face = Обличчя
+marking-OviniaFace-ovinia-nose = Ніс
 
-marking-OviniaBlaze = Ovinia Face
-marking-OviniaBlaze-ovinia-blaze = Face
-marking-OviniaBlaze-ovinia-nose = Nose
+marking-OviniaBlaze = Пляма Овінії
+marking-OviniaBlaze-ovinia-blaze = Пляма
+marking-OviniaBlaze-ovinia-nose = Ніс
 
-marking-OviniaSnout = Ovinia Snout
-marking-OviniaSnout-ovinia-snout = Snout
-marking-OviniaSnout-ovinia-nose = Nose
+marking-OviniaSnout = Овініїв мордочка
+marking-OviniaSnout-ovinia-snout = Морда
+marking-OviniaSnout-ovinia-nose = Ніс
 
-marking-OviniaTummy = Ovinia Tummy
-marking-OviniaTummy-ovinia-tummy = Tummy
+marking-OviniaTummy = Живіт Овінії
+marking-OviniaTummy-ovinia-tummy = Живіт
 
-marking-OviniaLeftLegValais = Valais Left Leg
-marking-OviniaLeftLegValais-ovinia-leg-valais-left = Valais Left Leg
+marking-OviniaLeftLegValais = Ліва нога Валії
+marking-OviniaLeftLegValais-ovinia-leg-valais-left = Ліва нога Валії
 
-marking-OviniaRightLegValais = Valais Right Leg
-marking-OviniaRightLegValais-ovinia-leg-valais-right = Valais Right Leg
+marking-OviniaRightLegValais = Права нога Валії
+marking-OviniaRightLegValais-ovinia-leg-valais-right = Права нога Валії
 
-marking-OviniaLeftHoof = Left Hoof
-marking-OviniaLeftHoof-ovinia-hoof-left = Left Hoof
+marking-OviniaLeftHoof = Ліве копито
+marking-OviniaLeftHoof-ovinia-hoof-left = Ліве копито
 
-marking-OviniaRightHoof = Right Hoof
-marking-OviniaRightHoof-ovinia-hoof-right = Right Hoof
+marking-OviniaRightHoof = Праве копито
+marking-OviniaRightHoof-ovinia-hoof-right = Праве копито
 
-marking-OviniaLeftArmValais = Valais Left Arm
-marking-OviniaLeftArmValais-ovinia-arm-valais-left = Valais Left Arm
+marking-OviniaLeftArmValais = Ліва рука Валії
+marking-OviniaLeftArmValais-ovinia-arm-valais-left = Ліва рука Валії
 
-marking-OviniaRightArmValais = Valais Right Arm
-marking-OviniaRightArmValais-ovinia-arm-valais-right = Valais Right Arm
+marking-OviniaRightArmValais = Права рука Валії
+marking-OviniaRightArmValais-ovinia-arm-valais-right = Права рука Валії
 
-markings-category-NeckFluff = Neck Fluff
+markings-category-NeckFluff = Пух на шиї
