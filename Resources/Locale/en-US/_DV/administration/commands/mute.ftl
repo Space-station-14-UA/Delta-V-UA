@@ -1,13 +1,13 @@
-cmd-mute-desc = Mutes or unmutes the specified player in the specified OOC channel.
-cmd-mute-help = Usage: {$command} <channel> <username>
-                Supported channels: {$channels}
+cmd-mute-desc = Замовчує або повертає голос обраному гравцеві у вказаному каналі OOC.
+cmd-mute-help = Використання: {$command} <канал> <ім'я_користувача>
+                Підтримувані канали: {$channels}
 
-                OOC mutes persist until server restart.
-                LOOC and DEADCHAT mutes persist until round end.
+                Мути в OOC діють до перезапуску сервера.
+                Мути в LOOC та DEADCHAT діють до кінця раунду.
 
-cmd-mute-err-missing-mind = The specified player lacks a Mind.
-cmd-mute-err-unknown-channel = Invalid channel. Must be one of: {$channels}
-cmd-mute-err-no-data = Unable to get content player data.
+cmd-mute-err-missing-mind = У вказаного гравця відсутній Розум (Mind).
+cmd-mute-err-unknown-channel = Неправильний канал. Оберіть один із: {$channels}
+cmd-mute-err-no-data = Не вдалося отримати дані гравця.
 
-cmd-mute-player-notif-muted = You have been muted in {$chat}.
-cmd-mute-player-notif-unmuted = You have been unmuted in {$chat}.
+cmd-mute-player-notif-muted = Вам було заборонено писати у {$chat}.
+cmd-mute-player-notif-unmuted = Вам знову дозволено писати у {$chat}.

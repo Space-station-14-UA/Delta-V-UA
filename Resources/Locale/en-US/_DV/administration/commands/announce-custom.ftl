@@ -1,8 +1,8 @@
 ## AnnounceCustomCommand
-cmd-announcecustom-desc = Send an in-game announcement with custom color and sound.
-cmd-announcecustom-help = {$command} <message> [sender] [color] [sound] - Send announcement. Sender defaults to CentCom, color to Gold, sound to announce.ogg
+cmd-announcecustom-desc = Надіслати ігрове оголошення з власним кольором та звуком.
+cmd-announcecustom-help = {$command} <повідомлення> [відправник] [колір] [звук] — Надіслати оголошення. Відправник за замовчуванням: ЦентрКом, колір: Gold, звук: announce.ogg
 
 # Completion hints
-cmd-announcecustom-arg-message = message
-cmd-announcecustom-arg-color = color in #RRGGBB format (optional)
-cmd-announcecustom-arg-sound = sound path (optional)
+cmd-announcecustom-arg-message = повідомлення
+cmd-announcecustom-arg-color = колір у форматі #RRGGBB (необов'язково)
+cmd-announcecustom-arg-sound = шлях до звукового файлу (необов'язково)

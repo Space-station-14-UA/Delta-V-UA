@@ -1,5 +1,5 @@
-verb-life-drain = Life drain
-life-drain-second-start = {CAPITALIZE(THE($drainer))} starts draining your life force!
-life-drain-third-start = {CAPITALIZE(THE($drainer))} starts draining {THE($target)}'s life force!
-life-drain-second-end = Your being is annihilated.
-life-drain-third-end = {CAPITALIZE(THE($drainer))} drains {THE($target)}'s life force!
+verb-life-drain = Висмоктування життя
+life-drain-second-start = {CAPITALIZE(THE($drainer))} починає висмоктувати вашу життєву силу!
+life-drain-third-start = {CAPITALIZE(THE($drainer))} починає висмоктувати життєву силу з {THE($target)}!
+life-drain-second-end = Ваше існування припинено.
+life-drain-third-end = {CAPITALIZE(THE($drainer))} висмоктує життєву силу з {THE($target)}!
