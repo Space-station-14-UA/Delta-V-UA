@@ -52,6 +52,8 @@ chat-manager-admin-channel-name = АДМІН
 chat-manager-rate-limited = Ви відправляєте повідомлення занадто швидко!
 chat-manager-rate-limit-admin-announcement = Попередження про привищення ліміту повідомлень: { $player }
 
+chat-manager-follow-button = (F)
+
 ## Speech verbs for chat
 
 chat-speech-verb-suffix-exclamation = !

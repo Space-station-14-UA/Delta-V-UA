@@ -59,6 +59,7 @@ ui-options-show-ooc-patron-color = Показувати колір OOC Patreon
 ui-options-show-looc-on-head = Показувати чат LOOC над головою персонажа
 ui-options-fancy-speech = Показувати імена у мовних бульбашках
 ui-options-fancy-name-background = Додати фон до імен у мовних бульбашках
+ui-options-chat-follow-button = Як привид, показувати кнопку "Підписатися" поруч із повідомленнями чату
 ui-options-vsync = Вертикальна синхронізація
 ui-options-fullscreen = Повноекранний
 ui-options-lighting-label = Якість освітлення:
