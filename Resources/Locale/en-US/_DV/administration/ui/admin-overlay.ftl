@@ -1,2 +1,2 @@
-admin-overlay-watchlisted-username-suffix = [WL]
-admin-overlay-ssd-time = SSD {$time}
+admin-overlay-watchlisted-username-suffix = [ВЛ]
+admin-overlay-ssd-time = ССД {$time}

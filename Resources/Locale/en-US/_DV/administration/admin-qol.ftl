@@ -1,18 +1,18 @@
 # Commands
-cmd-lslaws-desc = Lists laws of all lawbound entities or a specific player if specified
-cmd-lslaws-help = lslaws [username]
-cmd-lslaws-error-bad-player = Unable to find lawbound entity attached to that user.
+cmd-lslaws-desc = Виводить список законів усіх суб'єктів із законами або конкретного гравця, якщо вказано
+cmd-lslaws-help = lslaws [ім'я_користувача]
+cmd-lslaws-error-bad-player = Не вдалося знайти суб'єкта із законами, пов’язаного з цим користувачем.
 
-cmd-lswatchlisted-desc = Prints an overview of all connected players with watchlists
+cmd-lswatchlisted-desc = Виводить огляд усіх підключених гравців, що перебувають у вотч-листах
 cmd-lswatchlisted-help = lswatchlisted
 
-cmd-getping-desc = Prints the specified player's current ping
-cmd-getping-help = getping <username>
-cmd-getping-err = Unable to find specified player
+cmd-getping-desc = Виводить поточний пінг вказаного гравця
+cmd-getping-help = getping <ім'я_користувача>
+cmd-getping-err = Не вдалося знайти вказаного гравця
 
 # UI
-ui-options-admin-player-tab-mark-ghosted = Mark ghosted players
-ui-options-admin-player-tab-mark-ghosted-tooltip = Ghosts will have a "(G)" added to their character names (e.g. "(G) Glip-Glub")
+ui-options-admin-player-tab-mark-ghosted = Позначати привидів
+ui-options-admin-player-tab-mark-ghosted-tooltip = До імен персонажів-привидів буде додано позначку "(П)" (наприклад, "(П) Гліп-Глуб")
 
-ui-options-admin-player-tab-mark-watchlisted = Mark watchlisted players
-ui-options-admin-player-tab-mark-watchlisted-tooltip = Watchlisted players will have a "(WL)" added to their character names (e.g. "(WL) Confusion Bot 2007")
+ui-options-admin-player-tab-mark-watchlisted = Позначати гравців із вотч-листа
+ui-options-admin-player-tab-mark-watchlisted-tooltip = До імен гравців із вотч-листа буде додано позначку "(ВЛ)" (наприклад, "(ВЛ) Бот Сплутаності 2007")

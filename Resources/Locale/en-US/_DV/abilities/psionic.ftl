@@ -1,138 +1,138 @@
 ## Names of Psionic Powers
-psionic-power-name-dispel = Dispel
-psionic-power-name-eruption = Psionic Eruption
-psionic-power-name-mass-sleep = Mass Sleep
-psionic-power-name-mindswap = Mind Swap
-psionic-power-name-mindswap-return = Mind Swap Return
-psionic-power-name-metapsionic = Metapsionic Pulse
-psionic-power-name-noospheric-zap = Noospheric Zap
-psionic-power-name-precognition = Precognition
-psionic-power-name-psychokinetic = Psychokinetic Scream
-psionic-power-name-psionic-invisibility = Psionic Invisibility
-psionic-power-name-psionic-regeneration = Psionic Regeneration
-psionic-power-name-pyrokinesis = Pyrokinesis
-psionic-power-name-telegnosis = Telegnosis
+psionic-power-name-dispel = Розвіювання
+psionic-power-name-eruption = Псі-виверження
+psionic-power-name-mass-sleep = Масовий сон
+psionic-power-name-mindswap = Обмін розумом
+psionic-power-name-mindswap-return = Повернення розуму
+psionic-power-name-metapsionic = Метапсіонічний імпульс
+psionic-power-name-noospheric-zap = Ноосферний розряд
+psionic-power-name-precognition = Пророкування
+psionic-power-name-psychokinetic = Психокінетичний крик
+psionic-power-name-psionic-invisibility = Псі-невидимість
+psionic-power-name-psionic-regeneration = Псі-регенерація
+psionic-power-name-pyrokinesis = Пірокінез
+psionic-power-name-telegnosis = Телегноз
 
 ## Psionic Rolling & Mindbreaking Messages
-psionic-roll-failed = The noöspheric influence leaves no mark on your mind...
-psionic-partly-mindbroken = The psionic influence on your mind weakens..
-psionic-mindbroken = Your mind retreats from abstraction to reality.
+psionic-roll-failed = Ноосферний вплив не залишає сліду у вашому розумі...
+psionic-partly-mindbroken = Псіонічний тиск на ваш розум слабшає..
+psionic-mindbroken = Ваш розум повертається від абстракцій до реальності.
 
 ## Base Psionic messages
-psionic-cannot-use-psionics = Your psionic energy can't escape your mind!
-psionic-shielded-from-attempt = A psionic influence faltered against your shield!
-psionic-cannot-target-shielded = They remain steadfast against your psionic grasp!
-psionic-equipped-shielded-in-doafter = The insulative gear broke your concentration..
-psionic-dispelled = Someone dispelled your psionic concentration!
+psionic-cannot-use-psionics = Ваша псіонічна енергія не може вирватися за межі розуму!
+psionic-shielded-from-attempt = Псіонічний вплив розбився об ваш щит!
+psionic-cannot-target-shielded = Вони непохитні перед вашою псіонічною хваткою!
+psionic-equipped-shielded-in-doafter = Ізоляційне спорядження збило вашу концентрацію..
+psionic-dispelled = Хтось розвіяв вашу псіонічну концентрацію!
 
 ## Specific Psionic messages
 # Metapsionic Pulse
-psionic-power-metapsionic-success = You detect psychic presence there.
-psionic-power-metapsionic-failure = You don't detect any psychic presence there.
-psionic-power-metapsionic-power-detected = You detect that {$power} was used nearby.
+psionic-power-metapsionic-success = Ви відчуваєте там психічну присутність.
+psionic-power-metapsionic-failure = Ви не відчуваєте там жодної психічної присутності.
+psionic-power-metapsionic-power-detected = Ви відчули, що поблизу було використано {$power}.
 
 # Mindswap
-psionic-power-mindswap-target-mindshielded = Your mindshield.. surprisingly shielded your mind from an psionic influence.
-psionic-power-mindswap-own-mindshield = Your mindshield.. stops your mind from leaving your body.
-psionic-power-mindswap-original-lost = The psionic tether to your original body was severed!
+psionic-power-mindswap-target-mindshielded = Ваш ментальний щит.. дивовижним чином захистив ваш розум від псіонічного впливу.
+psionic-power-mindswap-own-mindshield = Ваш ментальний щит.. не дає вашому розуму покинути тіло.
+psionic-power-mindswap-original-lost = Псіонічний зв'язок із вашим рідним тілом розірвано!
 
 # Noospheric Zap
-psionic-power-noospheric-zap-user = Lightning shoots out of {THE($user)}'s fingertips!
-psionic-power-noospheric-zap-battery = {CAPITALIZE(THE($battery))}'s charge ramps up!
+psionic-power-noospheric-zap-user = З кінчиків пальців {THE($user)} вириваються блискавки!
+psionic-power-noospheric-zap-battery = Заряд {CAPITALIZE(THE($battery))} стрімко зростає!
 
 # Precognition
-psionic-power-precognition-failure-by-damage = Your concentration was broken! You fail to decipher anything of use.
-psionic-power-precognition-no-event-result-message = You see a vision of an undisturbed lake.
+psionic-power-precognition-failure-by-damage = Вашу концентрацію було порушено! Вам не вдалося розгледіти нічого корисного.
+psionic-power-precognition-no-event-result-message = Перед вами постає видіння непорушного озера.
 
-psionic-power-precognition-xeno-vents-result-message = You see a vision, peering around a corner you see a strange, squelching beast tear at the insides of one of your coworkers as they let out a bloodcurdling scream.
-psionic-power-precognition-mothroach-spawn-result-message = You see a hungering mass of newborns, chittering and screeching as they sink their mandibles into the station's knitwork.
-psionic-power-precognition-listening-post-result-message = you hear a cacophony of foreign voices speaking over radio static; you wake with a creeping sense of paranoia.
-psionic-power-precognition-paradox-anomaly-result-message = You see your coworker splitting in two. Where there was one, there are now two. You are unsure which of the beings is truly your coworker.
-psionic-power-precognition-fugitive-result-message = You see hounds around every corner all hunting for someone who does not belong.
-psionic-power-precognition-syndicate-recruiter-result-message = You see someone cutting ties on a chain-link fence and reforging its now disparate parts under a new oath of blood.
-psionic-power-precognition-synthesis-specialist-result-message = You smell a dangerous mixture of chemicals in the air; the distant sound of a small plasma engine roars to life.
-psionic-power-precognition-cargo-gifts-base-result-message = You see a vision of yourself, gathered for a time-old tradition of receiving gifts. You didn't ask for these, but you must pretend to appreciate nonetheless.
-psionic-power-precognition-anomaly-spawn-result-message = You attempt to look forward, but the future is distorted by a blast of noöspheric energies converging on a single point.
-psionic-power-precognition-bluespace-artifact-result-message = You attempt to look forward but are blinded by noöspheric energies coalescing into an object beyond comprehension.
-psionic-power-precognition-bluespace-locker-result-message = You attempt to look forward, but the noösphere seems distorted by a constantly shifting bluespace energy.
-psionic-power-precognition-breaker-flip-result-message = You see torches snuff around you and keepers rekindling the lost flames.
-psionic-power-precognition-bureaucratic-error-result-message = You see a vision of yourself trapped in a room, trying to solve a puzzle with both missing and duplicate pieces.
-psionic-power-precognition-clerical-error-result-message = You see faces you once knew being obscured in a fog of static, identities lost.
-psionic-power-precognition-closet-skeleton-result-message = You hear a crackling laugh echo and clinking bones in the dusty recesses of the station.
-psionic-power-precognition-skia-result-message = The shadows around you gnash and scratch at you, a great beast of the noösphere is stalking you. You feel its breath on your neck.
-psionic-power-precognition-dragon-spawn-result-message = Reality around you bulges and breaks as a great beast cries for war. The smell of salty sea and blood fills the air.
-psionic-power-precognition-colossus-spawn-result-message = You see the vast shadow of a monstrosity so large that it casts all beneath it into darkness. The noösphere shifts precariously in its wake.
-psionic-power-precognition-ninja-spawn-result-message = You see a vision of shadows brought to life, hounds of war howling their cries as they chase it through dark corners of the station.
-psionic-power-precognition-revenant-spawn-result-message = The shadows around you grow threefold taller and threefold darker. Something lurks within them, a predator stalking you in the darkness.
-psionic-power-precognition-gas-leak-result-message = For but a moment, it feels as if you cannot breathe. With a blink, everything returns to normal.
-psionic-power-precognition-kudzu-growth-result-message = Leaves and vines pierce through the dusty tiles of the station, crawling about your ankles, trying to drag you down with them.
-psionic-power-precognition-power-grid-check-result-message = You see torches snuff around you only to spontaneously ignite moments later.
-psionic-power-precognition-solar-flare-result-message = The stars look beautiful tonight, shrinking and growing and shooting great bolts like fireworks into the sky.
-psionic-power-precognition-vent-clog-result-message = You smell something horrific on the artificial breeze of the station, for a moment your eyes fill with fog. When you blink it away, the smell is gone.
-psionic-power-precognition-slimes-spawn-result-message = Something lurks deep within the darkest corners of the station, crying for blood. Soft squelches and bubbling howls accompany the call.
-psionic-power-precognition-snake-spawn-result-message = Something lurks deep within the darkest corners of the station, crying for blood. The sounds of hissing growls accompany the call.
-psionic-power-precognition-spider-spawn-result-message = Something lurks deep within the darkest corners of the station, crying for blood. A symphony of clicks and chitters accompanies the call.
-psionic-power-precognition-spider-clown-spawn-result-message = Something lurks deep within the darkest corners of the station, crying for blood. An unholy mass of honks accompanies the call.
-psionic-power-precognition-zombie-outbreak-result-message = Your coworker lies on the cold ground before you; skull ripped open, eyes blank. You think you see the body twitch.
-psionic-power-precognition-lone-ops-spawn-result-message = You see a vision of a beast with a blood-red carapace, laughing as it eats through the station, bite by bite.
-psionic-power-precognition-sleeper-agents-result-message = You see a vision of life through the eyes of a non-descript coworker, a soft but dangerous buzzing accompanies you at the base of their skull. It sounds like radio static.
-psionic-power-precognition-mass-hallucinations-result-message = You attempt to see a vision of the future, but all you see is a phantasmagoria of chaotic shapes.
-psionic-power-precognition-ion-storm-result-message = You see a vision of the rigid being destroyed and reshaped into something new and wrong.
-psionic-power-precognition-meteor-swarm-result-message = You see a fiery vision of shooting stars falling from the sky, colorful trails shooting through the station you call home.
-psionic-power-precognition-game-rule-urist-swarm-result-message = You see a fiery vision of... PEOPLE falling from the sky! colorful trails shooting through the station you call home.
-psionic-power-precognition-immovable-rod-spawn-result-message = You see a fiery vision of a MASSIVE star falling from the sky! colorful trails shooting through the station you call home.
-psionic-power-precognition-mouse-migration-result-message = You see a vision of living as a simplistic creature, scurrying underfoot of creatures beyond your comprehension.
-psionic-power-precognition-king-rat-migration-result-message = You see a vision of living as a simplistic creature, scurrying underfoot of creatures beyond your comprehension.
-psionic-power-precognition-cockroach-migration-result-message = You see a vision of living as a simplistic creature, scurrying underfoot of creatures beyond your comprehension.
-psionic-power-precognition-snail-migration-result-message = You see a vision of living as a simplistic creature, scurrying underfoot of creatures beyond your comprehension.
-psionic-power-precognition-random-sentience-result-message = Something bright and beautiful sparks to life within your third eye. Nothing brings wonder quite like new life.
-psionic-power-precognition-unknown-shuttle-cargo-lost-result-message = You see a vision of a simple ship of old Terra, adrift of the sea, far away from home.
-psionic-power-precognition-unknown-shuttle-traveling-cuisine-result-message = You see a vision of peace, a cozy meal sizzling on a warm stove. A delicious smells wafts through the air.
-psionic-power-precognition-unknown-shuttle-disaster-evac-pod-result-message = You see a vision of death and blood, of a destruction so complete only few survive, drifting through the coldness of space.
-psionic-power-precognition-syndicate-armsdealer-result-message = You see a vision of a ship lurking in the shadows, its cargo deadly.
-psionic-power-precognition-rift-spawn-result-message = You see a small spark of energy, quickly expanding as it tears reality apart, twisting everything around it.
-psionic-power-precognition-asakim-spawn-result-message = You smell stale air from a cryopod opening, and the faint echo of an intelligence far away but very near.
-psionic-power-precognition-pitbull-spawn-result-message = You see a vision of a hundred small creatures being torn apart by bloodthirsty beasts in a maze of steel.
-psionic-power-precognition-hitman-spawn-result-message = You see a man in a business suit, a corpse at their feet.
+psionic-power-precognition-xeno-vents-result-message = Перед вами постає видіння: зазирнувши за ріг, ви бачите, як химерна, хлюплива тварюка шматує нутрощі вашого колеги, котрий заходиться моторошним криком.
+psionic-power-precognition-mothroach-spawn-result-message = Ви бачите зголоднілу масу новонароджених створінь, які цокотять, верещать і впиваються жвалами в обшивку станції.
+psionic-power-precognition-listening-post-result-message = Ви чуєте какофонію чужих голосів крізь радіоперешкоди й отямлюєтеся з підступним відчуттям параної.
+psionic-power-precognition-paradox-anomaly-result-message = Ви бачите, як ваш колега роздвоюється. Там, де був один, тепер двоє. Ви не впевнені, хто з цих істот є вашим справжнім колегою.
+psionic-power-precognition-fugitive-result-message = За кожним рогом вам ввижаються гончаки — усі вони полюють на того, кому тут не місце.
+psionic-power-precognition-syndicate-recruiter-result-message = Ви бачите, як хтось перерізає ланки сітчастого паркана, щоб перекувати його розрізнені частини під новою кровною клятвою.
+psionic-power-precognition-synthesis-specialist-result-message = Ви відчуваєте запах небезпечної суміші хімікатів у повітрі; десь удалині з ревом запускається невеликий плазмовий двигун.
+psionic-power-precognition-cargo-gifts-base-result-message = Перед вами постає видіння, де ви зібралися заради прадавньої традиції отримання подарунків. Ви про них не просили, але все одно мусите вдати, що вдячні.
+psionic-power-precognition-anomaly-spawn-result-message = Ви намагаєтеся зазирнути в майбутнє, але воно спотворене спалахом ноосферної енергії, яка сходиться в одній точці.
+psionic-power-precognition-bluespace-artifact-result-message = Ви намагаєтеся зазирнути в майбутнє, але вас засліплює ноосферна енергія, що згущується в незбагненний предмет.
+psionic-power-precognition-bluespace-locker-result-message = Ви намагаєтеся зазирнути в майбутнє, але ноосфера здається викривленою через постійні коливання блуспейс-енергії.
+psionic-power-precognition-breaker-flip-result-message = Ви бачите, як навколо вас гаснуть смолоскипи, а доглядачі знову роздмухують втрачене полум'я.
+psionic-power-precognition-bureaucratic-error-result-message = Перед вами постає видіння, де ви пастці в кімнаті намагаєтеся скласти пазл, у якому бракує частин, а деякі — дублюються.
+psionic-power-precognition-clerical-error-result-message = Ви бачите, як колись знайомі обличчя ховаються в тумані перешкод, а особистості стираються.
+psionic-power-precognition-closet-skeleton-result-message = Ви чуєте, як у пильних закутках станції лунає тріскучий сміх і торохтять кістки.
+psionic-power-precognition-skia-result-message = Тіні довкола скрегочуть зубами й шматують вас; величезна тварюка ноосфери вистежує вас. Ви відчуваєте її подих на своїй шиї.
+psionic-power-precognition-dragon-spawn-result-message = Реальність навколо вас здимається й тріщить по швах, коли великий звір закликає до війни. Повітря наповнюється запахом солоного моря та крові.
+psionic-power-precognition-colossus-spawn-result-message = Ви бачите велетенську тінь потвори, настільки величезної, що вона занурює у темряву все під собою. Слідом за нею небезпечно зсувається сама ноосфера.
+psionic-power-precognition-ninja-spawn-result-message = Перед вами постає видіння ожилих тіней: хорти війни виють свої бойові кличі, переслідуючи когось темними закутками станції.
+psionic-power-precognition-revenant-spawn-result-message = Тіні довкола вас стають утричі вищими й утричі темнішими. Щось криється всередині них — хижак, який вистежує вас у пітьмі.
+psionic-power-precognition-gas-leak-result-message = На мить вам здається, ніби ви не можете дихнути. Ви кліпаєте очима, і все повертається до норми.
+psionic-power-precognition-kudzu-growth-result-message = Листя та ліани пробивають пильну плитку станції та обвивають ваші кісточки, намагаючись затягнути вас за собою.
+psionic-power-precognition-power-grid-check-result-message = Ви бачите, як навколо вас гаснуть смолоскипи, але за мить вони самочинно спалахують знову.
+psionic-power-precognition-solar-flare-result-message = Зорі сьогодні прекрасні: вони то стискаються, то розростаються, вистрілюючи в небо велетенськими спалахами, наче феєрверки.
+psionic-power-precognition-vent-clog-result-message = Штучний вітерець станції приносить жахливий сморід; на мить ваші очі застилає туман. Ви кліпаєте — і запах зникає.
+psionic-power-precognition-slimes-spawn-result-message = Щось криється глибоко в найтемніших кутках станції, жадаючи крові. Цей заклик супроводжується м'яким хлюпанням та булькаючим виттям.
+psionic-power-precognition-snake-spawn-result-message = Щось криється глибоко в найтемніших кутках станції, жадаючи крові. Цей заклик супроводжується сичанням та грізним буркотінням.
+psionic-power-precognition-spider-spawn-result-message = Щось криється глибоко в найтемніших кутках станції, жадаючи крові. Цей заклик супроводжується симфонією клацання та цокотіння.
+psionic-power-precognition-spider-clown-spawn-result-message = Щось криється глибоко в найтемніших кутках станції, жадаючи крові. Цей заклик супроводжується пекельною какофонією клоунських гудків.
+psionic-power-precognition-zombie-outbreak-result-message = Ваш колега лежить перед вами на холодній підлозі: череп розтрощений, очі порожні. Вам здається, що тіло здригається.
+psionic-power-precognition-lone-ops-spawn-result-message = Ви бачите видіння: тварюка в криваво-червоному панцирі сміється, шматок за шматком пожираючи станцію.
+psionic-power-precognition-sleeper-agents-result-message = Ви бачите життя очима якогось пересічного колеги. Слабке, але небезпечне дзижчання супроводжує вас біля основи його черепа. Воно схоже на радіоперешкоди.
+psionic-power-precognition-mass-hallucinations-result-message = Ви намагаєтеся зазирнути в майбутнє, але бачите лише фантасмагорію хаотичних образів.
+psionic-power-precognition-ion-storm-result-message = Ви бачите видіння, де щось непорушне руйнується й перековується на щось нове та хибне.
+psicons-power-precognition-meteor-swarm-result-message = Ви бачите вогняне видіння: падучі зорі летять із неба, прошиваючи кольоровими хвостами станцію, яку ви кличете домом.
+psionic-power-precognition-game-rule-urist-swarm-result-message = Ви бачите вогняне видіння... ЛЮДИ падають із неба! Кольорові хвости прошивають станцію, яку ви кличете домом.
+psionic-power-precognition-immovable-rod-spawn-result-message = Ви бачите вогняне видіння: ВЕЛЕТЕНСЬКА зоря падає з неба! Кольорові хвости прошивають станцію, яку ви кличете домом.
+psionic-power-precognition-mouse-migration-result-message = Ви бачите видіння: ви живе затісна істота, що снує під ногами у створінь, яких вам не збагнути.
+psionic-power-precognition-king-rat-migration-result-message = Ви бачите видіння: ви живе затісна істота, що снує під ногами у створінь, яких вам не збагнути.
+psionic-power-precognition-cockroach-migration-result-message = Ви бачите видіння: ви живе затісна істота, що снує під ногами у створінь, яких вам не збагнути.
+psionic-power-precognition-snail-migration-result-message = Ви бачите видіння: ви живе затісна істота, що снує під ногами у створінь, яких вам не збагнути.
+psionic-power-precognition-random-sentience-result-message = Щось яскраве та прекрасне спалахує у вашому третьому оці. Ніщо не викликає такого захвату, як нове життя.
+psionic-power-precognition-unknown-shuttle-cargo-lost-result-message = Ви бачите видіння: простий корабель старої Терри, що дрейфує в морі далеко від дому.
+psionic-power-precognition-unknown-shuttle-traveling-cuisine-result-message = Ви бачите видіння спокою: затишна страва шкварчить на теплій плиті. У повітрі лине апетитний аромат.
+psionic-power-precognition-unknown-shuttle-disaster-evac-pod-result-message = Ви бачите видіння смерті та крові, руйнування настільки повного, що вижили лише одиниці, які дрейфують у холодній порожнечі космосу.
+psionic-power-precognition-syndicate-armsdealer-result-message = Ви бачите видіння корабля, що криється в тіні, а його вантаж — смертоносний.
+psionic-power-precognition-rift-spawn-result-message = Ви бачите крихітну іскру енергії, яка стрімко розростається, шматуючи реальність і викривлюючи все довкола.
+psionic-power-precognition-asakim-spawn-result-message = Ви відчуваєте запах затхлого повітря з кріокапсули, що відкривається, та слабке відлуння розуму, який водночас далеко й зовсім поруч.
+psionic-power-precognition-pitbull-spawn-result-message = Ви бачите видіння: сотні дрібних істот, яких кровожерливі звірі шматують у сталевому лабіринті.
+psionic-power-precognition-hitman-spawn-result-message = Ви бачите чоловіка в діловому костюмі та труп біля його ніг.
 
 # Psionic Eruption
-psionic-eruption-begin = {CAPITALIZE(THE($user))} is being consumed by a psionic energy!
-psionic-eruption-annoy-minimal = You feel a pressure building up in your mind.
-psionic-eruption-annoy-low = Your head aches from the psionic energy.
-psionic-eruption-annoy-moderate = You feel a strong pressure in your mind. Make it stop!
-psionic-eruption-annoy-high = Your head is pounding from the psionic energy. You need to release it!
-psionic-eruption-annoy-dangerous = Your head is about to explode from the psionic energy!
-psionic-eruption-annoy-critical = Make it stop! Make it stop! Make it stop!
+psionic-eruption-begin = {CAPITALIZE(THE($user))} поглинається псіонічною енергією!
+psionic-eruption-annoy-minimal = Ви відчуваєте, як у вашому розумі зростає тиск.
+psionic-eruption-annoy-low = Ваша голова болить від псіонічної енергії.
+psionic-eruption-annoy-moderate = Ви відчуваєте сильний тиск у розумі. Нехай це припиниться!
+psionic-eruption-annoy-high = Голова розривається від псіонічної енергії. Вам потрібно випустити її!
+psionic-eruption-annoy-dangerous = Ваша голова ось-ось вибухне від псіонічної енергії!
+psionic-eruption-annoy-critical = Припиніть це! Припиніть це! Припиніть це!
 
-psionic-eruption-nuke-warning = Attention! An overwhelming psionic energy has been detected at {$location}.
+psionic-eruption-nuke-warning = Увага! У {$location} виявлено надпотужний сплеск псіонічної енергії.
 psionic-eruption-nuke-sender = ???
 
-psionic-eruption-not-enough-creatures = You need at least 3 living creatures nearby to unleash the eruption. You only have {$count}.
+psionic-eruption-not-enough-creatures = Вам потрібно щонайменше 3 живі істоти поблизу, щоб вивільнити виверження. У вас лише {$count}.
 
-eruption-warning-window-title = Your Brain isn't Ready!
-eruption-warning-window-prompt-text-part = You feel a strong pressure building up in your mind
-                                            and you need to release it before it overwhelms you.
-                                            When you are ready, you can unleash a psionic eruption.
-                                            Doing so will cause a massive psionic discharge, obliterating you entirely.
-                                            You should probably try to find a fix to that...
-                                            Do not detonately randomly, ensure proper buildup.
-                                            Do you understand?
-eruption-warning-window-acknowledge-button = I Understand
+eruption-warning-window-title = Ваш мозок не готовий!
+eruption-warning-window-prompt-text-part = Ви відчуваєте сильний тиск, що наростає у вашому розумі.
+                                            Вам потрібно випустити його, перш ніж він повністю поглине вас.
+                                            Коли будете готові, ви зможете вивільнити псіонічне виверження.
+                                            Це спричинить потужний псіонічний розряд, який повністю анігілює вас.
+                                            Мабуть, вам варто знайти спосіб цього уникнути...
+                                            Не детонуйте випадково, дочекайтеся повного накопичення.
+                                            Ви розумієте?
+eruption-warning-window-acknowledge-button = Я розумію
 
 ## Psionic Gamerule Messages
-gamerule-noospheric-zap-seize = An external eruption overwhelms your mind!
-gamerule-noospheric-zap-seize-potential-regained = Your mind restructures.. it demands knowledge...
+gamerule-noospheric-zap-seize = Зовнішнє виверження поглинає ваш розум!
+gamerule-noospheric-zap-seize-potential-regained = Ваш розум перебудовується... він прагне знань...
 
-psionic-nosebleed-message = Your nose starts gushing blood!
+psionic-nosebleed-message = У вас із носа починає хлистати кров!
 
-mass-mind-swap-event-announcement = Warning: abnormal glimmer discharge detected. Mass consciousness transfer event imminent, T-{$time} seconds. Please equip psionically-insulating headwear immediately.
-mass-mind-swap-event-sender = Sophic Grammateus
+mass-mind-swap-event-announcement = Увага: виявлено аномальний розряд глімеру. чікується масове перенесення свідомості через, T-{$time} сек. Будь ласка, негайно вдягніть псі-ізоляційні головні убори.
+mass-mind-swap-event-sender = Софічний Грамотій
 
-minor-mass-mind-swap-event-announcement = Warning: abnormal glimmer discharge detected. Minor Mass Consciousness transfer event imminent, T-{$time} seconds. Please equip psionically-insulating headwear immedieately.
-minor-mass-mind-swap-event-sender = Sophic Grammateus
+minor-mass-mind-swap-event-announcement = Увага: виявлено аномальний розряд глімеру. Очікується мале масове перенесення свідомості через, T-{$time} сек. Будь ласка, негайно вдягніть псі-ізоляційні головні убори.
+minor-mass-mind-swap-event-sender = Софічний Грамотій
 
-psionic-power-mass-sleep-warning = Your eyelids begin to droop...
+psionic-power-mass-sleep-warning = Ваші повіки починають важчати...
 
-telegnosis-power-ssd = { CAPITALIZE(POSS-ADJ($ent)) } eyes are unfocused and darting around, as if trying to see something that isn't there.
+telegnosis-power-ssd = Очі { CAPITALIZE(POSS-ADJ($ent)) } розфокусовані та бігають навколо, ніби намагаються побачити щось, чого тут немає.
 
-glimmer-restyle-event = You feel like something changed about your looks...
+limmer-restyle-event = Ви відчуваєте, ніби щось змінилося у вашому зовнішньому вигляді...

@@ -1,7 +1,7 @@
 
-cmd-spawncharacter-desc = Spawns your currently selected/specified character
-cmd-spawncharacter-help = Usage: spawncharacter [characterName] [job]
-cmd-spawncharacter-complete = Character spawned.
-cmd-spawncharacter-arg-character = [character]
-cmd-spawncharacter-arg-job = [job id]
-cmd-spawncharacter-error-job = Job is invalid or not provided. Defaulting to passenger.
+cmd-spawncharacter-desc = Створює вашого поточно обраного або вказаного персонажа.
+cmd-spawncharacter-help = Використання: spawncharacter [ім'я_персонажа] [посада]
+cmd-spawncharacter-complete = Персонажа створено.
+cmd-spawncharacter-arg-character = [персонаж]
+cmd-spawncharacter-arg-job = [id_посади]
+cmd-spawncharacter-error-job = Посада недійсна або не вказана. Призначено роль пасажира.
