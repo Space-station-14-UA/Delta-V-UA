@@ -1,6 +1,6 @@
 # DeltaV - Was security records computer board
-ent-CriminalRecordsComputerCircuitboard = criminal records computer board
-    .desc = A computer printed circuit board for a criminal records computer.
+ent-CriminalRecordsComputerCircuitboard = Плата комп'ютера кримінальних записів
+    .desc = Друкована плата для комп'ютера кримінальних записів.
 
-ent-StationRecordsComputerCircuitboard = employment records computer board
-    .desc = A computer printed circuit board for a employment records computer.
+ent-StationRecordsComputerCircuitboard = Плата комп'ютера особових справ
+    .desc = Друкована плата для комп'ютера особових справ.
