@@ -1,1 +1,1 @@
-thankyou-pride-4 = Go, do a crime!
+thankyou-pride-4 = Нумо, вчиняй злодіяння!

@@ -1,14 +1,14 @@
-armor-stamina-projectile-coefficient-value = - [color=yellow]Stamina projectile[/color] damage reduced by [color=lightblue]{$value}%[/color].
-armor-stamina-melee-coefficient-value = - [color=yellow]Stamina melee[/color] damage reduced by [color=lightblue]{$value}%[/color].
-armor-damage-type-soul = Soul
-armor-damage-type-holy = Radiant
+armor-stamina-projectile-coefficient-value = - Пошкодження [color=yellow]витривалості від снарядів[/color] знижено на [color=lightblue]{$value}%[/color].
+armor-stamina-melee-coefficient-value = - Пошкодження [color=yellow]витривалості в ближньому бою[/color] знижено на [color=lightblue]{$value}%[/color].
+armor-damage-type-soul = Духовне
+armor-damage-type-holy = Сяюче
 
-held-armor-examine = [color=cyan]Holding[/color] it provides the following protection:
+held-armor-examine = [color=cyan]Тримання[/color] цього предмета надає такий захист:
 
-held-armor-fail-examine = You do not pass the following requirements to profit from its protection:
-held-armor-whitelist-fail = You are not [color=yellow]{$reason}[/color].
-held-armor-blacklist-fail = You are [color=red]{$reason}[/color].
+held-armor-fail-examine = Ви не відповідаєте наступним вимогам, щоб отримати захист:
+held-armor-whitelist-fail = Ви не [color=yellow]{$reason}[/color].
+held-armor-blacklist-fail = Ви — [color=red]{$reason}[/color].
 
-held-armor-bible-user-fail = faithful
+held-armor-bible-user-fail = вірянином
 
-armor-damage-type-ion = Ion
+armor-damage-type-ion = Іонне

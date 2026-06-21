@@ -1,10 +1,10 @@
-preening-action-verb = Preen
+preening-action-verb = Чистити пір'я
 
-preening-popup-self = You begin to preen your feathers...
-preening-popup-other = You begin to preen { CAPITALIZE(THE($preenee)) }'s feathers...
-preening-popup-self-recipient = { CAPITALIZE(THE($preener)) } begins to preen your feathers!
+preening-popup-self = Ви починаєте чистити своє пір'я...
+preening-popup-other = Ви починаєте чистити пір'я { CAPITALIZE(THE($preenee)) }...
+preening-popup-self-recipient = { CAPITALIZE(THE($preener)) } починає чистити ваше пір'я!
 
-preening-feather-dropped-injured = You feel a feather get torn off!
+preening-feather-dropped-injured = Ви відчуваєте, як вирвалося перо!
 
-feather-bloody-name-modifier = bloody {$item}
-feather-bloody-desc = DEFINITELY not ethically sourced.
+feather-bloody-name-modifier = закривавлене {$item}
+feather-bloody-desc = ОДНОЗНАЧНО це було здобуто не етичним шляхом.

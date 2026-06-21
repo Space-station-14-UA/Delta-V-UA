@@ -1,21 +1,21 @@
-ent-CrateBaseLockBox = lock box
-    .desc = A secure lock box. Funds from its sale will be distributed back to the department. Just remember: Logistics always takes a cut.
+ent-CrateBaseLockBox = сейф-бокс
+    .desc = Захищений сейф-бокс. Кошти від його продажу будуть повернуті відповідному відділу. Тільки пам'ятайте: Логістика завжди забирає свою частку.
 
-ent-CrateLockBoxScience = epistemics lock box
+ent-CrateLockBoxScience = сейф-бокс епістеміки
 
-ent-CargoRequestScienceComputerCircuitboard = epistemics request computer board
-    .desc = A computer printed circuit board for a epistemics request computer.
+ent-CargoRequestScienceComputerCircuitboard = плата комп'ютера запитів епістеміки
+    .desc = Друкована плата для комп'ютера запитів відділу епістеміки.
 
-ent-ComputerCargoOrdersScience = epistemics request computer
-    .desc = Used by the epistemics department to order supplies.
+ent-ComputerCargoOrdersScience = комп'ютер запитів епістеміки
+    .desc = Використовується відділом епістеміки для замовлення припасів.
 
-ent-PaperAcquisitionSlip =
-    .desc = A slip with order details on it. It can be given to Logistics to complete the order.
+ent-PaperAcquisitionSlip = бланк замовлення
+    .desc = Бланк із деталями замовлення. Його можна передати до відділу Логістики для виконання замовлення.
 
-ent-PaperAcquisitionSlipScience =
-    .desc = A slip with order details on it. It can be given to Logistics to complete the order.
-    .suffix = Epistemics
+ent-PaperAcquisitionSlipScience = бланк замовлення
+    .desc = Бланк із деталями замовлення. Його можна передати до відділу Логістики для виконання замовлення.
+    .suffix = Епістеміка
 
-ent-PaperAcquisitionSlipCargo =
-    .desc = A slip with order details on it. It can be given to Logistics to complete the order.
-    .suffix = Logistics
+ent-PaperAcquisitionSlipCargo = бланк замовлення
+    .desc = Бланк із деталями замовлення. Його можна передати до відділу Логістики для виконання замовлення.
+    .suffix = Логістика

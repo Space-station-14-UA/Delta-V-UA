@@ -1,5 +1,5 @@
-sec-watch-program-name = SecWatch
-sec-watch-title = SecWatch 1.0
-sec-watch-no-entries = Everything's calm. Why not enjoy a Monkin Donut?
+sec-watch-program-name = СекВотч
+sec-watch-title = СекВотч 1.0
+sec-watch-no-entries = Усе спокійно. Чому б не з'їсти пончик «Мавпячий пончик»?
 sec-watch-entry = {$name}, {$job}
-sec-watch-no-reason = None given???
+sec-watch-no-reason = Причину не вказано???

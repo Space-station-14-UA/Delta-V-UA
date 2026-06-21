@@ -1,5 +1,5 @@
-gas-pipe-sensor-control-oxygen = Oxygen control
-gas-pipe-sensor-control-nitrogen = Nitrogen control
-gas-pipe-sensor-control-overpressure = Overpressure control
-gas-pipe-sensor-elegance-snow-distro = Snow Exhibit Air Input
-gas-pipe-sensor-elegance-snow-waste = Snow Exhibit Air Ouput
+gas-pipe-sensor-control-oxygen = Контроль кисню
+gas-pipe-sensor-control-nitrogen = Контроль азоту
+gas-pipe-sensor-control-overpressure = Контроль надлишкового тиску
+gas-pipe-sensor-elegance-snow-distro = Вхід повітря снігової експозиції
+gas-pipe-sensor-elegance-snow-waste = Вихід повітря снігової експозиції
