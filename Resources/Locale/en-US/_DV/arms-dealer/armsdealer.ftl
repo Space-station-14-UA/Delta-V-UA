@@ -1,3 +1,3 @@
-armsdealer-round-end-agent-name = Arms Dealer
+armsdealer-round-end-agent-name = Торговець зброєю
 
-armsdealer-role-briefing = You are syndicate arms dealer! Sell your firearms and stay away from the law.
+armsdealer-role-briefing = Ви — торговець зброєю Синдикату! Продавайте свою вогнепальну зброю та тримайтеся подалі від закону.

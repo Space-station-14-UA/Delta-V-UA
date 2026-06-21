@@ -1,1 +1,1 @@
-ent-BoxQMStamps = LO's stamp box
+ent-BoxQMStamps = Коробка зі штампами офіцера з логістики

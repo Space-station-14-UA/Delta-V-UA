@@ -1,1 +1,1 @@
-deltav-rat-king-domain-popup = A cloud of miasma is released into the air!
+deltav-rat-king-domain-popup = У повітря виривається хмара міазмів!
