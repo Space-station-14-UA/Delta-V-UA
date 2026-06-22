@@ -1,0 +1,23 @@
+- type: entity
+  parent: BasePlushie
+  id: ErestPlushie
+  name: Іграшка Ереста
+  description: Іграшка чувака з станції. Ви пригадуєте, що вже бачили його десь. Йоу.
+  components:
+  - type: Sprite
+    sprite: _DV/Objects/Fun/Toys/Eresttoy.rsi
+    state: icon
+  - type: Item
+    size: Normal
+    sprite: _DV/Objects/Fun/Toys/Eresttoy.rsi
+  - type: Clothing
+    quickEquip: false
+    sprite: _DV/Objects/Fun/Toys/Eresttoy.rsi
+    slots:
+    - HEAD
+  - type: EmitSoundOnUse
+    sound:
+      path: /Audio/_DV/Items/Erest.ogg
+  - type: EmitSoundOnLand
+    sound:
+      path: /Audio/_DV/Items/Erest.ogg
